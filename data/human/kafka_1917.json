@@ -1,0 +1,19 @@
+{
+  "id": "kafka_1917",
+  "title": "Kleine Seele",
+  "author": "Franz Kafka",
+  "year": 1917,
+  "context": {
+    "historical": "Existenzialistische Darstellung innerer Zerrissenheit; biografischer Kontext der Entfremdung; Kafka als Referenz für Tagebuch-Gedichte; ab 1950er Jahren Datenquelle für digitale Poesie.",
+    "emotional": [
+      "Entfremdung",
+      "Innere Zerrissenheit",
+      "Existenzangst",
+      "Melancholie",
+      "Isolation",
+      "Unbehagen"
+    ]
+  },
+  "type": "human",
+  "text": "Kleine Seele\nspringst im Tanze\nlegst in warme Luft den Kopf\nhebst die Füsse aus glänzendem Grase\ndas der Wind in zarte Bewegung treibt"
+}

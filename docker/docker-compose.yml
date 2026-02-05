@@ -1,0 +1,10 @@
+services:
+  poesie-dev:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: poesie-dev
+    volumes:
+      - ..:/workspace:cached
+    working_dir: /workspace
+    tty: true
