@@ -1,0 +1,14 @@
+{
+  "ai-poem-id": "ai_heine_1844",
+  "human-poem-id": "heine_1844",
+  "type": "ai",
+  "generator": {
+    "created_at": "2026-02-13T08:26:22.510682+00:00",
+    "prompt_id": "prompt_heine",
+    "backend": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.8,
+    "max_tokens": 500
+  },
+  "text": "Im Dämmergrau der Hütten kauert\nder Hunger, bleich wie Winterschein,\nund durch die morschen Balken schauert\ndes Elends langer, stummer Pein.\n\nEs klappert noch der Webstuhl leise,\nals wär er selbst des Jammers Knecht,\ner schlägt im Takt die Trauerweise\nvom Lohn, der nie dem Fleiß entspricht.\n\nO Schlesiens geduld’ge Hände,\nvon Schwielen hart, vom Frost zerfurcht,\nwie oft schon rangt ihr ohne Ende\nmit Notdurft, Willkür, kalter Furcht!\n\nDer Kaufherr zählt in warmen Stuben\nden Gewinn aus eurem Blut und Schweiß;\nindes in feuchten, dunklen Gruben\ndas Kindlein friert, das Brot ist heiß—\ndoch nicht für euch, die ihr es webet,\nnicht für euch selbst der Tuches Pracht;\nwer Gold auf euren Schultern hebet,\nhat euch in Ketten festgemacht.\n\nIhr webt am Tuch der reichen Herren,\nihr webt an eurer eignen Not;\ndie Fäden, die die Finger zerren,\nsind Fäden aus Geduld und Brot.\n\nDoch hört! Es grollt in euren Reihen\nein Ton, der nicht mehr kläglich klingt;\nes ist, als ob aus tausend Schreien\nein neues, wildes Lied entspringt.\n\nDer Webstuhl wird zum Hammerdröhnen,\ndas Garn zur Sehne, straff gespannt;\nnicht länger wollt ihr still euch höhnen,\nnicht länger krümmt sich eure Hand.\n\nIhr schaut empor zu grauen Mauern,\nwo Recht im Purpur sich versteckt,\nund fühlt: Wenn wir noch länger kauern,\nso bleibt die Menschheit ungeweckt.\n\nDrum reißt die Fäden aus den Rahmen!\nZerbrecht den Stuhl, der euch versklavt!\nSchreibt euren Zorn mit Flammennamen\nan jede Tür, die euch betraft!\n\nNicht Raub ist’s, wenn der Hunger fordert,\nnicht Frevel, wenn die Not sich wehrt;\nwer Menschenwürde stets ermordet,\nhat selbst das Recht zuerst entehrt.\n\nO schles’sche Brüder, eure Klage\nist mehr als bloßer Schmerz und Streit;\nsie ist der Keim zu neuem Tage,\nzu Freiheit, Brot und Gerechtigkeit.\n\nUnd wenn auch Bajonette blitzen\nund Kerker drohn in finstrer Nacht—\nein Volk, das lernt, sich selbst zu schützen,\nhat schon den ersten Sieg vollbracht."
+}

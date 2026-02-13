@@ -1,0 +1,14 @@
+{
+  "ai-poem-id": "ai_hoelderlin_1804",
+  "human-poem-id": "hoelderlin_1804",
+  "type": "ai",
+  "generator": {
+    "created_at": "2026-02-13T08:26:22.511696+00:00",
+    "prompt_id": "prompt_hoelderlin",
+    "backend": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.8,
+    "max_tokens": 500
+  },
+  "text": "Der Abend sinkt mit blassem, müdem Scheine\nAuf meine Stirn, die heiß von Grübeln brennt;\nEin kalter Hauch fährt durch die welken Haine,\nAls ob die Zeit mein heimlich Weinen kennt.\n\nIch steh allein im dämmernden Gefilde,\nWo fern ein letzter Vogel klagend zieht;\nSein Ruf verhallt im schwermutsvollen Wilde,\nGleich meiner Hoffnung, die im Schatten flieht.\n\nO Herz, wie pochst du bang im engen Leibe,\nAls ahntest du des Schicksals dunklen Gang!\nEin leiser Riss geht durch die Lebensscheibe,\nUnd jeder Atem währt mir schon zu lang.\n\nIch fühle nah die Schritte jener Stunde,\nDie still und ernst an meine Türe klopft;\nSie legt mir Reif um jede frische Wunde\nUnd löscht das Feuer, das im Busen tropft.\n\nVergänglichkeit, du heimlich bittre Blume,\nDie aus dem Staube unsrer Tage blüht—\nSchon streust du Duft von frühem, kaltem Ruhme\nAuf alles, was in junger Glut erglüht.\n\nSo will ich denn im letzten Abendrote\nNoch einmal schaun der Wolken goldnes Blut;\nVielleicht birgt selbst der Schattenbote\nEin mildes Licht in seiner dunklen Flut.\n\nUnd sink ich einst im nächtlich tiefen Schweigen,\nVom Sturm der Zeit ermattet und gebeugt—\nSo mag mein Sehnen wie ein Stern sich zeigen,\nDer über Grab und Gram hinauf sich neigt."
+}

@@ -85,7 +85,8 @@ def generate_with_transformers(gen, prompt_text: str, seed: int = DEFAULT_LOCAL_
         do_sample=True,
         top_p=top_p,
         temperature=temperature,
-        num_return_sequences=1
+        num_return_sequences=1,
+        truncation=True
     )
 
     text = out[0]["generated_text"]

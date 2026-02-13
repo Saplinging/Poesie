@@ -1,0 +1,14 @@
+{
+  "ai-poem-id": "ai_celan_1945",
+  "human-poem-id": "celan_1945",
+  "type": "ai",
+  "generator": {
+    "created_at": "2026-02-13T08:26:22.509139+00:00",
+    "prompt_id": "prompt_celan",
+    "backend": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.8,
+    "max_tokens": 500
+  },
+  "text": "Ich schreibe mit Asche in die Luft,\nwo einst der Name meiner Mutter stand.\nDer Wind verweht ihn ohne Gruß,\nals hätte ihn nie eine Hand gekannt.\n\nDie Schienen glänzen noch im Mond,\nwie kalte Adern ohne Blut.\nSie führten fort, was in mir wohnt,\nund ließen mir nur Schweigen, Glut.\n\nIm Lager roch die Zeit nach Staub,\nnach Angst, nach Hunger, dünn und grau.\nDer Morgen kam wie stumpfer Raub,\nder Abend fiel wie schwerer Tau.\n\nMein Vater sprach im Flüsterton\nvom Psalm, der uns zusammenhielt.\nDoch Stacheldraht war unser Lohn,\nder jede Hoffnung langsam stiehlt.\n\nIch trage Nummer statt Gesicht,\nmein Name sank in dunklen Grund.\nUnd doch, im heimlichsten Gedicht,\nbleibt er mir leise auf dem Mund.\n\nIch klage nicht dem Himmel laut,\ner schwieg zu viel in jener Nacht.\nIch klage in das Wort, das taut,\nwenn Mensch den Menschen umgebracht.\n\nO Erde, die sie decken muss,\nsei weicher als das Herz der Welt.\nBewahre ihren letzten Kuss\nim Staub, der sanft auf Gräber fällt.\n\nDenn aus dem Riss in meiner Brust\nwächst trotzig noch ein dünner Klang:\nDass Leben stärker sei als Lust\nan Hass — und länger als der Zwang.\n\nUnd wenn ich schreibe, brennt mein Wort,\nwie Kerzen in zerbrochnem Glas.\nFür sie. Für dort. Für jeden Ort,\nwo Finsternis das Licht vergaß."
+}

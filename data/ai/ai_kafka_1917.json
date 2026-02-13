@@ -1,0 +1,14 @@
+{
+  "ai-poem-id": "ai_kafka_1917",
+  "human-poem-id": "kafka_1917",
+  "type": "ai",
+  "generator": {
+    "created_at": "2026-02-13T08:26:22.512291+00:00",
+    "prompt_id": "prompt_kafka",
+    "backend": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.8,
+    "max_tokens": 500
+  },
+  "text": "Die Tage hängen wie nasse Mäntel\nan den Schultern der Stadt,\nschwer von Atem und Rauch.\nKanonen grollen hinter dem Horizont\nwie ferne, unermüdliche Gewitter,\ndoch kein Regen fällt,\nnur Asche.\n\nIch gehe durch Straßen,\ndie mich nicht kennen.\nFenster starren mich an\nmit blinden Augen,\nund in jedem Schritt\nzittert ein fremdes Echo,\nals gehöre mein Fuß nicht mehr mir.\n\nDie Welt ist ein verschlossenes Zimmer,\ndessen Schlüssel ich verlor\nin einem Traum aus Kindheit und Licht.\nNun taste ich an kalten Wänden entlang,\nfinde Risse,\nfinde Staub,\ndoch keine Tür.\n\nIn mir aber\npocht ein leiser Schreiber,\nkrümmt sich über das weiße Feld\nwie über ein Schneefeld ohne Spur.\nMit schwarzer Tinte\nziehe ich Linien gegen das Verstummen,\nbaue mir aus Worten\nein dürftiges Dach.\n\nDenn draußen friert die Zeit,\nund Menschen reden\nmit Mündern voll Schatten.\nFreundschaft zerfällt wie dünnes Glas,\nLiebe weht wie Papier im Wind,\nund Gott steht fern\nwie ein verriegelter Bahnhof.\n\nSo schreibe ich.\nNicht um zu hoffen —\nHoffnung ist ein Tier,\ndas mich nicht mehr erkennt —\nsondern um nicht ganz\nzu zerfallen\nin diese fremde,\nunzugängliche Nacht."
+}

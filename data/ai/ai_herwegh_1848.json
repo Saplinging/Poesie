@@ -1,0 +1,14 @@
+{
+  "ai-poem-id": "ai_herwegh_1848",
+  "human-poem-id": "herwegh_1848",
+  "type": "ai",
+  "generator": {
+    "created_at": "2026-02-13T08:26:22.511176+00:00",
+    "prompt_id": "prompt_herwegh",
+    "backend": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.8,
+    "max_tokens": 500
+  },
+  "text": "Es gärt die Zeit in dunkler Brust,\nEin Sturm hebt an mit wildem Schrei,\nDurch Nacht und Not, durch Zwang und Frust\nRuft laut das Volk: „Wir wollen frei!“\n\nZerbrecht die Ketten, schwer und alt,\nDie Fürstenmacht, vom Staub umweht!\nZu lang schon hielt uns kalte Gewalt\nIm Joch, das uns zu Boden dreht.\n\nNun lodert hell in jedem Blick\nDer Freiheit heil’ges Morgenrot,\nKein Schritt zurück, kein Weg zurück,\nUnd kostet es uns Gut und Brot.\n\nWir sind nicht Staub im Wind der Zeit,\nNicht stumme Schar im Fürstensaal –\nWir sind das Volk, zum Schwur bereit,\nWir tragen Hoffnung wie ein Mal.\n\nEs hallt der Ruf von Stadt zu Land,\nVon Rhein und Donau, Berg und Meer:\nEin einiges, ein freies Band,\nKein Knecht mehr unter Zepterheer!\n\nSo schwören wir bei Herz und Hand,\nBei Träne, Blut und Mutesschein:\nEs soll in diesem deutschen Land\nEin Reich der freien Bürger sein.\n\nUnd fällt auch mancher Bruder hier,\nSein Opfer nährt der Zukunft Saat –\nDenn Freiheit wächst aus Kampf und Zier,\nUnd aus des Volkes heil’ger Tat."
+}

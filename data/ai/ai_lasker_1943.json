@@ -1,0 +1,14 @@
+{
+  "ai-poem-id": "ai_lasker_1943",
+  "human-poem-id": "lasker_1943",
+  "type": "ai",
+  "generator": {
+    "created_at": "2026-02-13T08:26:22.512813+00:00",
+    "prompt_id": "prompt_lasker",
+    "backend": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.8,
+    "max_tokens": 500
+  },
+  "text": "Zwischen Kalkstein und grellem Licht\nstehe ich wie ein versetzter Laut,\naus dem Satz der Heimat\nherausgeschnitten.\n\nJerusalem trägt ein anderes Blau,\nein hartes, unbeugsames Blau,\ndas meine Augen nicht kennen\naus den milden Himmeln über der Elbe.\n\nDie Zypressen sprechen hebräisch im Wind,\nund ich antworte ihnen\nmit einem deutschen Herzschlag,\nder sich selbst fremd geworden ist.\n\nMeine Mutterlaute liegen\nunter Schnee begraben,\nwährend hier der Staub\nan meine knöchellangen Schatten greift.\n\nIch schreibe mit zitternder Feder\ngegen das Vergessen an,\nals könnte ich durch Worte\neine Brücke schlagen\nüber das brennende Meer der Jahre.\n\nNachts falte ich die Sehnsucht\nwie einen verbotenen Brief,\nden ich nicht mehr abschicken kann.\nDie Namen der Straßen,\ndie Namen der Toten,\nsie wohnen in mir\nwie unerhörte Gebete.\n\nUnd doch –\nim Riss meiner Stimme\nwächst ein anderer Klang.\nVielleicht ist Exil\nnicht nur Verlust,\nsondern eine schmale Pforte,\ndurch die die Seele lernt,\nbarfuß zu gehen.\n\nIch trage meine Heimat\nnicht mehr in Landkarten,\nsondern in der verwundeten Musik\nmeiner Verse.\n\nWenn ich falle,\nwird Staub mich decken,\nhier oder dort –\ndoch meine Worte\nwerden heimwärts wandern,\nleichter als Asche,\nund sich niederlassen\nauf den Lippen der Zukunft."
+}

@@ -1,0 +1,14 @@
+{
+  "ai-poem-id": "ai_trakl_1914",
+  "human-poem-id": "trakl_1914",
+  "type": "ai",
+  "generator": {
+    "created_at": "2026-02-13T08:26:22.513370+00:00",
+    "prompt_id": "prompt_trakl",
+    "backend": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.8,
+    "max_tokens": 500
+  },
+  "text": "Am Abend schreien die herbstlichen Wälder\nVon blutdurchtränkter Dämmerung.\nEin fahler Mond hängt über zerbrochenen Feldern,\nWo die Geschütze heiser verstummen\nUnd die Erde noch bebt vom Sterben.\n\nSchwarze Pferde stürzen ins Schweigen,\nIhre Augen weit wie das Entsetzen der Brüder.\nZerschmetterte Münder flüstern nach Müttern,\nNach Gott — doch der Himmel ist Eisen,\nUnd kein Stern fällt herab.\n\nIch stand zwischen ihnen,\nDie Hände voll fremden Blutes,\nUnd wusste nicht mehr,\nOb es Schuld war oder bloß\nDas Zittern eines verlorenen Herzens.\n\nO Grodek, dein Abend\nBrennt in meinen Lidern.\nPurpurner Nebel steigt aus den Wunden der Hügel,\nUnd durch die kahlen Bäume\nWeht der Atem der Gefallenen.\n\nLeise sinkt die Sonne\nIn ein Meer aus Asche.\nDie Schatten der Toten\nWachsen in mir weiter\nWie dunkle Saat.\n\nUnd ich — ein Rest von Stimme im Sturm —\nTrage das Schweigen heim\nIn eine Welt,\nDie nie erfahren wird,\nWie laut ein Mensch im Sterben ist."
+}

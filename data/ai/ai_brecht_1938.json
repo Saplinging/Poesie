@@ -1,0 +1,14 @@
+{
+  "ai-poem-id": "ai_brecht_1938",
+  "human-poem-id": "brecht_1938",
+  "type": "ai",
+  "generator": {
+    "created_at": "2026-02-13T08:26:22.507728+00:00",
+    "prompt_id": "prompt_brecht",
+    "backend": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.8,
+    "max_tokens": 500
+  },
+  "text": "Ich schreibe im Schatten fremder Dächer,\nwo die Sprache wie ein Flüchtling friert,\nwo jedes Wort den Atem anhält\nund die Nacht die Namen der Freunde verschluckt.\n\nDie Heimat liegt hinter Stacheldraht aus Lügen,\nzerfressen vom Marschtritt blecherner Kehlen,\nvom Fackelschein, der Bücher fraß\nund auch die Herzen schwärzte.\n\nMan sagt, ich sei entronnen.\nDoch was ist Flucht,\nwenn das Vaterland im Traum erscheint\nmit verbrannten Augen?\n\nIch trage Deutschland in der Tasche\nwie einen zerknitterten Brief,\ndessen Schrift von Tränen verschwimmt,\ndessen Siegel zerbrochen ist.\n\nSchuld geht neben mir wie ein Bruder.\nNicht weil ich schwieg —\nsondern weil mein Schweigen\nnicht laut genug war.\n\nVerantwortung ist ein scharfes Brot,\nan dem die Zunge blutet.\nIch esse es dennoch,\nTag für Tag.\n\nDenn Worte sind das Einzige,\nwas sie mir nicht nehmen konnten.\nKeine Uniform passt ihnen an,\nkein Gleichschritt zwingt sie nieder.\n\nIch schreibe gegen Mauern,\ngegen Fahnen, die wie Wunden wehen,\ngegen die Angst, die sich\nin Kinderkehlen einnistet.\n\nUnd manchmal, wenn die Dämmerung\nnicht nur grau, sondern silbern ist,\nglaube ich ein anderes Morgen zu hören —\nleise, aber ungebrochen.\n\nVielleicht kehren wir heim\nin ein Land ohne Echo der Stiefel,\nwo das Denken wieder atmen darf\nund die Bücher wie Vögel sind.\n\nBis dahin halte ich die Feder\nwie andere ein verborgenes Messer.\nNicht um zu töten —\nsondern um das Dunkel aufzuschneiden."
+}

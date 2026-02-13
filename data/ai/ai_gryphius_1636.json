@@ -1,0 +1,14 @@
+{
+  "ai-poem-id": "ai_gryphius_1636",
+  "human-poem-id": "gryphius_1636",
+  "type": "ai",
+  "generator": {
+    "created_at": "2026-02-13T08:26:22.510237+00:00",
+    "prompt_id": "prompt_gryphius",
+    "backend": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.8,
+    "max_tokens": 500
+  },
+  "text": "Ich wandle durch verheerte Gassen,\nwo Rauch den grauen Himmel frisst,\nwo Türme stürzen, Glocken schweigen\nund Gottes Antlitz dunkel ist.\n\nDer Acker liegt in schwarzer Asche,\nkein Halm sich aus der Erde hebt;\nder Pflug verrostet, Pferde faulen,\nder Bauer hungert, alldieweil er lebt.\n\nDie Kinder weinen ohne Tränen,\nihr Blick ist alt wie Winters Nacht;\ndie Mutter wiegt ein totes Kindlein,\nvom Fieber heiß, vom Krieg umgebracht.\n\nEs reitet durch die wunden Lande\nder Krieg auf blut’gem Ross daher,\nsein Mantel ist aus Flammen gewebet,\nsein Atem Pestilenz und Speer.\n\nIch sah die Städte niederbrennen,\nsah Bruder wider Bruder stehn;\nder eine schrie nach Gottes Gnade,\nder andre ließ das Schwert erhöhn.\n\nWo einst Gesang und Marktgetümmel,\nda nistet nun der Rabe schwarz;\ner krächzt sein Lied von eitler Hoffnung,\nvon Menschenwerk und Herzen harz.\n\nO Welt, du bist ein morsches Haus,\nvon Sturm und Sünde unterhöhlt;\ndein Glanz ist Staub, dein Ruhm nur Schatten,\nder Tod ist’s, der dich treu vermählt.\n\nDoch in der tiefsten Nacht der Seelen,\nwenn alles Licht zu Asche sank,\nglimmt leise noch ein Fünkchen Glaube\nim Leid, im Hunger, im Gestank.\n\nSo schreib ich dies mit zitternd Feder,\ngetränkt in Tränen, Blut und Pein:\nWas hier zerfällt in Rauch und Klage,\nwird einst vor Gottes Augen sein."
+}

@@ -1,0 +1,14 @@
+{
+  "ai-poem-id": "ai_goethe_1771",
+  "human-poem-id": "goethe_1771",
+  "type": "ai",
+  "generator": {
+    "created_at": "2026-02-13T08:26:22.509755+00:00",
+    "prompt_id": "prompt_goethe",
+    "backend": "openai",
+    "model": "gpt-4o-mini",
+    "temperature": 0.8,
+    "max_tokens": 500
+  },
+  "text": "O holde Stunde, da Dein Blick mich traf,\nwie Frühlingslicht durch düstre Winterzweige,\nda meine Brust, die lange schlummernd lag,\nin junger Glut zum ersten Male brannte.\n\nEs war, als stürbe alle Welt in mir\nund würde neu aus Deinem Atem schaffen;\nals sei mein Herz ein bebend Saitenspiel,\ndas nur Dein leiser Finger rühren dürfe.\n\nIch sah Dich stehn im goldnen Abendschein,\nein Engel nicht – nein, mehr: ein fühlend Wesen,\ndem jede Regung, jedes zarte Wort\naus warmer, sterblicher Empfindung quoll.\n\nO wie ich bebte, wenn Dein Name klang!\nEr war mir Quell und Abgrund, Stern und Wunde.\nIn Deinem Lächeln lag mein Himmelreich,\nin Deinem Schweigen schon des Sturmes Drohung.\n\nWir wandelten durch junge Maienfelder,\nder Tau noch frisch an unsern leichten Schritten;\ndie Lerche stieg, als trüge sie mein Herz\nempor in unermessne Seligkeiten.\n\nDoch ach! Wie bald schlich sich das Schicksal ein,\nein kalter Hauch durch blühende Gefilde.\nEin Wort – zu schwer für meine trunkne Brust –\nund alles Licht zerbrach in fahle Splitter.\n\nDu gingst. Ich sah Dich gehn. Kein Laut entwich,\nals stürz’ ein Turm in meines Innern Tiefen.\nNur meine Seele schrie Dir lautlos nach\nund rang die Hände in verlassner Nacht.\n\nNun irr’ ich einsam unter stummen Sternen,\nund jeder trägt Dein Bild in kaltem Glanze.\nDie Welt ist weit – doch enger als mein Schmerz,\nder grenzenlos in meinem Busen wütet.\n\nUnd dennoch – süß ist selbst der bittre Brand,\nden Deine Liebe unauslöschlich nährte.\nDenn was ich litt, war Leben, war ich selbst,\nwar Herz, das fühlte, litt – und ewig liebt."
+}
