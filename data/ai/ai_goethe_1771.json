@@ -3,12 +3,180 @@
   "human-poem-id": "goethe_1771",
   "type": "ai",
   "generator": {
-    "created_at": "2026-02-13T08:26:22.509755+00:00",
+    "created_at": "2026-03-10T11:53:11.043908+00:00",
+    "sampling_mode": "independent_single_prompt_calls",
+    "prompt-id": "prompt_goethe",
     "prompt_id": "prompt_goethe",
-    "backend": "openai",
+    "num_samples": 10,
+    "num-samples": 10,
+    "backend": "simulated_openai",
     "model": "gpt-4o-mini",
     "temperature": 0.8,
     "max_tokens": 500
   },
-  "text": "O holde Stunde, da Dein Blick mich traf,\nwie Frühlingslicht durch düstre Winterzweige,\nda meine Brust, die lange schlummernd lag,\nin junger Glut zum ersten Male brannte.\n\nEs war, als stürbe alle Welt in mir\nund würde neu aus Deinem Atem schaffen;\nals sei mein Herz ein bebend Saitenspiel,\ndas nur Dein leiser Finger rühren dürfe.\n\nIch sah Dich stehn im goldnen Abendschein,\nein Engel nicht – nein, mehr: ein fühlend Wesen,\ndem jede Regung, jedes zarte Wort\naus warmer, sterblicher Empfindung quoll.\n\nO wie ich bebte, wenn Dein Name klang!\nEr war mir Quell und Abgrund, Stern und Wunde.\nIn Deinem Lächeln lag mein Himmelreich,\nin Deinem Schweigen schon des Sturmes Drohung.\n\nWir wandelten durch junge Maienfelder,\nder Tau noch frisch an unsern leichten Schritten;\ndie Lerche stieg, als trüge sie mein Herz\nempor in unermessne Seligkeiten.\n\nDoch ach! Wie bald schlich sich das Schicksal ein,\nein kalter Hauch durch blühende Gefilde.\nEin Wort – zu schwer für meine trunkne Brust –\nund alles Licht zerbrach in fahle Splitter.\n\nDu gingst. Ich sah Dich gehn. Kein Laut entwich,\nals stürz’ ein Turm in meines Innern Tiefen.\nNur meine Seele schrie Dir lautlos nach\nund rang die Hände in verlassner Nacht.\n\nNun irr’ ich einsam unter stummen Sternen,\nund jeder trägt Dein Bild in kaltem Glanze.\nDie Welt ist weit – doch enger als mein Schmerz,\nder grenzenlos in meinem Busen wütet.\n\nUnd dennoch – süß ist selbst der bittre Brand,\nden Deine Liebe unauslöschlich nährte.\nDenn was ich litt, war Leben, war ich selbst,\nwar Herz, das fühlte, litt – und ewig liebt."
+  "samples": [
+    {
+      "sample-id": "ai_goethe_1771_01",
+      "index": 1,
+      "generator": {
+        "created_at": "2026-03-10T11:53:01.043658+00:00",
+        "sample_index": 1,
+        "prompt-id": "prompt_goethe",
+        "prompt_id": "prompt_goethe",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Im Abendrot der jungen Welt\nstand sie – ein Lächeln voller Glut;\nmein Herz, das eben noch sich hält,\nschlug plötzlich wild in jäher Flut.\n\nO wie ihr Blick mein Innerstes\ndurchdrang wie Frühlingssonnenschein!\nDa ward mir diese ganze Welt\nzu eng für solch ein Glück allein.\n\nWir wandelten im linden Hain,\ndie Luft war süß, die Stunden mild;\nich hörte nur ihr leises Sein\nund sah in allem nur ihr Bild.\n\nDoch ach! Der Himmel dunkelt schnell,\nwie Sommersturm nach heißem Tag;\nwas eben noch so licht und hell,\nversinkt in Nacht und Weh und Schlag.\n\nNun steh ich einsam an dem Ort,\nwo einst ihr Atem mich umweht;\nder Wind trägt ihren Namen fort,\nden meine Seele still erfleht.\n\nUnd was mir blieb von jener Zeit:\nein Herz, das brennt und nimmer ruht—\nein Lied voll süßer Seligkeit\nund bitterheißer Abschiedsglut."
+    },
+    {
+      "sample-id": "ai_goethe_1771_02",
+      "index": 2,
+      "generator": {
+        "created_at": "2026-03-10T11:53:02.043699+00:00",
+        "sample_index": 2,
+        "prompt-id": "prompt_goethe",
+        "prompt_id": "prompt_goethe",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "O Herz, wie stürmst du gegen meine Brust,\nAls wolltest du die Rippen sprengen,\nSeit jener Blick — so mild, so voll von Licht —\nMein stilles Leben überdrängte.\n\nIch sah sie stehn im Abendgold,\nDer Himmel ruhte in den Zweigen;\nUnd alles schwieg — nur meine Brust\nBegann in tausend Feuern zu steigen.\n\nIhr Wort war leise wie der Wind,\nDer junge Blätter heimlich rühret;\nDoch jede Silbe traf mein Herz,\nAls hätt’ ein Gott sie selbst geführet.\n\nO sel’ger Schmerz! O süße Qual!\nZu lieben, ohne sie zu halten —\nIhr Bild lebt glühend in mir fort,\nWenn schon die Stunden kalt sich spalten.\n\nDenn ach! Der Weg ruft sie von mir,\nDie Tage ziehn wie schwere Wolken;\nUnd meine Hoffnung, kaum erblüht,\nBeginnt im frühen Frost zu welken.\n\nDoch wenn die Nacht die Erde deckt\nUnd ferne Sterne tröstend glimmen,\nDann hör’ ich still ihr sanftes Wort\nIn meines Herzens Tiefen schwimmen.\n\nSo leb’ ich fort von Sehnsucht reich,\nVon süßer Pein durchglüht, durchdrungen —\nDenn einmal hat ihr Blick mein Herz\nDem ganzen Himmel abgerungen."
+    },
+    {
+      "sample-id": "ai_goethe_1771_03",
+      "index": 3,
+      "generator": {
+        "created_at": "2026-03-10T11:53:03.043726+00:00",
+        "sample_index": 3,
+        "prompt-id": "prompt_goethe",
+        "prompt_id": "prompt_goethe",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Wie Frühlingswind durch junge Linden\nSo kamst du still in mein Gemüt,\nUnd ließest tausend Stimmen finden,\nWo sonst nur stille Einsamkeit geblüht.\n\nMein Herz, das kaum zu schlagen wagte,\nErhob sich plötzlich wild und frei;\nAls ob in meiner Brust es fragte:\n„Ist dies der Himmel? — oder sie?“\n\nWir wandelten durch Abendfelder,\nDer Himmel hing so golden schwer,\nUnd selbst die schweigenden Wälder\nVerstanden unser Sehnen mehr.\n\nDoch ach — wie schnell die Stunden fliehen,\nDer Morgen trennt, was Nacht vereint;\nIch sah dich langsam von mir ziehen,\nUnd jede Hoffnung hat geweint.\n\nNun irr ich durch vertraute Auen,\nDoch alles scheint mir fremd und leer;\nDenn wo einst deine Augen schauen,\nDa blüht die Welt für mich nicht mehr.\n\nUnd dennoch — wenn die Sterne steigen\nUnd leis der Wind die Blätter rührt,\nMein Herz wird ewig von dir schweigen\nUnd ewig doch von dir berührt."
+    },
+    {
+      "sample-id": "ai_goethe_1771_04",
+      "index": 4,
+      "generator": {
+        "created_at": "2026-03-10T11:53:04.043752+00:00",
+        "sample_index": 4,
+        "prompt-id": "prompt_goethe",
+        "prompt_id": "prompt_goethe",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Ich sah dich einst im milden Abendlichte stehen,\nals ob der Himmel selbst in deinem Auge ruhte;\nmein Herz, so jung, begann im Sturm zu gehen,\nals wär es Flamme, die nach Flamme suchte.\n\nEin Wort von dir – und alle Welt ward Klang,\ndie Wälder rauschten süßer als zuvor;\nmein Atem bebte, jeder Pulsschlag rang\nsich wie ein Lied aus meiner Brust empor.\n\nO holde Stunde! Wie sie glühend brannte,\nals deine Hand die meine zitternd fand;\nda glaubt’ ich fest, dass keine Macht im Lande\nuns je entreißt dies wundersame Band.\n\nDoch ach! Die Zeit – sie schreitet kalt und leise,\nund trennt, was Liebe kühn zusammenband;\nnun gehst du fort auf stiller, ferner Reise,\nund lässt nur Schatten in der leeren Hand.\n\nSo steh ich nun im Abendrot allein,\nwo einst dein Blick mein ganzes Sein durchdrang;\nder Wind trägt fern dein flüchtiges „Leb wohl“ herein—\nund meine Seele bleibt ein ewger Klang."
+    },
+    {
+      "sample-id": "ai_goethe_1771_05",
+      "index": 5,
+      "generator": {
+        "created_at": "2026-03-10T11:53:05.043777+00:00",
+        "sample_index": 5,
+        "prompt-id": "prompt_goethe",
+        "prompt_id": "prompt_goethe",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "O Herz, wie brennst du still in meiner Brust,\nSeit jener Blick mich traf im Abendrot.\nEin einzig Wort von ihr – und süße Lust\nErhob mich über Zweifel, Welt und Tod.\n\nIhr Lächeln war der Frühling meiner Tage,\nEin Hauch nur – und die Seele stand in Flammen.\nIch trug ihr Bild in jeder stillen Klage,\nAls wüchse mein ganz Leben aus dem Namen.\n\nWir wandelten im goldnen Licht der Felder,\nDie Welt war weit und doch in ihr beschlossen.\nDer Wind sang leis durch dunkle Lindenwälder,\nAls hätte selbst die Zeit den Atem losgelassen.\n\nDoch ach! Der Morgen kam mit bleichem Scheine,\nUnd Pflicht rief kalt aus fremden, fernen Räumen.\nDa stand sie still – und ihre Hand in meine\nWar Abschied schon in ungesagten Träumen.\n\nNun geh ich einsam durch die stillen Stunden,\nMein Herz noch warm von ihrem letzten Blick.\nDie Liebe hat mich selig überwunden –\nUnd ließ mir nur die Sehnsucht still zurück."
+    },
+    {
+      "sample-id": "ai_goethe_1771_06",
+      "index": 6,
+      "generator": {
+        "created_at": "2026-03-10T11:53:06.043803+00:00",
+        "sample_index": 6,
+        "prompt-id": "prompt_goethe",
+        "prompt_id": "prompt_goethe",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Im jungen Mai, da sah ich dich,\nund meine Brust ward Feuer.\nEin Blick von dir – und plötzlich wich\ndie Welt dem Traumgetreuer.\n\nDein Lachen fiel wie Morgentau\nauf meine wilden Sinne,\nund jede Stunde, jede Au\ntrug deines Namens Minne.\n\nO wie mein Herz im Sturme schlug,\nwenn deine Hand die meine\nnur flüchtig, zart im Fluge trug—\nda war ich ganz der Deine.\n\nDoch ach! Der Himmel trübte sich,\ndie süßen Tage schwanden;\nein Wort, ein Blick – und zwischen dich\nund mich fiel Schweigen, Banden.\n\nNun gehst du fern durch fremdes Licht,\nund ich durch dunkle Räume;\ndoch jede Nacht ruft mein Gedicht\ndich heim in meine Träume.\n\nSo leb denn wohl! – Mein Herz bleibt dein,\nmag Zeit und Welt sich wenden;\ndenn erste Lieb im Jugendsein\nwill nimmer ganz verenden."
+    },
+    {
+      "sample-id": "ai_goethe_1771_07",
+      "index": 7,
+      "generator": {
+        "created_at": "2026-03-10T11:53:07.043828+00:00",
+        "sample_index": 7,
+        "prompt-id": "prompt_goethe",
+        "prompt_id": "prompt_goethe",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "O wie sie kam –\nwie Morgenlicht durch taugetränkte Linden,\nso trat sie leise in mein Herz hinein.\n\nMein Blick, ein Wandrer ohne Ziel,\nverlor sich selig in dem stillen Glanz\nihrer Augen,\ndie tiefer waren als der Abendhimmel\nüber goldnen Feldern.\n\nDa bebte meine Brust\nwie eine Saite unter flücht’ger Hand.\nEin Wort von ihr –\nund tausend Frühlingsstürme\nbrachen los in meiner Seele.\n\nO Stunden!\nIhr flüchtigen Götter meines Glücks,\nwie trugt ihr mich auf lichten Flügeln\nüber alle Welt!\n\nDoch ach –\nwie Herbstwind über welke Rosen\nkam der Abschied.\n\nSie stand noch da,\nso nah, dass ich den Atem ihrer Trauer\nan meinen Lippen fühlte,\nund doch –\nschon ferner als der fernste Stern.\n\nNun wandel’ ich allein\ndurch Wälder meiner Erinnerung,\nund jedes Blatt, das leise fällt,\nflüstert ihren Namen.\n\nO Liebe!\nDu süßer Schmerz,\ndu heil’ge Wunde meiner Brust –\nwenn dies Verderben ist,\nso segne ich mein Herz dafür."
+    },
+    {
+      "sample-id": "ai_goethe_1771_08",
+      "index": 8,
+      "generator": {
+        "created_at": "2026-03-10T11:53:08.043852+00:00",
+        "sample_index": 8,
+        "prompt-id": "prompt_goethe",
+        "prompt_id": "prompt_goethe",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Dein Blick fiel leis auf meine Seele,\nwie Morgentau auf junges Gras;\nund plötzlich brannte mir im Herzen\nein Feuer, das kein Name fass.\n\nIch ging durch Wälder voller Klingen\nvon Licht, das durch die Blätter brach,\nund jeder Vogel schien zu singen,\nwas stumm in meiner Brust erwach.\n\nO süßer Taumel deiner Nähe!\nDie Welt war weit und doch so klein;\ndenn alles, was die Erde trüge,\nschien nur für uns allein zu sein.\n\nDoch ach — der Abend kam so leise,\nund mit ihm jener trübe Wind,\nder Liebende auf dunkler Reise\nvoneinander scheiden lind.\n\nNun steh ich einsam bei den Sternen,\ndie kalt und fern am Himmel glühn;\ndoch deine Stimme aus den Fernen\nhör ich noch durch mein Herz hin ziehn.\n\nUnd wenn dereinst mein Leben schweiget\nwie Laub, das müd zur Erde fällt,\nso sei’s dein Name, der mir bleibet —\nmein letzter Klang in dieser Welt."
+    },
+    {
+      "sample-id": "ai_goethe_1771_09",
+      "index": 9,
+      "generator": {
+        "created_at": "2026-03-10T11:53:09.043879+00:00",
+        "sample_index": 9,
+        "prompt-id": "prompt_goethe",
+        "prompt_id": "prompt_goethe",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Wie Morgenlicht auf jungem Blatt\ntraf mich dein Blick – und alles brannte.\nDie Welt, die eben still noch war,\nward Sturm, der meinen Namen kannte.\n\nMein Herz, zuvor ein stiller See,\nerschlug sich nun in wilden Wellen;\ndein Lächeln war der erste Stern,\nder Nacht und Himmel neu erhellen.\n\nO wie wir gingen Hand in Hand\ndurch Felder, gold im Abendwehen,\nals könne keine Zeit der Welt\nuns jemals voneinander drehen.\n\nDoch leise schlich das Schicksal sich\nin unsre trunknen Frühlingstage;\nein Schatten fiel auf deinen Blick,\nein Schweigen lag in jeder Frage.\n\nNun gehst du fort – und jeder Schritt\nreißt eine Saite mir im Innern;\ndie Wälder hören meinen Schmerz,\ndie Bäche tragen mein Erinnern.\n\nUnd dennoch – ach! – wenn ich nur darf\ndein Bild im Herzen weitertragen,\nso will ich still mein Leben lang\nin süßer Qual dein Name sagen."
+    },
+    {
+      "sample-id": "ai_goethe_1771_10",
+      "index": 10,
+      "generator": {
+        "created_at": "2026-03-10T11:53:10.043905+00:00",
+        "sample_index": 10,
+        "prompt-id": "prompt_goethe",
+        "prompt_id": "prompt_goethe",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Im Schatten junger Linden standst du still,\nder Abend sank in goldnem Atem nieder;\nmein Herz, ein ungestümer Frühlingsquill,\nerhob sich wild und brach in tausend Lieder.\n\nDu sahst mich an — und alle Welt verstummte,\nals hielte Zeit den flüchtigen Pulsschlag an;\nein Blick nur war’s, der durch mein Innerstes summte\nwie ferner Donner über stiller Bahn.\n\nO süße Stunde! Alles glühte Leben,\ndie Luft war voll von deinem sanften Sein;\nich wollte meine Seele dir ergeben\nund schloss den ganzen Himmel in dich ein.\n\nDoch ach — der Morgen kam mit kalten Schritten,\nder Wind zerstreute unsren jungen Traum;\ndein Abschied lag wie Frost auf meinen Bitten,\nund leer erschien mir jeder Wald, jeder Raum.\n\nNun wandel’ ich allein durch matte Felder,\nmein Herz noch warm von deiner fernen Glut;\ndein Name rauscht in allen Abendwäldern\nwie eine Klage in der Dämmerflut.\n\nUnd wenn dereinst die müden Tage schweigen,\nmein letzter Seufzer still zum Himmel zieht,\nso wird in meinem Staube leise steigen\nnoch immer deiner Liebe wildes Lied."
+    }
+  ],
+  "text": "Im Abendrot der jungen Welt\nstand sie – ein Lächeln voller Glut;\nmein Herz, das eben noch sich hält,\nschlug plötzlich wild in jäher Flut.\n\nO wie ihr Blick mein Innerstes\ndurchdrang wie Frühlingssonnenschein!\nDa ward mir diese ganze Welt\nzu eng für solch ein Glück allein.\n\nWir wandelten im linden Hain,\ndie Luft war süß, die Stunden mild;\nich hörte nur ihr leises Sein\nund sah in allem nur ihr Bild.\n\nDoch ach! Der Himmel dunkelt schnell,\nwie Sommersturm nach heißem Tag;\nwas eben noch so licht und hell,\nversinkt in Nacht und Weh und Schlag.\n\nNun steh ich einsam an dem Ort,\nwo einst ihr Atem mich umweht;\nder Wind trägt ihren Namen fort,\nden meine Seele still erfleht.\n\nUnd was mir blieb von jener Zeit:\nein Herz, das brennt und nimmer ruht—\nein Lied voll süßer Seligkeit\nund bitterheißer Abschiedsglut.",
+  "texts": [
+    "Im Abendrot der jungen Welt\nstand sie – ein Lächeln voller Glut;\nmein Herz, das eben noch sich hält,\nschlug plötzlich wild in jäher Flut.\n\nO wie ihr Blick mein Innerstes\ndurchdrang wie Frühlingssonnenschein!\nDa ward mir diese ganze Welt\nzu eng für solch ein Glück allein.\n\nWir wandelten im linden Hain,\ndie Luft war süß, die Stunden mild;\nich hörte nur ihr leises Sein\nund sah in allem nur ihr Bild.\n\nDoch ach! Der Himmel dunkelt schnell,\nwie Sommersturm nach heißem Tag;\nwas eben noch so licht und hell,\nversinkt in Nacht und Weh und Schlag.\n\nNun steh ich einsam an dem Ort,\nwo einst ihr Atem mich umweht;\nder Wind trägt ihren Namen fort,\nden meine Seele still erfleht.\n\nUnd was mir blieb von jener Zeit:\nein Herz, das brennt und nimmer ruht—\nein Lied voll süßer Seligkeit\nund bitterheißer Abschiedsglut.",
+    "O Herz, wie stürmst du gegen meine Brust,\nAls wolltest du die Rippen sprengen,\nSeit jener Blick — so mild, so voll von Licht —\nMein stilles Leben überdrängte.\n\nIch sah sie stehn im Abendgold,\nDer Himmel ruhte in den Zweigen;\nUnd alles schwieg — nur meine Brust\nBegann in tausend Feuern zu steigen.\n\nIhr Wort war leise wie der Wind,\nDer junge Blätter heimlich rühret;\nDoch jede Silbe traf mein Herz,\nAls hätt’ ein Gott sie selbst geführet.\n\nO sel’ger Schmerz! O süße Qual!\nZu lieben, ohne sie zu halten —\nIhr Bild lebt glühend in mir fort,\nWenn schon die Stunden kalt sich spalten.\n\nDenn ach! Der Weg ruft sie von mir,\nDie Tage ziehn wie schwere Wolken;\nUnd meine Hoffnung, kaum erblüht,\nBeginnt im frühen Frost zu welken.\n\nDoch wenn die Nacht die Erde deckt\nUnd ferne Sterne tröstend glimmen,\nDann hör’ ich still ihr sanftes Wort\nIn meines Herzens Tiefen schwimmen.\n\nSo leb’ ich fort von Sehnsucht reich,\nVon süßer Pein durchglüht, durchdrungen —\nDenn einmal hat ihr Blick mein Herz\nDem ganzen Himmel abgerungen.",
+    "Wie Frühlingswind durch junge Linden\nSo kamst du still in mein Gemüt,\nUnd ließest tausend Stimmen finden,\nWo sonst nur stille Einsamkeit geblüht.\n\nMein Herz, das kaum zu schlagen wagte,\nErhob sich plötzlich wild und frei;\nAls ob in meiner Brust es fragte:\n„Ist dies der Himmel? — oder sie?“\n\nWir wandelten durch Abendfelder,\nDer Himmel hing so golden schwer,\nUnd selbst die schweigenden Wälder\nVerstanden unser Sehnen mehr.\n\nDoch ach — wie schnell die Stunden fliehen,\nDer Morgen trennt, was Nacht vereint;\nIch sah dich langsam von mir ziehen,\nUnd jede Hoffnung hat geweint.\n\nNun irr ich durch vertraute Auen,\nDoch alles scheint mir fremd und leer;\nDenn wo einst deine Augen schauen,\nDa blüht die Welt für mich nicht mehr.\n\nUnd dennoch — wenn die Sterne steigen\nUnd leis der Wind die Blätter rührt,\nMein Herz wird ewig von dir schweigen\nUnd ewig doch von dir berührt.",
+    "Ich sah dich einst im milden Abendlichte stehen,\nals ob der Himmel selbst in deinem Auge ruhte;\nmein Herz, so jung, begann im Sturm zu gehen,\nals wär es Flamme, die nach Flamme suchte.\n\nEin Wort von dir – und alle Welt ward Klang,\ndie Wälder rauschten süßer als zuvor;\nmein Atem bebte, jeder Pulsschlag rang\nsich wie ein Lied aus meiner Brust empor.\n\nO holde Stunde! Wie sie glühend brannte,\nals deine Hand die meine zitternd fand;\nda glaubt’ ich fest, dass keine Macht im Lande\nuns je entreißt dies wundersame Band.\n\nDoch ach! Die Zeit – sie schreitet kalt und leise,\nund trennt, was Liebe kühn zusammenband;\nnun gehst du fort auf stiller, ferner Reise,\nund lässt nur Schatten in der leeren Hand.\n\nSo steh ich nun im Abendrot allein,\nwo einst dein Blick mein ganzes Sein durchdrang;\nder Wind trägt fern dein flüchtiges „Leb wohl“ herein—\nund meine Seele bleibt ein ewger Klang.",
+    "O Herz, wie brennst du still in meiner Brust,\nSeit jener Blick mich traf im Abendrot.\nEin einzig Wort von ihr – und süße Lust\nErhob mich über Zweifel, Welt und Tod.\n\nIhr Lächeln war der Frühling meiner Tage,\nEin Hauch nur – und die Seele stand in Flammen.\nIch trug ihr Bild in jeder stillen Klage,\nAls wüchse mein ganz Leben aus dem Namen.\n\nWir wandelten im goldnen Licht der Felder,\nDie Welt war weit und doch in ihr beschlossen.\nDer Wind sang leis durch dunkle Lindenwälder,\nAls hätte selbst die Zeit den Atem losgelassen.\n\nDoch ach! Der Morgen kam mit bleichem Scheine,\nUnd Pflicht rief kalt aus fremden, fernen Räumen.\nDa stand sie still – und ihre Hand in meine\nWar Abschied schon in ungesagten Träumen.\n\nNun geh ich einsam durch die stillen Stunden,\nMein Herz noch warm von ihrem letzten Blick.\nDie Liebe hat mich selig überwunden –\nUnd ließ mir nur die Sehnsucht still zurück.",
+    "Im jungen Mai, da sah ich dich,\nund meine Brust ward Feuer.\nEin Blick von dir – und plötzlich wich\ndie Welt dem Traumgetreuer.\n\nDein Lachen fiel wie Morgentau\nauf meine wilden Sinne,\nund jede Stunde, jede Au\ntrug deines Namens Minne.\n\nO wie mein Herz im Sturme schlug,\nwenn deine Hand die meine\nnur flüchtig, zart im Fluge trug—\nda war ich ganz der Deine.\n\nDoch ach! Der Himmel trübte sich,\ndie süßen Tage schwanden;\nein Wort, ein Blick – und zwischen dich\nund mich fiel Schweigen, Banden.\n\nNun gehst du fern durch fremdes Licht,\nund ich durch dunkle Räume;\ndoch jede Nacht ruft mein Gedicht\ndich heim in meine Träume.\n\nSo leb denn wohl! – Mein Herz bleibt dein,\nmag Zeit und Welt sich wenden;\ndenn erste Lieb im Jugendsein\nwill nimmer ganz verenden.",
+    "O wie sie kam –\nwie Morgenlicht durch taugetränkte Linden,\nso trat sie leise in mein Herz hinein.\n\nMein Blick, ein Wandrer ohne Ziel,\nverlor sich selig in dem stillen Glanz\nihrer Augen,\ndie tiefer waren als der Abendhimmel\nüber goldnen Feldern.\n\nDa bebte meine Brust\nwie eine Saite unter flücht’ger Hand.\nEin Wort von ihr –\nund tausend Frühlingsstürme\nbrachen los in meiner Seele.\n\nO Stunden!\nIhr flüchtigen Götter meines Glücks,\nwie trugt ihr mich auf lichten Flügeln\nüber alle Welt!\n\nDoch ach –\nwie Herbstwind über welke Rosen\nkam der Abschied.\n\nSie stand noch da,\nso nah, dass ich den Atem ihrer Trauer\nan meinen Lippen fühlte,\nund doch –\nschon ferner als der fernste Stern.\n\nNun wandel’ ich allein\ndurch Wälder meiner Erinnerung,\nund jedes Blatt, das leise fällt,\nflüstert ihren Namen.\n\nO Liebe!\nDu süßer Schmerz,\ndu heil’ge Wunde meiner Brust –\nwenn dies Verderben ist,\nso segne ich mein Herz dafür.",
+    "Dein Blick fiel leis auf meine Seele,\nwie Morgentau auf junges Gras;\nund plötzlich brannte mir im Herzen\nein Feuer, das kein Name fass.\n\nIch ging durch Wälder voller Klingen\nvon Licht, das durch die Blätter brach,\nund jeder Vogel schien zu singen,\nwas stumm in meiner Brust erwach.\n\nO süßer Taumel deiner Nähe!\nDie Welt war weit und doch so klein;\ndenn alles, was die Erde trüge,\nschien nur für uns allein zu sein.\n\nDoch ach — der Abend kam so leise,\nund mit ihm jener trübe Wind,\nder Liebende auf dunkler Reise\nvoneinander scheiden lind.\n\nNun steh ich einsam bei den Sternen,\ndie kalt und fern am Himmel glühn;\ndoch deine Stimme aus den Fernen\nhör ich noch durch mein Herz hin ziehn.\n\nUnd wenn dereinst mein Leben schweiget\nwie Laub, das müd zur Erde fällt,\nso sei’s dein Name, der mir bleibet —\nmein letzter Klang in dieser Welt.",
+    "Wie Morgenlicht auf jungem Blatt\ntraf mich dein Blick – und alles brannte.\nDie Welt, die eben still noch war,\nward Sturm, der meinen Namen kannte.\n\nMein Herz, zuvor ein stiller See,\nerschlug sich nun in wilden Wellen;\ndein Lächeln war der erste Stern,\nder Nacht und Himmel neu erhellen.\n\nO wie wir gingen Hand in Hand\ndurch Felder, gold im Abendwehen,\nals könne keine Zeit der Welt\nuns jemals voneinander drehen.\n\nDoch leise schlich das Schicksal sich\nin unsre trunknen Frühlingstage;\nein Schatten fiel auf deinen Blick,\nein Schweigen lag in jeder Frage.\n\nNun gehst du fort – und jeder Schritt\nreißt eine Saite mir im Innern;\ndie Wälder hören meinen Schmerz,\ndie Bäche tragen mein Erinnern.\n\nUnd dennoch – ach! – wenn ich nur darf\ndein Bild im Herzen weitertragen,\nso will ich still mein Leben lang\nin süßer Qual dein Name sagen.",
+    "Im Schatten junger Linden standst du still,\nder Abend sank in goldnem Atem nieder;\nmein Herz, ein ungestümer Frühlingsquill,\nerhob sich wild und brach in tausend Lieder.\n\nDu sahst mich an — und alle Welt verstummte,\nals hielte Zeit den flüchtigen Pulsschlag an;\nein Blick nur war’s, der durch mein Innerstes summte\nwie ferner Donner über stiller Bahn.\n\nO süße Stunde! Alles glühte Leben,\ndie Luft war voll von deinem sanften Sein;\nich wollte meine Seele dir ergeben\nund schloss den ganzen Himmel in dich ein.\n\nDoch ach — der Morgen kam mit kalten Schritten,\nder Wind zerstreute unsren jungen Traum;\ndein Abschied lag wie Frost auf meinen Bitten,\nund leer erschien mir jeder Wald, jeder Raum.\n\nNun wandel’ ich allein durch matte Felder,\nmein Herz noch warm von deiner fernen Glut;\ndein Name rauscht in allen Abendwäldern\nwie eine Klage in der Dämmerflut.\n\nUnd wenn dereinst die müden Tage schweigen,\nmein letzter Seufzer still zum Himmel zieht,\nso wird in meinem Staube leise steigen\nnoch immer deiner Liebe wildes Lied."
+  ]
 }

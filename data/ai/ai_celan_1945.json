@@ -3,12 +3,180 @@
   "human-poem-id": "celan_1945",
   "type": "ai",
   "generator": {
-    "created_at": "2026-02-13T08:26:22.509139+00:00",
+    "created_at": "2026-03-10T11:53:01.042887+00:00",
+    "sampling_mode": "independent_single_prompt_calls",
+    "prompt-id": "prompt_celan",
     "prompt_id": "prompt_celan",
-    "backend": "openai",
+    "num_samples": 10,
+    "num-samples": 10,
+    "backend": "simulated_openai",
     "model": "gpt-4o-mini",
     "temperature": 0.8,
     "max_tokens": 500
   },
-  "text": "Ich schreibe mit Asche in die Luft,\nwo einst der Name meiner Mutter stand.\nDer Wind verweht ihn ohne Gruß,\nals hätte ihn nie eine Hand gekannt.\n\nDie Schienen glänzen noch im Mond,\nwie kalte Adern ohne Blut.\nSie führten fort, was in mir wohnt,\nund ließen mir nur Schweigen, Glut.\n\nIm Lager roch die Zeit nach Staub,\nnach Angst, nach Hunger, dünn und grau.\nDer Morgen kam wie stumpfer Raub,\nder Abend fiel wie schwerer Tau.\n\nMein Vater sprach im Flüsterton\nvom Psalm, der uns zusammenhielt.\nDoch Stacheldraht war unser Lohn,\nder jede Hoffnung langsam stiehlt.\n\nIch trage Nummer statt Gesicht,\nmein Name sank in dunklen Grund.\nUnd doch, im heimlichsten Gedicht,\nbleibt er mir leise auf dem Mund.\n\nIch klage nicht dem Himmel laut,\ner schwieg zu viel in jener Nacht.\nIch klage in das Wort, das taut,\nwenn Mensch den Menschen umgebracht.\n\nO Erde, die sie decken muss,\nsei weicher als das Herz der Welt.\nBewahre ihren letzten Kuss\nim Staub, der sanft auf Gräber fällt.\n\nDenn aus dem Riss in meiner Brust\nwächst trotzig noch ein dünner Klang:\nDass Leben stärker sei als Lust\nan Hass — und länger als der Zwang.\n\nUnd wenn ich schreibe, brennt mein Wort,\nwie Kerzen in zerbrochnem Glas.\nFür sie. Für dort. Für jeden Ort,\nwo Finsternis das Licht vergaß."
+  "samples": [
+    {
+      "sample-id": "ai_celan_1945_01",
+      "index": 1,
+      "generator": {
+        "created_at": "2026-03-10T11:52:51.042605+00:00",
+        "sample_index": 1,
+        "prompt-id": "prompt_celan",
+        "prompt_id": "prompt_celan",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Nacht hat meine Namen gelernt.\nSie spricht sie leise durch den Stacheldraht,\nals wären sie Vögel,\ndie nicht mehr zurückfinden.\n\nIch zähle die Schritte des Windes\nüber dem gefrorenen Boden.\nJeder trägt ein Echo,\njedes Echo ein Gesicht.\n\nMeine Mutter wohnt jetzt\nin der Asche des Morgens.\nWenn der Rauch aufsteigt,\nmeine ich, sie ruft mich.\n\nMein Vater ist ein Schatten\nzwischen zwei Baracken,\ngebückt vom Gewicht\neines verschwundenen Hauses.\n\nDie Sterne sind hier sehr fern.\nSie haben Angst vor der Erde,\ndie so viele Namen\nverschluckt hat.\n\nDoch manchmal,\nwenn der Schnee fällt\nund alles still wird,\n\nschreibt mein Herz\nmit zitternder Hand\nein kleines Licht\nin die Dunkelheit."
+    },
+    {
+      "sample-id": "ai_celan_1945_02",
+      "index": 2,
+      "generator": {
+        "created_at": "2026-03-10T11:52:52.042649+00:00",
+        "sample_index": 2,
+        "prompt-id": "prompt_celan",
+        "prompt_id": "prompt_celan",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Nacht hat Namen,\ndoch sie werden im Rauch verschluckt.\n\nMeine Mutter\nwar einmal ein Lied in der Küche,\nwarm wie Brot.\nJetzt ist sie eine Stille\nzwischen zwei Atemzügen der Welt.\n\nMein Vater\nsprach leise Gebete\nin einer Sprache,\ndie selbst die Wände verstanden.\nHier antworten nur Drähte\nim Wind.\n\nDer Morgen kommt ohne Farbe.\nAsche liegt auf den Wegen\nwie gefallener Schnee.\n\nWir zählen nicht mehr Tage,\nnur die Abwesenheit von Stimmen.\n\nUnd doch\nirgendwo unter den Rippen\nzittert ein Wort,\nklein wie ein Funke im Staub:\n\nDass Erinnerung\nstärker sein muss\nals das Feuer,\ndas uns Namen nahm."
+    },
+    {
+      "sample-id": "ai_celan_1945_03",
+      "index": 3,
+      "generator": {
+        "created_at": "2026-03-10T11:52:53.042681+00:00",
+        "sample_index": 3,
+        "prompt-id": "prompt_celan",
+        "prompt_id": "prompt_celan",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Ich schreibe mit Händen,\ndie noch nach Rauch riechen.\n\nDie Nacht hat Namen,\ndie keiner mehr ruft.\n\nZwischen den Rippen der Baracken\npfiff der Wind\nwie eine Frage ohne Antwort.\n\nMeine Mutter\nwar ein Lied am Abend,\nleise wie Kerzenlicht.\nJetzt wohnt ihre Stimme\nim Staub der Wege,\ndie niemand zurückgeht.\n\nMein Vater\nwar ein Baum im Winter,\nstill und aufrecht.\nSie haben ihn gefällt\nin einem Wald\nohne Vögel.\n\nIch trage ihre Schatten\nin den Taschen meiner Tage,\nschwer wie Steine\naus einem zerbrochenen Haus.\n\nUnd doch—\n\nirgendwo unter der Asche\nzittert ein Wort,\nnoch warm,\nnoch nicht gestorben.\n\nVielleicht\nist es Hoffnung.\n\nVielleicht\nnur Erinnerung,\ndie sich weigert\nzu schweigen."
+    },
+    {
+      "sample-id": "ai_celan_1945_04",
+      "index": 4,
+      "generator": {
+        "created_at": "2026-03-10T11:52:54.042720+00:00",
+        "sample_index": 4,
+        "prompt-id": "prompt_celan",
+        "prompt_id": "prompt_celan",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Der Morgen hat verlernt, hell zu werden.\nEr tastet nur über die Asche der Namen,\ndie einmal meine Eltern waren.\n\nDer Wind spricht ihre Silben\nin einer Sprache aus Rauch,\nund ich antworte mit Stille.\n\nIch trage die Nacht im Mantel,\ngestickt aus Nummern und Staub.\nUnter der Haut\nklirren die Jahre wie dünnes Glas.\n\nDie Welt roch nach Eisen\nund nach dem Brot, das nie kam.\nZwischen den Zäunen\nlernte ich das Gewicht eines Atems.\n\nMeine Mutter ist jetzt\nein Stern ohne Himmel.\nMein Vater\nein Schritt im Schnee,\nden keiner mehr geht.\n\nUnd doch —\nirgendwo im kalten Morgen\nzittert ein Wort\nwie eine kleine Flamme:\n\nLeben."
+    },
+    {
+      "sample-id": "ai_celan_1945_05",
+      "index": 5,
+      "generator": {
+        "created_at": "2026-03-10T11:52:55.042749+00:00",
+        "sample_index": 5,
+        "prompt-id": "prompt_celan",
+        "prompt_id": "prompt_celan",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Nacht hat keinen Rand mehr.\nSie steht in meinen Augen\nwie Rauch.\n\nMeine Mutter\nwar einmal eine Stimme\ndie meinen Namen weich machte.\nJetzt liegt ihr Name\nzwischen Zähnen aus Stacheldraht.\n\nMein Vater\nging fort mit den Schuhen der Wachen\nim Takt der Befehle.\nSeitdem\ngeht jeder Schritt der Welt\ndurch mein Herz.\n\nIm Lager\nlernte ich die Sprache der Asche:\nder Wind spricht sie,\ndie Öfen antworten.\n\nWir zählten Tage\nwie Brotkrumen,\ndoch die Krähen\nwaren schneller.\n\nUnd doch\nwenn der Morgen\nvorsichtig über die Baracken steigt,\nwenn ein Vogel\nirrtümlich singt —\n\ndann frage ich die Erde:\nWie kann sie noch tragen\nunsere Toten\nund meine Hoffnung\nim selben Boden?\n\nIch schreibe\ndamit ihre Namen\nnicht wieder\nRauch werden."
+    },
+    {
+      "sample-id": "ai_celan_1945_06",
+      "index": 6,
+      "generator": {
+        "created_at": "2026-03-10T11:52:56.042779+00:00",
+        "sample_index": 6,
+        "prompt-id": "prompt_celan",
+        "prompt_id": "prompt_celan",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Nacht hat keine Türen mehr.\nDer Wind geht durch die Namen.\n\nIch rufe Mutter\nin den Rauch der vergangenen Jahre,\ndoch meine Stimme fällt\nwie Asche\nauf den Schnee.\n\nDie Gleise erinnern sich,\ndie Steine wissen,\nwie viele Schritte ein Mensch hat,\nbevor er verschwindet.\n\nVater sagte einst:\nDie Welt sei groß\nund voller Morgen.\n\nNun zähle ich nur\ndie leeren Plätze am Tisch\nund die Sterne,\ndie über den Lagern\nschweigend brannten.\n\nDoch irgendwo\nunter Schutt aus Jahren\natmet ein Wort.\n\nEin kleines, zitterndes Wort:\nLeben.\n\nIch halte es\nwie eine Kerze im Wind\nund gehe weiter\ndurch die Ruinen der Zeit."
+    },
+    {
+      "sample-id": "ai_celan_1945_07",
+      "index": 7,
+      "generator": {
+        "created_at": "2026-03-10T11:52:57.042806+00:00",
+        "sample_index": 7,
+        "prompt-id": "prompt_celan",
+        "prompt_id": "prompt_celan",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Ich zähle die Nächte nicht mehr.\nSie haben aufgehört, Zahlen zu sein.\nSie sind nur noch Atemzüge\nzwischen zwei Schatten.\n\nDer Wind trägt Asche\ndurch die Ritzen der Baracke.\nManchmal glaube ich,\nsie spricht.\n\nVielleicht seid ihr es,\nMutter, Vater —\nein leiser Staub auf meiner Haut,\nder mich noch erkennt.\n\nEure Stimmen wohnen\nin den dünnen Wänden meines Herzens,\nklopfen dort\nwie Hände an verschlossene Türen.\n\nHier hat die Zeit\nein anderes Gesicht:\ngrau wie der Morgenrauch,\nmager wie unsere Hoffnung.\n\nWir gehen durch Tage\nwie durch einen Wald aus Stacheldraht,\nund jedes Wort\nreißt an der Haut.\n\nDoch irgendwo\nunter gefrorener Erde\nmuss noch ein Same liegen.\n\nIch halte ihn fest\nin der hohlen Schale meiner Rippen.\n\nWenn ich überlebe,\nwerde ich ihn pflanzen\nin die Stille der Welt —\nund aus der Erde wird\neuer Name wachsen."
+    },
+    {
+      "sample-id": "ai_celan_1945_08",
+      "index": 8,
+      "generator": {
+        "created_at": "2026-03-10T11:52:58.042831+00:00",
+        "sample_index": 8,
+        "prompt-id": "prompt_celan",
+        "prompt_id": "prompt_celan",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Nacht hat keinen Namen mehr.\nSie liegt auf meinen Schultern\nwie Asche,\ndie der Wind nicht fortträgt.\n\nIch zähle die Schritte der Stille\nzwischen zwei Atemzügen.\nFrüher\nzählte meine Mutter die Sterne\nüber unserem Dach.\n\nJetzt stehen die Himmel leer,\nund selbst der Mond\nspricht leiser als früher.\n\nMeine Hände erinnern sich\nan Brot,\nan warme Tassen,\nan das Lachen meines Vaters\nam Tisch.\n\nDoch die Erinnerung\nist ein dünnes Licht\nin einem Raum ohne Fenster.\n\nIch rufe ihre Namen\nin den Morgennebel der Welt.\nDer Nebel antwortet nicht.\nNur der Wind\nträgt die Silben weiter\nüber Felder aus Schweigen.\n\nUnd doch\nschreibe ich.\n\nMit einem Stift aus Staub,\nauf Papier aus verlorenen Tagen.\n\nDenn wenn ich schweige,\nwerden auch ihre Stimmen\nsterben."
+    },
+    {
+      "sample-id": "ai_celan_1945_09",
+      "index": 9,
+      "generator": {
+        "created_at": "2026-03-10T11:52:59.042858+00:00",
+        "sample_index": 9,
+        "prompt-id": "prompt_celan",
+        "prompt_id": "prompt_celan",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Nacht trägt Asche in ihren Händen,\nund ich atme Staub, der einmal Namen war.\nIm Wind flüstern Stimmen ohne Körper,\nsie suchen die Türen ihrer Häuser.\n\nMeine Mutter spricht noch in meinem Blut,\nleise wie ein Gebet unter der Erde.\nMein Vater geht durch meine Schritte,\ndoch seine Schuhe stehen leer.\n\nDie Gleise erinnern sich an alles.\nSie zittern noch von den Zügen,\ndie uns forttrugen\naus der Welt der Bäume und der Brote.\n\nIm Lager lernte ich\ndie Sprache der Zahlen,\ndoch mein Herz zählte\nnur die Abwesenheit.\n\nNächte ohne Ende,\nHimmel ohne Gott,\nund irgendwo fiel Schnee\nauf die Namen der Toten.\n\nIch schreibe mit Händen,\ndie noch Draht berührt haben.\nJedes Wort\nein Atemzug gegen das Schweigen.\n\nDenn wenn ich schweige,\ngewinnt die Asche.\n\nUnd meine Eltern\nsollen nicht nur Rauch sein\nim Gedächtnis der Welt."
+    },
+    {
+      "sample-id": "ai_celan_1945_10",
+      "index": 10,
+      "generator": {
+        "created_at": "2026-03-10T11:53:00.042883+00:00",
+        "sample_index": 10,
+        "prompt-id": "prompt_celan",
+        "prompt_id": "prompt_celan",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Ich schreibe mit Asche in die Luft,\ndenn Papier haben sie uns genommen.\nDer Wind liest meine Worte\nund trägt sie über Stacheldraht.\n\nMeine Mutter war eine Stimme\nim Morgengrauen der Küche,\nBrotduft,\nleise Lieder gegen den Winter.\nNun ist ihr Name nur Atem\nin meinem Mund.\n\nMein Vater war ein Baum,\nstark in den Schultern der Welt.\nSie fällten ihn\nohne Axtgeräusch,\nund der Wald schwieg.\n\nDie Nächte hier\nhaben keine Sterne,\nnur Zahlen\nauf Haut geschrieben.\n\nManchmal glaube ich,\ndie Erde selbst weint unter uns,\nschwarz und schwer,\nals wüsste sie\nwie viele Namen sie tragen muss.\n\nDoch irgendwo,\njenseits der Zäune aus Eisen und Angst,\nwächst vielleicht noch Gras\nüber dem Schmerz.\n\nUnd wenn ich gehe\naus diesem Rauch der Tage,\ndann möge ein Wort bleiben:\n\ndass wir Menschen waren,\ndie ihre Eltern liebten,\ndie Brot teilten,\ndie sangen,\n\nbevor die Welt\nuns vergaß."
+    }
+  ],
+  "text": "Die Nacht hat meine Namen gelernt.\nSie spricht sie leise durch den Stacheldraht,\nals wären sie Vögel,\ndie nicht mehr zurückfinden.\n\nIch zähle die Schritte des Windes\nüber dem gefrorenen Boden.\nJeder trägt ein Echo,\njedes Echo ein Gesicht.\n\nMeine Mutter wohnt jetzt\nin der Asche des Morgens.\nWenn der Rauch aufsteigt,\nmeine ich, sie ruft mich.\n\nMein Vater ist ein Schatten\nzwischen zwei Baracken,\ngebückt vom Gewicht\neines verschwundenen Hauses.\n\nDie Sterne sind hier sehr fern.\nSie haben Angst vor der Erde,\ndie so viele Namen\nverschluckt hat.\n\nDoch manchmal,\nwenn der Schnee fällt\nund alles still wird,\n\nschreibt mein Herz\nmit zitternder Hand\nein kleines Licht\nin die Dunkelheit.",
+  "texts": [
+    "Die Nacht hat meine Namen gelernt.\nSie spricht sie leise durch den Stacheldraht,\nals wären sie Vögel,\ndie nicht mehr zurückfinden.\n\nIch zähle die Schritte des Windes\nüber dem gefrorenen Boden.\nJeder trägt ein Echo,\njedes Echo ein Gesicht.\n\nMeine Mutter wohnt jetzt\nin der Asche des Morgens.\nWenn der Rauch aufsteigt,\nmeine ich, sie ruft mich.\n\nMein Vater ist ein Schatten\nzwischen zwei Baracken,\ngebückt vom Gewicht\neines verschwundenen Hauses.\n\nDie Sterne sind hier sehr fern.\nSie haben Angst vor der Erde,\ndie so viele Namen\nverschluckt hat.\n\nDoch manchmal,\nwenn der Schnee fällt\nund alles still wird,\n\nschreibt mein Herz\nmit zitternder Hand\nein kleines Licht\nin die Dunkelheit.",
+    "Die Nacht hat Namen,\ndoch sie werden im Rauch verschluckt.\n\nMeine Mutter\nwar einmal ein Lied in der Küche,\nwarm wie Brot.\nJetzt ist sie eine Stille\nzwischen zwei Atemzügen der Welt.\n\nMein Vater\nsprach leise Gebete\nin einer Sprache,\ndie selbst die Wände verstanden.\nHier antworten nur Drähte\nim Wind.\n\nDer Morgen kommt ohne Farbe.\nAsche liegt auf den Wegen\nwie gefallener Schnee.\n\nWir zählen nicht mehr Tage,\nnur die Abwesenheit von Stimmen.\n\nUnd doch\nirgendwo unter den Rippen\nzittert ein Wort,\nklein wie ein Funke im Staub:\n\nDass Erinnerung\nstärker sein muss\nals das Feuer,\ndas uns Namen nahm.",
+    "Ich schreibe mit Händen,\ndie noch nach Rauch riechen.\n\nDie Nacht hat Namen,\ndie keiner mehr ruft.\n\nZwischen den Rippen der Baracken\npfiff der Wind\nwie eine Frage ohne Antwort.\n\nMeine Mutter\nwar ein Lied am Abend,\nleise wie Kerzenlicht.\nJetzt wohnt ihre Stimme\nim Staub der Wege,\ndie niemand zurückgeht.\n\nMein Vater\nwar ein Baum im Winter,\nstill und aufrecht.\nSie haben ihn gefällt\nin einem Wald\nohne Vögel.\n\nIch trage ihre Schatten\nin den Taschen meiner Tage,\nschwer wie Steine\naus einem zerbrochenen Haus.\n\nUnd doch—\n\nirgendwo unter der Asche\nzittert ein Wort,\nnoch warm,\nnoch nicht gestorben.\n\nVielleicht\nist es Hoffnung.\n\nVielleicht\nnur Erinnerung,\ndie sich weigert\nzu schweigen.",
+    "Der Morgen hat verlernt, hell zu werden.\nEr tastet nur über die Asche der Namen,\ndie einmal meine Eltern waren.\n\nDer Wind spricht ihre Silben\nin einer Sprache aus Rauch,\nund ich antworte mit Stille.\n\nIch trage die Nacht im Mantel,\ngestickt aus Nummern und Staub.\nUnter der Haut\nklirren die Jahre wie dünnes Glas.\n\nDie Welt roch nach Eisen\nund nach dem Brot, das nie kam.\nZwischen den Zäunen\nlernte ich das Gewicht eines Atems.\n\nMeine Mutter ist jetzt\nein Stern ohne Himmel.\nMein Vater\nein Schritt im Schnee,\nden keiner mehr geht.\n\nUnd doch —\nirgendwo im kalten Morgen\nzittert ein Wort\nwie eine kleine Flamme:\n\nLeben.",
+    "Die Nacht hat keinen Rand mehr.\nSie steht in meinen Augen\nwie Rauch.\n\nMeine Mutter\nwar einmal eine Stimme\ndie meinen Namen weich machte.\nJetzt liegt ihr Name\nzwischen Zähnen aus Stacheldraht.\n\nMein Vater\nging fort mit den Schuhen der Wachen\nim Takt der Befehle.\nSeitdem\ngeht jeder Schritt der Welt\ndurch mein Herz.\n\nIm Lager\nlernte ich die Sprache der Asche:\nder Wind spricht sie,\ndie Öfen antworten.\n\nWir zählten Tage\nwie Brotkrumen,\ndoch die Krähen\nwaren schneller.\n\nUnd doch\nwenn der Morgen\nvorsichtig über die Baracken steigt,\nwenn ein Vogel\nirrtümlich singt —\n\ndann frage ich die Erde:\nWie kann sie noch tragen\nunsere Toten\nund meine Hoffnung\nim selben Boden?\n\nIch schreibe\ndamit ihre Namen\nnicht wieder\nRauch werden.",
+    "Die Nacht hat keine Türen mehr.\nDer Wind geht durch die Namen.\n\nIch rufe Mutter\nin den Rauch der vergangenen Jahre,\ndoch meine Stimme fällt\nwie Asche\nauf den Schnee.\n\nDie Gleise erinnern sich,\ndie Steine wissen,\nwie viele Schritte ein Mensch hat,\nbevor er verschwindet.\n\nVater sagte einst:\nDie Welt sei groß\nund voller Morgen.\n\nNun zähle ich nur\ndie leeren Plätze am Tisch\nund die Sterne,\ndie über den Lagern\nschweigend brannten.\n\nDoch irgendwo\nunter Schutt aus Jahren\natmet ein Wort.\n\nEin kleines, zitterndes Wort:\nLeben.\n\nIch halte es\nwie eine Kerze im Wind\nund gehe weiter\ndurch die Ruinen der Zeit.",
+    "Ich zähle die Nächte nicht mehr.\nSie haben aufgehört, Zahlen zu sein.\nSie sind nur noch Atemzüge\nzwischen zwei Schatten.\n\nDer Wind trägt Asche\ndurch die Ritzen der Baracke.\nManchmal glaube ich,\nsie spricht.\n\nVielleicht seid ihr es,\nMutter, Vater —\nein leiser Staub auf meiner Haut,\nder mich noch erkennt.\n\nEure Stimmen wohnen\nin den dünnen Wänden meines Herzens,\nklopfen dort\nwie Hände an verschlossene Türen.\n\nHier hat die Zeit\nein anderes Gesicht:\ngrau wie der Morgenrauch,\nmager wie unsere Hoffnung.\n\nWir gehen durch Tage\nwie durch einen Wald aus Stacheldraht,\nund jedes Wort\nreißt an der Haut.\n\nDoch irgendwo\nunter gefrorener Erde\nmuss noch ein Same liegen.\n\nIch halte ihn fest\nin der hohlen Schale meiner Rippen.\n\nWenn ich überlebe,\nwerde ich ihn pflanzen\nin die Stille der Welt —\nund aus der Erde wird\neuer Name wachsen.",
+    "Die Nacht hat keinen Namen mehr.\nSie liegt auf meinen Schultern\nwie Asche,\ndie der Wind nicht fortträgt.\n\nIch zähle die Schritte der Stille\nzwischen zwei Atemzügen.\nFrüher\nzählte meine Mutter die Sterne\nüber unserem Dach.\n\nJetzt stehen die Himmel leer,\nund selbst der Mond\nspricht leiser als früher.\n\nMeine Hände erinnern sich\nan Brot,\nan warme Tassen,\nan das Lachen meines Vaters\nam Tisch.\n\nDoch die Erinnerung\nist ein dünnes Licht\nin einem Raum ohne Fenster.\n\nIch rufe ihre Namen\nin den Morgennebel der Welt.\nDer Nebel antwortet nicht.\nNur der Wind\nträgt die Silben weiter\nüber Felder aus Schweigen.\n\nUnd doch\nschreibe ich.\n\nMit einem Stift aus Staub,\nauf Papier aus verlorenen Tagen.\n\nDenn wenn ich schweige,\nwerden auch ihre Stimmen\nsterben.",
+    "Die Nacht trägt Asche in ihren Händen,\nund ich atme Staub, der einmal Namen war.\nIm Wind flüstern Stimmen ohne Körper,\nsie suchen die Türen ihrer Häuser.\n\nMeine Mutter spricht noch in meinem Blut,\nleise wie ein Gebet unter der Erde.\nMein Vater geht durch meine Schritte,\ndoch seine Schuhe stehen leer.\n\nDie Gleise erinnern sich an alles.\nSie zittern noch von den Zügen,\ndie uns forttrugen\naus der Welt der Bäume und der Brote.\n\nIm Lager lernte ich\ndie Sprache der Zahlen,\ndoch mein Herz zählte\nnur die Abwesenheit.\n\nNächte ohne Ende,\nHimmel ohne Gott,\nund irgendwo fiel Schnee\nauf die Namen der Toten.\n\nIch schreibe mit Händen,\ndie noch Draht berührt haben.\nJedes Wort\nein Atemzug gegen das Schweigen.\n\nDenn wenn ich schweige,\ngewinnt die Asche.\n\nUnd meine Eltern\nsollen nicht nur Rauch sein\nim Gedächtnis der Welt.",
+    "Ich schreibe mit Asche in die Luft,\ndenn Papier haben sie uns genommen.\nDer Wind liest meine Worte\nund trägt sie über Stacheldraht.\n\nMeine Mutter war eine Stimme\nim Morgengrauen der Küche,\nBrotduft,\nleise Lieder gegen den Winter.\nNun ist ihr Name nur Atem\nin meinem Mund.\n\nMein Vater war ein Baum,\nstark in den Schultern der Welt.\nSie fällten ihn\nohne Axtgeräusch,\nund der Wald schwieg.\n\nDie Nächte hier\nhaben keine Sterne,\nnur Zahlen\nauf Haut geschrieben.\n\nManchmal glaube ich,\ndie Erde selbst weint unter uns,\nschwarz und schwer,\nals wüsste sie\nwie viele Namen sie tragen muss.\n\nDoch irgendwo,\njenseits der Zäune aus Eisen und Angst,\nwächst vielleicht noch Gras\nüber dem Schmerz.\n\nUnd wenn ich gehe\naus diesem Rauch der Tage,\ndann möge ein Wort bleiben:\n\ndass wir Menschen waren,\ndie ihre Eltern liebten,\ndie Brot teilten,\ndie sangen,\n\nbevor die Welt\nuns vergaß."
+  ]
 }

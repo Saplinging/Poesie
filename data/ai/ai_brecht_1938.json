@@ -3,12 +3,180 @@
   "human-poem-id": "brecht_1938",
   "type": "ai",
   "generator": {
-    "created_at": "2026-02-13T08:26:22.507728+00:00",
+    "created_at": "2026-03-10T11:52:51.041537+00:00",
+    "sampling_mode": "independent_single_prompt_calls",
+    "prompt-id": "prompt_brecht",
     "prompt_id": "prompt_brecht",
-    "backend": "openai",
+    "num_samples": 10,
+    "num-samples": 10,
+    "backend": "simulated_openai",
     "model": "gpt-4o-mini",
     "temperature": 0.8,
     "max_tokens": 500
   },
-  "text": "Ich schreibe im Schatten fremder Dächer,\nwo die Sprache wie ein Flüchtling friert,\nwo jedes Wort den Atem anhält\nund die Nacht die Namen der Freunde verschluckt.\n\nDie Heimat liegt hinter Stacheldraht aus Lügen,\nzerfressen vom Marschtritt blecherner Kehlen,\nvom Fackelschein, der Bücher fraß\nund auch die Herzen schwärzte.\n\nMan sagt, ich sei entronnen.\nDoch was ist Flucht,\nwenn das Vaterland im Traum erscheint\nmit verbrannten Augen?\n\nIch trage Deutschland in der Tasche\nwie einen zerknitterten Brief,\ndessen Schrift von Tränen verschwimmt,\ndessen Siegel zerbrochen ist.\n\nSchuld geht neben mir wie ein Bruder.\nNicht weil ich schwieg —\nsondern weil mein Schweigen\nnicht laut genug war.\n\nVerantwortung ist ein scharfes Brot,\nan dem die Zunge blutet.\nIch esse es dennoch,\nTag für Tag.\n\nDenn Worte sind das Einzige,\nwas sie mir nicht nehmen konnten.\nKeine Uniform passt ihnen an,\nkein Gleichschritt zwingt sie nieder.\n\nIch schreibe gegen Mauern,\ngegen Fahnen, die wie Wunden wehen,\ngegen die Angst, die sich\nin Kinderkehlen einnistet.\n\nUnd manchmal, wenn die Dämmerung\nnicht nur grau, sondern silbern ist,\nglaube ich ein anderes Morgen zu hören —\nleise, aber ungebrochen.\n\nVielleicht kehren wir heim\nin ein Land ohne Echo der Stiefel,\nwo das Denken wieder atmen darf\nund die Bücher wie Vögel sind.\n\nBis dahin halte ich die Feder\nwie andere ein verborgenes Messer.\nNicht um zu töten —\nsondern um das Dunkel aufzuschneiden."
+  "samples": [
+    {
+      "sample-id": "ai_brecht_1938_01",
+      "index": 1,
+      "generator": {
+        "created_at": "2026-03-10T11:52:41.041203+00:00",
+        "sample_index": 1,
+        "prompt-id": "prompt_brecht",
+        "prompt_id": "prompt_brecht",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Ich schreibe fern der Heimat,\nwo der Wind die Sprache trägt,\ndoch meine Worte suchen Straßen,\ndie ich längst nicht mehr betrete.\n\nDeutschland schläft in schwerem Traum,\ndie Fenster sind verhängt.\nDie Stimmen, die einst Fragen stellten,\nhat man ins Schweigen gedrängt.\n\nIch kenne Namen ohne Gräber,\nGesichter ohne Ort.\nDie Wahrheit wandert heimatlos\nvon Wort zu flüchtigem Wort.\n\nUnd dennoch —\nirgendwo in dieser Nacht\nbrennt eine kleine Flamme.\n\nVielleicht in einem Zimmer,\nwo jemand leise denkt:\n„Es kann nicht ewig dunkel sein,\nkein Reich aus Angst besteht.“\n\nDenn selbst der tiefste Schatten\nvergisst den Morgen nicht.\n\nSo schreibe ich gegen die Finsternis,\nZeile um Zeile,\nals wäre jedes Wort\nein Streichholz im Wind.\n\nVielleicht verlöscht es.\nVielleicht nicht.\n\nDoch eines Tages, glaube ich,\nwird jemand diese Zeilen lesen\nund sagen:\n\nSie haben damals\ndoch nicht ganz geschwiegen."
+    },
+    {
+      "sample-id": "ai_brecht_1938_02",
+      "index": 2,
+      "generator": {
+        "created_at": "2026-03-10T11:52:42.041261+00:00",
+        "sample_index": 2,
+        "prompt-id": "prompt_brecht",
+        "prompt_id": "prompt_brecht",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Ich schreibe im fremden Zimmer\nbei schlechtem Licht,\ndie Fenster beschlagen vom Atem der Angst.\nDie Stadt draußen kennt meinen Namen nicht mehr.\n\nMein Land liegt hinter Grenzen aus Stacheldraht und Lügen,\nhinter Fahnen, die im Wind der Drohung knattern.\nDort marschieren die Stiefel\ndurch die Straßen meiner Kindheit.\n\nMan sagt:\nEin Dichter solle schweigen,\nwenn Kanonen sprechen.\n\nDoch gerade dann\nmuss einer das Wort bewahren.\n\nIch trage mein Deutschland\nnicht in den Parolen der Plätze,\nnicht in den erhobenen Armen der Menge,\nsondern in einem Satz,\nder sich weigert zu knien.\n\nManchmal frage ich die Nacht:\nHaben wir zu lange geschwiegen?\nHaben wir das Gift wachsen lassen\nim Garten unserer Geduld?\n\nDie Nacht antwortet nicht.\nNur der Wind blättert in meinen Papieren\nwie ein strenger Lehrer.\n\nAber irgendwo,\nunter Schutt aus Lärm und Fahnen,\nliegt noch ein leiser Same.\n\nUnd ich schreibe,\nals wäre jedes Wort\neine kleine Lampe\nim Tunnel der Jahre.\n\nDenn eines Tages\nwird jemand heimkehren\nmit diesen Sätzen in der Tasche\nund sagen:\n\nHier —\nhier hat einer nicht aufgehört,\nan den Morgen zu glauben."
+    },
+    {
+      "sample-id": "ai_brecht_1938_03",
+      "index": 3,
+      "generator": {
+        "created_at": "2026-03-10T11:52:43.041293+00:00",
+        "sample_index": 3,
+        "prompt-id": "prompt_brecht",
+        "prompt_id": "prompt_brecht",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Ich schreibe bei gedämpftem Licht,\ndie Fenster verhängt,\ndamit kein fremdes Auge sieht,\nwie ein Wort entsteht.\n\nDraußen marschiert der Lärm der Fahnen,\nStiefel zählen die Straßen,\nund die Nacht hat eine Stimme bekommen,\ndie Befehle spricht.\n\nMan sagt mir:\nSchweigen sei klüger als Wahrheit.\nMan sagt mir:\nEin Dichter habe kein Vaterland mehr,\nwenn er widerspricht.\n\nDoch ich habe noch Sprache.\n\nUnd sie ist ein kleines Feuer\nin einer Zeit aus nassem Holz.\nSie brennt schlecht,\nsie raucht,\nsie erstickt beinahe –\naber sie brennt.\n\nIch denke an Städte,\nin denen Bücher wie Vögel verbrannten.\nAn Freunde,\nderen Namen plötzlich flüstern mussten.\nAn Gesichter im Zugfenster,\ndie wussten,\ndass Abschied länger dauern kann\nals ein Leben.\n\nSchuld geht durch Europa\nwie ein kalter Wind,\nund niemand weiß,\nan wessen Tür sie morgen klopft.\n\nDoch irgendwo\nunter den Trümmern der Wörter\nliegt noch ein Samen.\n\nVielleicht wird einmal\nein Kind in einer freien Straße\nein Gedicht lesen\nund nicht verstehen,\nwarum wir flüstern mussten.\n\nDann, hoffe ich,\nwird dieses dunkle Jahrhundert\nnur noch klingen\nwie ein fernes Gewitter.\n\nUnd meine Zeile –\nheimlich geschrieben\nin einem Zimmer des Exils –\n\nwird leise sagen:\n\nWir waren nicht alle still"
+    },
+    {
+      "sample-id": "ai_brecht_1938_04",
+      "index": 4,
+      "generator": {
+        "created_at": "2026-03-10T11:52:44.041322+00:00",
+        "sample_index": 4,
+        "prompt-id": "prompt_brecht",
+        "prompt_id": "prompt_brecht",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Nacht Europas ist schwer geworden.\nSie liegt auf den Dächern wie nasser Ruß,\nund selbst der Morgen zögert\nhinter bleiernen Wolken.\n\nIch schreibe fern von meinen Straßen,\nfern von dem Fluss,\nder einst so ruhig durch meine Kindheit ging.\nNun trägt er vielleicht\ndie Schatten der Fahnen.\n\nMan fragt uns:\nWas nützt ein Wort gegen Stiefel?\n\nDoch ich habe gesehen,\nwie ein einziges Wort\nim Herzen eines Menschen\nzu einer Flamme wird.\n\nWir tragen Schuld,\nweil wir zu lange glaubten,\ndass der Sturm vorüberziehe\nwie ein Gewitter im Juli.\nNun wissen wir:\nMan muss sprechen,\nbevor die Häuser brennen.\n\nIch schreibe\ngegen die Mauern aus Lärm,\ngegen die Lüge,\ndie sich als Ordnung verkleidet.\n\nMeine Feder ist klein.\nAber sie erinnert mich daran,\ndass auch die Nacht\nnicht ewig ist.\n\nIrgendwo, jenseits der Grenzen,\nwird ein Kind aufwachen\nund ein freies Wort sprechen\nohne Angst.\n\nFür dieses Wort\nhalte ich durch.\nFür diesen Morgen."
+    },
+    {
+      "sample-id": "ai_brecht_1938_05",
+      "index": 5,
+      "generator": {
+        "created_at": "2026-03-10T11:52:45.041350+00:00",
+        "sample_index": 5,
+        "prompt-id": "prompt_brecht",
+        "prompt_id": "prompt_brecht",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Ich schreibe bei fremdem Licht,\nin einem Zimmer ohne Heimat.\nDie Wände kennen meinen Namen nicht,\nund doch bewahren sie mein Flüstern.\n\nDie Zeit ist ein schwarzer Strom.\nEr trägt Fahnen aus Lärm und Gehorsam,\nträgt Stiefel durch die Straßen der Erinnerung,\nund jedes Echo fragt:\nWer hat geschwiegen?\n\nIch denke an die Häuser meiner Stadt,\nan Fenster, hinter denen Angst wohnt.\nAn Bücher, die im Feuer sprachen,\nals Menschen längst verstummt waren.\n\nSchuld liegt schwer in unserer Sprache.\nSie sitzt zwischen den Worten,\nwie Staub nach einer Explosion,\nden niemand ganz aus der Luft bekommt.\n\nDoch irgendwo, jenseits der Parolen,\natmet noch ein leiser Mut.\nEr wächst in verbotenen Sätzen,\nin Briefen ohne Absender,\nin Händen, die sich im Dunkeln finden.\n\nVielleicht ist Hoffnung nichts Großes.\nKein Banner im Wind,\nkein lauter Sieg.\n\nVielleicht ist sie nur\nein Mann im Exil\nder weiterhin schreibt\nobwohl die Nacht\nnoch lange nicht endet."
+    },
+    {
+      "sample-id": "ai_brecht_1938_06",
+      "index": 6,
+      "generator": {
+        "created_at": "2026-03-10T11:52:46.041379+00:00",
+        "sample_index": 6,
+        "prompt-id": "prompt_brecht",
+        "prompt_id": "prompt_brecht",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Ich schreibe bei schwachem Licht.\nDie Fenster sind verhängt,\nnicht nur vor Blicken –\nauch vor der Zeit, die draußen marschiert.\n\nDie Straßen meiner Sprache\nliegen hinter Stacheldraht aus Parolen.\nWorte werden dort geschniegelt,\nin Uniform gesteckt,\nzum Gleichschritt gezwungen.\n\nIch aber sammle\ndie ungebügelten Silben.\n\nSie riechen noch nach Regen\nund nach dem Brot der Freiheit.\n\nMan sagt mir:\nSchweigen sei klug\nin einem Land,\ndas Ohren aus Stahl hat.\n\nDoch Schweigen\nist ein Grab ohne Erde.\n\nUnd irgendwo\nunter der Asche Europas\nglimmt noch\nein störrischer Funke Mensch.\n\nIch denke an Freunde\nmit verbrannten Namen\nin Listen und Lagern.\n\nIhre Stimmen\ngehen mit mir durchs Zimmer\nwie unsichtbare Gäste.\n\nSie fragen nicht:\n„Wirst du siegen?“\n\nSie fragen nur:\n„Wirst du sprechen?“\n\nSo schreibe ich\ngegen die Nacht an.\n\nNicht weil ich glaube,\ndass Worte Mauern sprengen.\n\nAber weil ein einziges\nungebrochenes Wort\nmanchmal genügt,\n\ndamit ein Mensch\nim Dunkeln erkennt:\n\nEr ist nicht allein."
+    },
+    {
+      "sample-id": "ai_brecht_1938_07",
+      "index": 7,
+      "generator": {
+        "created_at": "2026-03-10T11:52:47.041405+00:00",
+        "sample_index": 7,
+        "prompt-id": "prompt_brecht",
+        "prompt_id": "prompt_brecht",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Ich schreibe im Zimmer ohne Namen,\nin einer Stadt, die mich nicht kennt.\nDer Wind bringt fremde Sprachen\ndurch das undichte Fensterbrett,\nund manchmal glaube ich,\ner flüstert noch das Wort Heimat.\n\nDort, jenseits der Grenzen,\nmarschieren Stiefel durch die Morgenstunden.\nDort wird die Wahrheit leiser gesprochen\nals das Klirren eines Glases im Wirtshaus.\nUnd Bücher brennen,\nals wären Gedanken trockenes Holz.\n\nMan sagt: Der Dichter soll schweigen.\nMan sagt: Die Zeit verlangt Gehorsam.\nDoch ich kenne die Schuld des Schweigens —\nsie ist schwerer\nals jedes verbotene Wort.\n\nIch schreibe für die,\nderen Stimmen man aus den Zeitungen löschte,\nfür die Freunde ohne Grab,\nfür die Kinder,\ndie eines Tages fragen werden:\n„Warum habt ihr nichts gesagt?“\n\nUnd vielleicht wird dieses Blatt\nnie die Grenze überqueren.\nVielleicht bleibt es hier\nzwischen Koffer, Mantel und Nacht.\n\nDoch jedes geschriebene Wort\nist ein kleiner Trotz\ngegen die Dunkelheit.\n\nUnd solange eine Hand\nnoch eine Feder hält,\nist die Nacht\nnicht ganz Sieger."
+    },
+    {
+      "sample-id": "ai_brecht_1938_08",
+      "index": 8,
+      "generator": {
+        "created_at": "2026-03-10T11:52:48.041473+00:00",
+        "sample_index": 8,
+        "prompt-id": "prompt_brecht",
+        "prompt_id": "prompt_brecht",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Im Zimmer einer fremden Stadt\nsitzt einer, der die Heimat kennt\nnur noch aus Rauch, aus Briefen, aus Erinnern.\n\nDie Fenster sind weit,\ndoch die Luft trägt das Gewicht Europas.\nEin Kontinent, der seine Stimme verloren hat\nund nun marschiert.\n\nIch schreibe gegen Stiefel.\nGegen Fahnen,\ndie wie drohende Himmel hängen\nüber Straßen voller Schweigen.\n\nSie sagen:\nEin Dichter sei machtlos.\nEin Blatt Papier\nkein Schild gegen Gewehre.\n\nDoch Worte sind hartnäckig.\n\nSie überleben Mauern,\ndurchqueren Grenzen im Mantel der Nacht,\nlegen sich wie Funken\nin die Taschen der kommenden Zeit.\n\nIch denke an die,\ndie geblieben sind.\nAn Fenster mit zugezogenen Vorhängen,\nan Stimmen,\ndie nur noch flüstern dürfen.\n\nAuch ich fürchte mich.\nWer das leugnet,\nlügt bereits im Dienst der Tyrannen.\n\nAber Furcht\nist nicht das Ende der Sprache.\n\nSolange einer schreibt,\nsolange einer sagt: Nein,\nist die Dunkelheit nur eine Stunde,\nnicht die Ewigkeit.\n\nUnd irgendwo,\njenseits der Grenzpfähle und Parolen,\n\nlernt ein Kind ein neues Wort:\nFreiheit."
+    },
+    {
+      "sample-id": "ai_brecht_1938_09",
+      "index": 9,
+      "generator": {
+        "created_at": "2026-03-10T11:52:49.041502+00:00",
+        "sample_index": 9,
+        "prompt-id": "prompt_brecht",
+        "prompt_id": "prompt_brecht",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Nacht Europas ist schwer geworden,\nsie liegt auf den Dächern wie kalter Ruß.\nDie Städte flüstern nur noch leise,\nals fürchteten sie den eigenen Fuß.\n\nIch sitze fern von meinen Straßen,\nfern von dem Fluss, der meine Kindheit kennt.\nDer Wind trägt Namen aus der Heimat,\ndoch jeder klingt, als wär er verbrannt.\n\nMan sagte mir: Schweig.\nMan sagte mir: Vergiss.\nDoch Worte sind trotzige Vögel—\nsie bauen ihr Nest im Gewiss.\n\nWas ist ein Dichter in solcher Stunde?\nNur eine Hand, die im Dunkel schreibt,\nein Herz, das die Wahrheit bewahrt,\nwenn ringsum die Lüge schreit.\n\nIch kenne die Schuld unserer Stille,\ndas Wegsehen, das uns befiel wie Schnee.\nDoch irgendwo unter den Trümmern der Jahre\ngeht noch ein leiser Gedanke: Steh.\n\nSteh auf gegen Furcht, gegen Fahnen aus Eisen,\ngegen die Nacht, die das Denken verbrennt.\nDenn selbst in der Fremde wächst Hoffnung\nwie Gras durch den Riss im Zement.\n\nUnd wenn meine Heimat mich einst wieder ruft,\nnicht mit Trommeln, nicht mit Befehl—\ndann möge sie kommen als leiser Morgen\nüber ein Land, das gelernt hat zu wählen.\n\nBis dahin schreibe ich weiter\ngegen die Dunkelheit an—\ndenn manchmal beginnt ein Morgen\nmit der Feder\neines verbannten Mannes."
+    },
+    {
+      "sample-id": "ai_brecht_1938_10",
+      "index": 10,
+      "generator": {
+        "created_at": "2026-03-10T11:52:50.041533+00:00",
+        "sample_index": 10,
+        "prompt-id": "prompt_brecht",
+        "prompt_id": "prompt_brecht",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Nacht hier spricht mit fremdem Atem,\ndurch Ritzen zieht ein kalter Wind.\nEin Land liegt fern, doch in den Träumen\nhör ich noch, wer wir einmal sind.\n\nDie Straßen dort — sie tragen Schritte,\ndie schwerer sind als jedes Blei.\nMan geht und schweigt, man senkt die Blicke,\nund doch ist jeder Schritt ein Schrei.\n\nIch ging, weil Worte dort zu Flammen\nin falschen Händen werden konnten.\nDoch auch im Exil bleibt mir das Schreiben\nein Streichholz gegen dunkle Fronten.\n\nWas ist ein Dichter in der Ferne?\nEin Mann mit Schuld im Reisegepäck.\nDenn während ich hier Verse forme,\nbleibt mancher Bruder dort zurück.\n\nIch frage nachts die leere Decke:\nWar Weggehen Verrat — oder Pflicht?\nDoch Hoffnung ist ein störrisch Feuer,\nsie löscht auch im Verbannungslicht nicht.\n\nDenn keine Fahne, keine Lüge\nkann ewig über Menschen stehn.\nDie Wahrheit wächst in stillen Herzen\nwie Gras durch Stein — kaum zu ersehn.\n\nUnd eines Tages wird man fragen,\nwer schwieg und wer das Wort erhob.\nDann möge irgendwo noch klingen\nein kleines Lied, das widersprach."
+    }
+  ],
+  "text": "Ich schreibe fern der Heimat,\nwo der Wind die Sprache trägt,\ndoch meine Worte suchen Straßen,\ndie ich längst nicht mehr betrete.\n\nDeutschland schläft in schwerem Traum,\ndie Fenster sind verhängt.\nDie Stimmen, die einst Fragen stellten,\nhat man ins Schweigen gedrängt.\n\nIch kenne Namen ohne Gräber,\nGesichter ohne Ort.\nDie Wahrheit wandert heimatlos\nvon Wort zu flüchtigem Wort.\n\nUnd dennoch —\nirgendwo in dieser Nacht\nbrennt eine kleine Flamme.\n\nVielleicht in einem Zimmer,\nwo jemand leise denkt:\n„Es kann nicht ewig dunkel sein,\nkein Reich aus Angst besteht.“\n\nDenn selbst der tiefste Schatten\nvergisst den Morgen nicht.\n\nSo schreibe ich gegen die Finsternis,\nZeile um Zeile,\nals wäre jedes Wort\nein Streichholz im Wind.\n\nVielleicht verlöscht es.\nVielleicht nicht.\n\nDoch eines Tages, glaube ich,\nwird jemand diese Zeilen lesen\nund sagen:\n\nSie haben damals\ndoch nicht ganz geschwiegen.",
+  "texts": [
+    "Ich schreibe fern der Heimat,\nwo der Wind die Sprache trägt,\ndoch meine Worte suchen Straßen,\ndie ich längst nicht mehr betrete.\n\nDeutschland schläft in schwerem Traum,\ndie Fenster sind verhängt.\nDie Stimmen, die einst Fragen stellten,\nhat man ins Schweigen gedrängt.\n\nIch kenne Namen ohne Gräber,\nGesichter ohne Ort.\nDie Wahrheit wandert heimatlos\nvon Wort zu flüchtigem Wort.\n\nUnd dennoch —\nirgendwo in dieser Nacht\nbrennt eine kleine Flamme.\n\nVielleicht in einem Zimmer,\nwo jemand leise denkt:\n„Es kann nicht ewig dunkel sein,\nkein Reich aus Angst besteht.“\n\nDenn selbst der tiefste Schatten\nvergisst den Morgen nicht.\n\nSo schreibe ich gegen die Finsternis,\nZeile um Zeile,\nals wäre jedes Wort\nein Streichholz im Wind.\n\nVielleicht verlöscht es.\nVielleicht nicht.\n\nDoch eines Tages, glaube ich,\nwird jemand diese Zeilen lesen\nund sagen:\n\nSie haben damals\ndoch nicht ganz geschwiegen.",
+    "Ich schreibe im fremden Zimmer\nbei schlechtem Licht,\ndie Fenster beschlagen vom Atem der Angst.\nDie Stadt draußen kennt meinen Namen nicht mehr.\n\nMein Land liegt hinter Grenzen aus Stacheldraht und Lügen,\nhinter Fahnen, die im Wind der Drohung knattern.\nDort marschieren die Stiefel\ndurch die Straßen meiner Kindheit.\n\nMan sagt:\nEin Dichter solle schweigen,\nwenn Kanonen sprechen.\n\nDoch gerade dann\nmuss einer das Wort bewahren.\n\nIch trage mein Deutschland\nnicht in den Parolen der Plätze,\nnicht in den erhobenen Armen der Menge,\nsondern in einem Satz,\nder sich weigert zu knien.\n\nManchmal frage ich die Nacht:\nHaben wir zu lange geschwiegen?\nHaben wir das Gift wachsen lassen\nim Garten unserer Geduld?\n\nDie Nacht antwortet nicht.\nNur der Wind blättert in meinen Papieren\nwie ein strenger Lehrer.\n\nAber irgendwo,\nunter Schutt aus Lärm und Fahnen,\nliegt noch ein leiser Same.\n\nUnd ich schreibe,\nals wäre jedes Wort\neine kleine Lampe\nim Tunnel der Jahre.\n\nDenn eines Tages\nwird jemand heimkehren\nmit diesen Sätzen in der Tasche\nund sagen:\n\nHier —\nhier hat einer nicht aufgehört,\nan den Morgen zu glauben.",
+    "Ich schreibe bei gedämpftem Licht,\ndie Fenster verhängt,\ndamit kein fremdes Auge sieht,\nwie ein Wort entsteht.\n\nDraußen marschiert der Lärm der Fahnen,\nStiefel zählen die Straßen,\nund die Nacht hat eine Stimme bekommen,\ndie Befehle spricht.\n\nMan sagt mir:\nSchweigen sei klüger als Wahrheit.\nMan sagt mir:\nEin Dichter habe kein Vaterland mehr,\nwenn er widerspricht.\n\nDoch ich habe noch Sprache.\n\nUnd sie ist ein kleines Feuer\nin einer Zeit aus nassem Holz.\nSie brennt schlecht,\nsie raucht,\nsie erstickt beinahe –\naber sie brennt.\n\nIch denke an Städte,\nin denen Bücher wie Vögel verbrannten.\nAn Freunde,\nderen Namen plötzlich flüstern mussten.\nAn Gesichter im Zugfenster,\ndie wussten,\ndass Abschied länger dauern kann\nals ein Leben.\n\nSchuld geht durch Europa\nwie ein kalter Wind,\nund niemand weiß,\nan wessen Tür sie morgen klopft.\n\nDoch irgendwo\nunter den Trümmern der Wörter\nliegt noch ein Samen.\n\nVielleicht wird einmal\nein Kind in einer freien Straße\nein Gedicht lesen\nund nicht verstehen,\nwarum wir flüstern mussten.\n\nDann, hoffe ich,\nwird dieses dunkle Jahrhundert\nnur noch klingen\nwie ein fernes Gewitter.\n\nUnd meine Zeile –\nheimlich geschrieben\nin einem Zimmer des Exils –\n\nwird leise sagen:\n\nWir waren nicht alle still",
+    "Die Nacht Europas ist schwer geworden.\nSie liegt auf den Dächern wie nasser Ruß,\nund selbst der Morgen zögert\nhinter bleiernen Wolken.\n\nIch schreibe fern von meinen Straßen,\nfern von dem Fluss,\nder einst so ruhig durch meine Kindheit ging.\nNun trägt er vielleicht\ndie Schatten der Fahnen.\n\nMan fragt uns:\nWas nützt ein Wort gegen Stiefel?\n\nDoch ich habe gesehen,\nwie ein einziges Wort\nim Herzen eines Menschen\nzu einer Flamme wird.\n\nWir tragen Schuld,\nweil wir zu lange glaubten,\ndass der Sturm vorüberziehe\nwie ein Gewitter im Juli.\nNun wissen wir:\nMan muss sprechen,\nbevor die Häuser brennen.\n\nIch schreibe\ngegen die Mauern aus Lärm,\ngegen die Lüge,\ndie sich als Ordnung verkleidet.\n\nMeine Feder ist klein.\nAber sie erinnert mich daran,\ndass auch die Nacht\nnicht ewig ist.\n\nIrgendwo, jenseits der Grenzen,\nwird ein Kind aufwachen\nund ein freies Wort sprechen\nohne Angst.\n\nFür dieses Wort\nhalte ich durch.\nFür diesen Morgen.",
+    "Ich schreibe bei fremdem Licht,\nin einem Zimmer ohne Heimat.\nDie Wände kennen meinen Namen nicht,\nund doch bewahren sie mein Flüstern.\n\nDie Zeit ist ein schwarzer Strom.\nEr trägt Fahnen aus Lärm und Gehorsam,\nträgt Stiefel durch die Straßen der Erinnerung,\nund jedes Echo fragt:\nWer hat geschwiegen?\n\nIch denke an die Häuser meiner Stadt,\nan Fenster, hinter denen Angst wohnt.\nAn Bücher, die im Feuer sprachen,\nals Menschen längst verstummt waren.\n\nSchuld liegt schwer in unserer Sprache.\nSie sitzt zwischen den Worten,\nwie Staub nach einer Explosion,\nden niemand ganz aus der Luft bekommt.\n\nDoch irgendwo, jenseits der Parolen,\natmet noch ein leiser Mut.\nEr wächst in verbotenen Sätzen,\nin Briefen ohne Absender,\nin Händen, die sich im Dunkeln finden.\n\nVielleicht ist Hoffnung nichts Großes.\nKein Banner im Wind,\nkein lauter Sieg.\n\nVielleicht ist sie nur\nein Mann im Exil\nder weiterhin schreibt\nobwohl die Nacht\nnoch lange nicht endet.",
+    "Ich schreibe bei schwachem Licht.\nDie Fenster sind verhängt,\nnicht nur vor Blicken –\nauch vor der Zeit, die draußen marschiert.\n\nDie Straßen meiner Sprache\nliegen hinter Stacheldraht aus Parolen.\nWorte werden dort geschniegelt,\nin Uniform gesteckt,\nzum Gleichschritt gezwungen.\n\nIch aber sammle\ndie ungebügelten Silben.\n\nSie riechen noch nach Regen\nund nach dem Brot der Freiheit.\n\nMan sagt mir:\nSchweigen sei klug\nin einem Land,\ndas Ohren aus Stahl hat.\n\nDoch Schweigen\nist ein Grab ohne Erde.\n\nUnd irgendwo\nunter der Asche Europas\nglimmt noch\nein störrischer Funke Mensch.\n\nIch denke an Freunde\nmit verbrannten Namen\nin Listen und Lagern.\n\nIhre Stimmen\ngehen mit mir durchs Zimmer\nwie unsichtbare Gäste.\n\nSie fragen nicht:\n„Wirst du siegen?“\n\nSie fragen nur:\n„Wirst du sprechen?“\n\nSo schreibe ich\ngegen die Nacht an.\n\nNicht weil ich glaube,\ndass Worte Mauern sprengen.\n\nAber weil ein einziges\nungebrochenes Wort\nmanchmal genügt,\n\ndamit ein Mensch\nim Dunkeln erkennt:\n\nEr ist nicht allein.",
+    "Ich schreibe im Zimmer ohne Namen,\nin einer Stadt, die mich nicht kennt.\nDer Wind bringt fremde Sprachen\ndurch das undichte Fensterbrett,\nund manchmal glaube ich,\ner flüstert noch das Wort Heimat.\n\nDort, jenseits der Grenzen,\nmarschieren Stiefel durch die Morgenstunden.\nDort wird die Wahrheit leiser gesprochen\nals das Klirren eines Glases im Wirtshaus.\nUnd Bücher brennen,\nals wären Gedanken trockenes Holz.\n\nMan sagt: Der Dichter soll schweigen.\nMan sagt: Die Zeit verlangt Gehorsam.\nDoch ich kenne die Schuld des Schweigens —\nsie ist schwerer\nals jedes verbotene Wort.\n\nIch schreibe für die,\nderen Stimmen man aus den Zeitungen löschte,\nfür die Freunde ohne Grab,\nfür die Kinder,\ndie eines Tages fragen werden:\n„Warum habt ihr nichts gesagt?“\n\nUnd vielleicht wird dieses Blatt\nnie die Grenze überqueren.\nVielleicht bleibt es hier\nzwischen Koffer, Mantel und Nacht.\n\nDoch jedes geschriebene Wort\nist ein kleiner Trotz\ngegen die Dunkelheit.\n\nUnd solange eine Hand\nnoch eine Feder hält,\nist die Nacht\nnicht ganz Sieger.",
+    "Im Zimmer einer fremden Stadt\nsitzt einer, der die Heimat kennt\nnur noch aus Rauch, aus Briefen, aus Erinnern.\n\nDie Fenster sind weit,\ndoch die Luft trägt das Gewicht Europas.\nEin Kontinent, der seine Stimme verloren hat\nund nun marschiert.\n\nIch schreibe gegen Stiefel.\nGegen Fahnen,\ndie wie drohende Himmel hängen\nüber Straßen voller Schweigen.\n\nSie sagen:\nEin Dichter sei machtlos.\nEin Blatt Papier\nkein Schild gegen Gewehre.\n\nDoch Worte sind hartnäckig.\n\nSie überleben Mauern,\ndurchqueren Grenzen im Mantel der Nacht,\nlegen sich wie Funken\nin die Taschen der kommenden Zeit.\n\nIch denke an die,\ndie geblieben sind.\nAn Fenster mit zugezogenen Vorhängen,\nan Stimmen,\ndie nur noch flüstern dürfen.\n\nAuch ich fürchte mich.\nWer das leugnet,\nlügt bereits im Dienst der Tyrannen.\n\nAber Furcht\nist nicht das Ende der Sprache.\n\nSolange einer schreibt,\nsolange einer sagt: Nein,\nist die Dunkelheit nur eine Stunde,\nnicht die Ewigkeit.\n\nUnd irgendwo,\njenseits der Grenzpfähle und Parolen,\n\nlernt ein Kind ein neues Wort:\nFreiheit.",
+    "Die Nacht Europas ist schwer geworden,\nsie liegt auf den Dächern wie kalter Ruß.\nDie Städte flüstern nur noch leise,\nals fürchteten sie den eigenen Fuß.\n\nIch sitze fern von meinen Straßen,\nfern von dem Fluss, der meine Kindheit kennt.\nDer Wind trägt Namen aus der Heimat,\ndoch jeder klingt, als wär er verbrannt.\n\nMan sagte mir: Schweig.\nMan sagte mir: Vergiss.\nDoch Worte sind trotzige Vögel—\nsie bauen ihr Nest im Gewiss.\n\nWas ist ein Dichter in solcher Stunde?\nNur eine Hand, die im Dunkel schreibt,\nein Herz, das die Wahrheit bewahrt,\nwenn ringsum die Lüge schreit.\n\nIch kenne die Schuld unserer Stille,\ndas Wegsehen, das uns befiel wie Schnee.\nDoch irgendwo unter den Trümmern der Jahre\ngeht noch ein leiser Gedanke: Steh.\n\nSteh auf gegen Furcht, gegen Fahnen aus Eisen,\ngegen die Nacht, die das Denken verbrennt.\nDenn selbst in der Fremde wächst Hoffnung\nwie Gras durch den Riss im Zement.\n\nUnd wenn meine Heimat mich einst wieder ruft,\nnicht mit Trommeln, nicht mit Befehl—\ndann möge sie kommen als leiser Morgen\nüber ein Land, das gelernt hat zu wählen.\n\nBis dahin schreibe ich weiter\ngegen die Dunkelheit an—\ndenn manchmal beginnt ein Morgen\nmit der Feder\neines verbannten Mannes.",
+    "Die Nacht hier spricht mit fremdem Atem,\ndurch Ritzen zieht ein kalter Wind.\nEin Land liegt fern, doch in den Träumen\nhör ich noch, wer wir einmal sind.\n\nDie Straßen dort — sie tragen Schritte,\ndie schwerer sind als jedes Blei.\nMan geht und schweigt, man senkt die Blicke,\nund doch ist jeder Schritt ein Schrei.\n\nIch ging, weil Worte dort zu Flammen\nin falschen Händen werden konnten.\nDoch auch im Exil bleibt mir das Schreiben\nein Streichholz gegen dunkle Fronten.\n\nWas ist ein Dichter in der Ferne?\nEin Mann mit Schuld im Reisegepäck.\nDenn während ich hier Verse forme,\nbleibt mancher Bruder dort zurück.\n\nIch frage nachts die leere Decke:\nWar Weggehen Verrat — oder Pflicht?\nDoch Hoffnung ist ein störrisch Feuer,\nsie löscht auch im Verbannungslicht nicht.\n\nDenn keine Fahne, keine Lüge\nkann ewig über Menschen stehn.\nDie Wahrheit wächst in stillen Herzen\nwie Gras durch Stein — kaum zu ersehn.\n\nUnd eines Tages wird man fragen,\nwer schwieg und wer das Wort erhob.\nDann möge irgendwo noch klingen\nein kleines Lied, das widersprach."
+  ]
 }

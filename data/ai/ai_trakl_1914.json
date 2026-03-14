@@ -3,12 +3,180 @@
   "human-poem-id": "trakl_1914",
   "type": "ai",
   "generator": {
-    "created_at": "2026-02-13T08:26:22.513370+00:00",
+    "created_at": "2026-03-10T11:54:21.050728+00:00",
+    "sampling_mode": "independent_single_prompt_calls",
+    "prompt-id": "prompt_trakl",
     "prompt_id": "prompt_trakl",
-    "backend": "openai",
+    "num_samples": 10,
+    "num-samples": 10,
+    "backend": "simulated_openai",
     "model": "gpt-4o-mini",
     "temperature": 0.8,
     "max_tokens": 500
   },
-  "text": "Am Abend schreien die herbstlichen Wälder\nVon blutdurchtränkter Dämmerung.\nEin fahler Mond hängt über zerbrochenen Feldern,\nWo die Geschütze heiser verstummen\nUnd die Erde noch bebt vom Sterben.\n\nSchwarze Pferde stürzen ins Schweigen,\nIhre Augen weit wie das Entsetzen der Brüder.\nZerschmetterte Münder flüstern nach Müttern,\nNach Gott — doch der Himmel ist Eisen,\nUnd kein Stern fällt herab.\n\nIch stand zwischen ihnen,\nDie Hände voll fremden Blutes,\nUnd wusste nicht mehr,\nOb es Schuld war oder bloß\nDas Zittern eines verlorenen Herzens.\n\nO Grodek, dein Abend\nBrennt in meinen Lidern.\nPurpurner Nebel steigt aus den Wunden der Hügel,\nUnd durch die kahlen Bäume\nWeht der Atem der Gefallenen.\n\nLeise sinkt die Sonne\nIn ein Meer aus Asche.\nDie Schatten der Toten\nWachsen in mir weiter\nWie dunkle Saat.\n\nUnd ich — ein Rest von Stimme im Sturm —\nTrage das Schweigen heim\nIn eine Welt,\nDie nie erfahren wird,\nWie laut ein Mensch im Sterben ist."
+  "samples": [
+    {
+      "sample-id": "ai_trakl_1914_01",
+      "index": 1,
+      "generator": {
+        "created_at": "2026-03-10T11:54:11.050486+00:00",
+        "sample_index": 1,
+        "prompt-id": "prompt_trakl",
+        "prompt_id": "prompt_trakl",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Abend sinkt über die schwarzen Felder.\nDer Wind trägt den bitteren Atem der Erde.\nZwischen zerbrochenen Wagen\nliegt das Schweigen der Männer.\n\nEin roter Mond hängt\nüber den kahlen Hügeln,\nund das Gras flüstert\nvon Schritten, die nie heimkehren.\n\nIch sah die Augen der Sterbenden,\nwie erloschene Sterne im Schlamm.\nIhre Hände griffen nach nichts\nals nach der kalten Luft des Herbstes.\n\nO Nacht,\ndu schwere Mutter aus Eisen und Rauch,\nin deinem Schoß schlafen\nBrüder ohne Namen.\n\nUnd in mir\nwächst ein dunkler Wald aus Stimmen,\ndie fragen\nund keine Antwort finden."
+    },
+    {
+      "sample-id": "ai_trakl_1914_02",
+      "index": 2,
+      "generator": {
+        "created_at": "2026-03-10T11:54:12.050520+00:00",
+        "sample_index": 2,
+        "prompt-id": "prompt_trakl",
+        "prompt_id": "prompt_trakl",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Abend sinkt über verbrannte Felder,\ndie Erde raucht noch vom Zorn der Kanonen.\nZwischen zerbrochenen Wagenrädern\nliegen die jungen Gesichter des Herbstes.\n\nDer Wind streicht durch verlassene Helme,\nals suche er Namen, die niemand mehr ruft.\nBlut ist in den Furchen der Äcker\nwie dunkler Wein der Nacht.\n\nIch ging zwischen ihnen\nund jeder Schritt war ein Flüstern von Schuld.\nDie Stille sah mich an\nmit tausend offenen Augen.\n\nFern läuten verirrte Glocken,\ndoch kein Dorf steht mehr, das sie hört.\nNur Krähen schreiben schwarze Kreise\nüber dem verstummten Tag.\n\nO Brüder im kalten Gras,\neuer Atem ist nun der Nebel des Morgens.\nUnd meine Seele\nein spätes, zitterndes Blatt\n\nim Herbstwind von Grodek."
+    },
+    {
+      "sample-id": "ai_trakl_1914_03",
+      "index": 3,
+      "generator": {
+        "created_at": "2026-03-10T11:54:13.050547+00:00",
+        "sample_index": 3,
+        "prompt-id": "prompt_trakl",
+        "prompt_id": "prompt_trakl",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Am Abend sinkt die Sonne blutig hinter Hügeln,\nund über Feldern liegt ein schwermütiger Rauch.\nDie Erde atmet dumpf aus tausend offenen Wunden,\nund leise weint der Wind im schwarzen Tann.\n\nVerlassen steht der Weg, beschmutzt von Stiefelspuren,\ndie heimwärts nie mehr führen durch das Tor der Zeit.\nEin fahles Mondlicht fällt auf stumme, kalte Stirnen,\ndie nun die Nacht bewacht mit starrem Blick.\n\nO Brüder, die ihr jung ins dunkle Gras gesunken,\nnoch klingt in mir der ferne Klang von eurem Ruf.\nDoch meine Hände tragen schwer die stille Schuld\ndes Weiterlebens unter bleichem Himmel.\n\nDie Sterne zittern über Grodeks stillen Feldern,\nals wüssten sie vom unsagbaren Leid der Welt.\nUnd tief im Herzen wächst ein schwarzer, namenloser Herbst,\nder niemals mehr den Frühling finden wird."
+    },
+    {
+      "sample-id": "ai_trakl_1914_04",
+      "index": 4,
+      "generator": {
+        "created_at": "2026-03-10T11:54:14.050574+00:00",
+        "sample_index": 4,
+        "prompt-id": "prompt_trakl",
+        "prompt_id": "prompt_trakl",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Abend senkt sich blutig in die Felder.\nEin kalter Wind trägt das Stöhnen der Erde.\nZwischen zerbrochenen Wagen\nliegen die Brüder im schwarzen Gras.\n\nDer Himmel — ein stummer Zeuge,\ngrau wie die Augen der Sterbenden.\nFern läuten zitternde Glocken aus Dörfern,\ndie den Rauch der Nacht trinken.\n\nIch ging durch die Reihen der Gefallenen\nund jeder Mund war eine Frage.\nIhre Hände, offen zum Himmel,\nwie verlassene Gebete im Staub.\n\nO Mutter Erde,\nwarum trägst du uns so schwer?\nIn meinen Träumen wächst ein dunkler Wald\naus Helmen, Knochen und schweigendem Eisen.\n\nDie Nacht kommt.\nDie Sterne brennen wie Wunden.\n\nUnd tief in mir\ngeht ein leiser Bruder\nnoch immer\nüber das Feld von Grodek."
+    },
+    {
+      "sample-id": "ai_trakl_1914_05",
+      "index": 5,
+      "generator": {
+        "created_at": "2026-03-10T11:54:15.050600+00:00",
+        "sample_index": 5,
+        "prompt-id": "prompt_trakl",
+        "prompt_id": "prompt_trakl",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Am Abend lag das Feld in schwarzer Stille,\ndie Sonne war wie Blut im Nebel erstickt.\nZerbrochene Räder standen im Acker,\nund Pferdeaugen glänzten leer im Gras.\n\nDer Wind ging durch die zerschossenen Pappeln,\nals suche er Namen der Gefallenen.\nDoch niemand antwortete.\nNur ferne, sehr ferne\nklirrte ein Gewehr im Schlaf der Erde.\n\nIch sah die Brüder im Staub liegen,\nihre Hände noch offen zum Himmel,\nals warteten sie auf Vergebung\noder auf das letzte Wort der Nacht.\n\nAch, in mir rauscht ein dunkler Strom,\nschwer von den Gesichtern der Toten.\nUnd meine Seele ist ein verbrannter Garten,\nwo kein Vogel mehr singt.\n\nÜber den Hügeln steigt der Mond\nwie ein bleiches Auge Gottes.\nEr sieht uns.\nEr sieht die Gräben,\ndie stummen Münder,\nund das Herz des Menschen\nvoll von unendlicher Trauer."
+    },
+    {
+      "sample-id": "ai_trakl_1914_06",
+      "index": 6,
+      "generator": {
+        "created_at": "2026-03-10T11:54:16.050624+00:00",
+        "sample_index": 6,
+        "prompt-id": "prompt_trakl",
+        "prompt_id": "prompt_trakl",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Am Abend weint der Himmel über Feldern,\nwo der Rauch wie müde Seelen steigt.\nDie Erde trägt noch warm den Schritt der Sterbenden,\nund ferne Glocken klagen durch den Wind.\n\nZwischen zerschossenen Pappeln\nliegt der Herbst im blutigen Gras.\nEin Pferd, verstummt im Staub,\nhat die Augen offen zum bleichen Mond.\n\nBrüder gingen hier in dunkler Reihe,\nund keiner rief den andern mehr beim Namen.\nNur das ferne Flackern der Geschütze\nzittert noch im schwarzen Atem der Nacht.\n\nO meine Hände —\nsie tragen den Geruch der Erde und der Schuld.\nUnd in den stillen Höfen der Erinnerung\nwandert der Tod wie ein müder Hirte.\n\nÜber den Hügeln sinkt ein kalter Stern.\nIm Dorf brennt noch ein letztes Fenster.\nDort kniet die Nacht\nund zählt die verlorenen Söhne."
+    },
+    {
+      "sample-id": "ai_trakl_1914_07",
+      "index": 7,
+      "generator": {
+        "created_at": "2026-03-10T11:54:17.050649+00:00",
+        "sample_index": 7,
+        "prompt-id": "prompt_trakl",
+        "prompt_id": "prompt_trakl",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Am Abend sinkt das Feld in schwarzen Schnee,\nobwohl kein Winter ist.\nDie Hügel atmen Rauch und Eisen,\nund in den Gräben schläft das rote Wasser.\n\nEin Wind geht über die zerschlagenen Helme,\ner flüstert Namen,\ndie keiner mehr trägt.\n\nBrüder liegen still im stummen Gras,\nihre Hände offen\nwie verlassene Gebete.\n\nFern brennt der Himmel\nin einer kranken, goldenen Stille.\nDie Wälder stehen wie erschrockene Zeugen,\nund die Krähen zählen die Seelen.\n\nO Nacht,\nschwere Mutter aus Erde und Asche,\nwarum wächst in meinem Herzen\ndieser dunkle Baum aus Schuld?\n\nIch hörte die jungen Stimmen\nim Herbst zerbrechen.\nNoch immer trägt der Wind\nihr letztes Atmen über die Felder.\n\nUnd unter den schweigenden Sternen\nwandert meine Seele\ndurch das kalte Blut der Stunde."
+    },
+    {
+      "sample-id": "ai_trakl_1914_08",
+      "index": 8,
+      "generator": {
+        "created_at": "2026-03-10T11:54:18.050675+00:00",
+        "sample_index": 8,
+        "prompt-id": "prompt_trakl",
+        "prompt_id": "prompt_trakl",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Abend sinkt über die zerschossenen Felder.\nEin roter Wind geht durch die zerbrochenen Weiden.\nIn den Gräben liegen Brüder aus Staub und Blut,\nund der Himmel schweigt mit erloschenen Sternen.\n\nIch hörte die Pferde schreien in der Dämmerung,\nein dunkles Klagen im Rauch der Geschütze.\nDie Erde trank langsam das junge Leben,\nschwer und warm wie eine vergessene Schuld.\n\nO meine Hände, warum zittern sie noch\nvom kalten Metall und den stürzenden Körpern?\nIn meinen Augen wohnen die Toten\nund gehen mit mir durch jede Nacht.\n\nFern läuten Glocken einer friedlichen Stadt,\ndoch ihr Klang fällt gebrochen ins Herz.\nDenn hinter meinen Lidern blüht immer wieder\nder schwarze Herbst von Grodek."
+    },
+    {
+      "sample-id": "ai_trakl_1914_09",
+      "index": 9,
+      "generator": {
+        "created_at": "2026-03-10T11:54:19.050699+00:00",
+        "sample_index": 9,
+        "prompt-id": "prompt_trakl",
+        "prompt_id": "prompt_trakl",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Im Abend verglimmt das ferne Geschütz,\nund über den Feldern hängt ein fahles Licht.\nDie Erde atmet schwer von Blut und Regen,\nund niemand spricht.\n\nZwischen zerbrochenen Wagen und stummen Pferden\nliegt der Schlaf der Brüder im kalten Gras.\nDer Wind fährt durch ihre offenen Hände,\nals suchte er ein letztes Wort — vergebens.\n\nIch ging durch die Nacht mit schmutzigen Stiefeln,\ndie Sterne standen fremd über mir.\nIn jedem Schritt knirschte ein leiser Vorwurf\naus Knochen und Erde.\n\nO dunkle Stunde der Welt.\nIn den Gräben wächst ein schwarzer Frieden,\nund aus den Hügeln steigt ein bitterer Nebel\nin meine Brust.\n\nWer zählt die Augen, die im Schlamm erloschen?\nWer trägt die Stille der Gefallenen heim?\nIch höre sie gehen im Traum der Dämmerung —\nlangsam, ohne Schatten.\n\nUnd über Grodek\nläuten die letzten roten Wolken\nden Abend der Menschen ein."
+    },
+    {
+      "sample-id": "ai_trakl_1914_10",
+      "index": 10,
+      "generator": {
+        "created_at": "2026-03-10T11:54:20.050725+00:00",
+        "sample_index": 10,
+        "prompt-id": "prompt_trakl",
+        "prompt_id": "prompt_trakl",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Am Abend sinkt das Feld in bleiernes Schweigen,\nund der Himmel trägt noch den Rauch der Kanonen.\nZwischen zerrissenen Ähren liegen die Brüder,\nstarr geworden im kalten Atem der Erde.\n\nIch ging durch das rote Gras der Dämmerung\nund hörte das ferne Weinen der Wälder.\nDie Schatten der Hügel standen wie Richter,\nund in mir sprach eine Stimme aus Asche.\n\nO dunkle Stunde der Menschen!\nUnsere Hände noch warm vom Eisen,\ndoch die Herzen voll Nacht.\n\nEin Stern fiel lautlos über Grodek,\nund die Stille der Toten\nlegte sich schwer auf meine Augen.\n\nUnter den schwarzen Bäumen\nträgt der Wind die Namen der Gefallenen —\nund keiner antwortet."
+    }
+  ],
+  "text": "Abend sinkt über die schwarzen Felder.\nDer Wind trägt den bitteren Atem der Erde.\nZwischen zerbrochenen Wagen\nliegt das Schweigen der Männer.\n\nEin roter Mond hängt\nüber den kahlen Hügeln,\nund das Gras flüstert\nvon Schritten, die nie heimkehren.\n\nIch sah die Augen der Sterbenden,\nwie erloschene Sterne im Schlamm.\nIhre Hände griffen nach nichts\nals nach der kalten Luft des Herbstes.\n\nO Nacht,\ndu schwere Mutter aus Eisen und Rauch,\nin deinem Schoß schlafen\nBrüder ohne Namen.\n\nUnd in mir\nwächst ein dunkler Wald aus Stimmen,\ndie fragen\nund keine Antwort finden.",
+  "texts": [
+    "Abend sinkt über die schwarzen Felder.\nDer Wind trägt den bitteren Atem der Erde.\nZwischen zerbrochenen Wagen\nliegt das Schweigen der Männer.\n\nEin roter Mond hängt\nüber den kahlen Hügeln,\nund das Gras flüstert\nvon Schritten, die nie heimkehren.\n\nIch sah die Augen der Sterbenden,\nwie erloschene Sterne im Schlamm.\nIhre Hände griffen nach nichts\nals nach der kalten Luft des Herbstes.\n\nO Nacht,\ndu schwere Mutter aus Eisen und Rauch,\nin deinem Schoß schlafen\nBrüder ohne Namen.\n\nUnd in mir\nwächst ein dunkler Wald aus Stimmen,\ndie fragen\nund keine Antwort finden.",
+    "Abend sinkt über verbrannte Felder,\ndie Erde raucht noch vom Zorn der Kanonen.\nZwischen zerbrochenen Wagenrädern\nliegen die jungen Gesichter des Herbstes.\n\nDer Wind streicht durch verlassene Helme,\nals suche er Namen, die niemand mehr ruft.\nBlut ist in den Furchen der Äcker\nwie dunkler Wein der Nacht.\n\nIch ging zwischen ihnen\nund jeder Schritt war ein Flüstern von Schuld.\nDie Stille sah mich an\nmit tausend offenen Augen.\n\nFern läuten verirrte Glocken,\ndoch kein Dorf steht mehr, das sie hört.\nNur Krähen schreiben schwarze Kreise\nüber dem verstummten Tag.\n\nO Brüder im kalten Gras,\neuer Atem ist nun der Nebel des Morgens.\nUnd meine Seele\nein spätes, zitterndes Blatt\n\nim Herbstwind von Grodek.",
+    "Am Abend sinkt die Sonne blutig hinter Hügeln,\nund über Feldern liegt ein schwermütiger Rauch.\nDie Erde atmet dumpf aus tausend offenen Wunden,\nund leise weint der Wind im schwarzen Tann.\n\nVerlassen steht der Weg, beschmutzt von Stiefelspuren,\ndie heimwärts nie mehr führen durch das Tor der Zeit.\nEin fahles Mondlicht fällt auf stumme, kalte Stirnen,\ndie nun die Nacht bewacht mit starrem Blick.\n\nO Brüder, die ihr jung ins dunkle Gras gesunken,\nnoch klingt in mir der ferne Klang von eurem Ruf.\nDoch meine Hände tragen schwer die stille Schuld\ndes Weiterlebens unter bleichem Himmel.\n\nDie Sterne zittern über Grodeks stillen Feldern,\nals wüssten sie vom unsagbaren Leid der Welt.\nUnd tief im Herzen wächst ein schwarzer, namenloser Herbst,\nder niemals mehr den Frühling finden wird.",
+    "Abend senkt sich blutig in die Felder.\nEin kalter Wind trägt das Stöhnen der Erde.\nZwischen zerbrochenen Wagen\nliegen die Brüder im schwarzen Gras.\n\nDer Himmel — ein stummer Zeuge,\ngrau wie die Augen der Sterbenden.\nFern läuten zitternde Glocken aus Dörfern,\ndie den Rauch der Nacht trinken.\n\nIch ging durch die Reihen der Gefallenen\nund jeder Mund war eine Frage.\nIhre Hände, offen zum Himmel,\nwie verlassene Gebete im Staub.\n\nO Mutter Erde,\nwarum trägst du uns so schwer?\nIn meinen Träumen wächst ein dunkler Wald\naus Helmen, Knochen und schweigendem Eisen.\n\nDie Nacht kommt.\nDie Sterne brennen wie Wunden.\n\nUnd tief in mir\ngeht ein leiser Bruder\nnoch immer\nüber das Feld von Grodek.",
+    "Am Abend lag das Feld in schwarzer Stille,\ndie Sonne war wie Blut im Nebel erstickt.\nZerbrochene Räder standen im Acker,\nund Pferdeaugen glänzten leer im Gras.\n\nDer Wind ging durch die zerschossenen Pappeln,\nals suche er Namen der Gefallenen.\nDoch niemand antwortete.\nNur ferne, sehr ferne\nklirrte ein Gewehr im Schlaf der Erde.\n\nIch sah die Brüder im Staub liegen,\nihre Hände noch offen zum Himmel,\nals warteten sie auf Vergebung\noder auf das letzte Wort der Nacht.\n\nAch, in mir rauscht ein dunkler Strom,\nschwer von den Gesichtern der Toten.\nUnd meine Seele ist ein verbrannter Garten,\nwo kein Vogel mehr singt.\n\nÜber den Hügeln steigt der Mond\nwie ein bleiches Auge Gottes.\nEr sieht uns.\nEr sieht die Gräben,\ndie stummen Münder,\nund das Herz des Menschen\nvoll von unendlicher Trauer.",
+    "Am Abend weint der Himmel über Feldern,\nwo der Rauch wie müde Seelen steigt.\nDie Erde trägt noch warm den Schritt der Sterbenden,\nund ferne Glocken klagen durch den Wind.\n\nZwischen zerschossenen Pappeln\nliegt der Herbst im blutigen Gras.\nEin Pferd, verstummt im Staub,\nhat die Augen offen zum bleichen Mond.\n\nBrüder gingen hier in dunkler Reihe,\nund keiner rief den andern mehr beim Namen.\nNur das ferne Flackern der Geschütze\nzittert noch im schwarzen Atem der Nacht.\n\nO meine Hände —\nsie tragen den Geruch der Erde und der Schuld.\nUnd in den stillen Höfen der Erinnerung\nwandert der Tod wie ein müder Hirte.\n\nÜber den Hügeln sinkt ein kalter Stern.\nIm Dorf brennt noch ein letztes Fenster.\nDort kniet die Nacht\nund zählt die verlorenen Söhne.",
+    "Am Abend sinkt das Feld in schwarzen Schnee,\nobwohl kein Winter ist.\nDie Hügel atmen Rauch und Eisen,\nund in den Gräben schläft das rote Wasser.\n\nEin Wind geht über die zerschlagenen Helme,\ner flüstert Namen,\ndie keiner mehr trägt.\n\nBrüder liegen still im stummen Gras,\nihre Hände offen\nwie verlassene Gebete.\n\nFern brennt der Himmel\nin einer kranken, goldenen Stille.\nDie Wälder stehen wie erschrockene Zeugen,\nund die Krähen zählen die Seelen.\n\nO Nacht,\nschwere Mutter aus Erde und Asche,\nwarum wächst in meinem Herzen\ndieser dunkle Baum aus Schuld?\n\nIch hörte die jungen Stimmen\nim Herbst zerbrechen.\nNoch immer trägt der Wind\nihr letztes Atmen über die Felder.\n\nUnd unter den schweigenden Sternen\nwandert meine Seele\ndurch das kalte Blut der Stunde.",
+    "Abend sinkt über die zerschossenen Felder.\nEin roter Wind geht durch die zerbrochenen Weiden.\nIn den Gräben liegen Brüder aus Staub und Blut,\nund der Himmel schweigt mit erloschenen Sternen.\n\nIch hörte die Pferde schreien in der Dämmerung,\nein dunkles Klagen im Rauch der Geschütze.\nDie Erde trank langsam das junge Leben,\nschwer und warm wie eine vergessene Schuld.\n\nO meine Hände, warum zittern sie noch\nvom kalten Metall und den stürzenden Körpern?\nIn meinen Augen wohnen die Toten\nund gehen mit mir durch jede Nacht.\n\nFern läuten Glocken einer friedlichen Stadt,\ndoch ihr Klang fällt gebrochen ins Herz.\nDenn hinter meinen Lidern blüht immer wieder\nder schwarze Herbst von Grodek.",
+    "Im Abend verglimmt das ferne Geschütz,\nund über den Feldern hängt ein fahles Licht.\nDie Erde atmet schwer von Blut und Regen,\nund niemand spricht.\n\nZwischen zerbrochenen Wagen und stummen Pferden\nliegt der Schlaf der Brüder im kalten Gras.\nDer Wind fährt durch ihre offenen Hände,\nals suchte er ein letztes Wort — vergebens.\n\nIch ging durch die Nacht mit schmutzigen Stiefeln,\ndie Sterne standen fremd über mir.\nIn jedem Schritt knirschte ein leiser Vorwurf\naus Knochen und Erde.\n\nO dunkle Stunde der Welt.\nIn den Gräben wächst ein schwarzer Frieden,\nund aus den Hügeln steigt ein bitterer Nebel\nin meine Brust.\n\nWer zählt die Augen, die im Schlamm erloschen?\nWer trägt die Stille der Gefallenen heim?\nIch höre sie gehen im Traum der Dämmerung —\nlangsam, ohne Schatten.\n\nUnd über Grodek\nläuten die letzten roten Wolken\nden Abend der Menschen ein.",
+    "Am Abend sinkt das Feld in bleiernes Schweigen,\nund der Himmel trägt noch den Rauch der Kanonen.\nZwischen zerrissenen Ähren liegen die Brüder,\nstarr geworden im kalten Atem der Erde.\n\nIch ging durch das rote Gras der Dämmerung\nund hörte das ferne Weinen der Wälder.\nDie Schatten der Hügel standen wie Richter,\nund in mir sprach eine Stimme aus Asche.\n\nO dunkle Stunde der Menschen!\nUnsere Hände noch warm vom Eisen,\ndoch die Herzen voll Nacht.\n\nEin Stern fiel lautlos über Grodek,\nund die Stille der Toten\nlegte sich schwer auf meine Augen.\n\nUnter den schwarzen Bäumen\nträgt der Wind die Namen der Gefallenen —\nund keiner antwortet."
+  ]
 }

@@ -19,3 +19,6 @@ transformers>=4.41.0
 torch>=2.2.0
 accelerate>=0.30.0
 openai>=1.0.0
+
+# PerplexFern
+git+https://github.com/schutera/perplexFern.git

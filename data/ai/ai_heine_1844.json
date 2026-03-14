@@ -3,12 +3,180 @@
   "human-poem-id": "heine_1844",
   "type": "ai",
   "generator": {
-    "created_at": "2026-02-13T08:26:22.510682+00:00",
+    "created_at": "2026-03-10T11:53:31.045914+00:00",
+    "sampling_mode": "independent_single_prompt_calls",
+    "prompt-id": "prompt_heine",
     "prompt_id": "prompt_heine",
-    "backend": "openai",
+    "num_samples": 10,
+    "num-samples": 10,
+    "backend": "simulated_openai",
     "model": "gpt-4o-mini",
     "temperature": 0.8,
     "max_tokens": 500
   },
-  "text": "Im Dämmergrau der Hütten kauert\nder Hunger, bleich wie Winterschein,\nund durch die morschen Balken schauert\ndes Elends langer, stummer Pein.\n\nEs klappert noch der Webstuhl leise,\nals wär er selbst des Jammers Knecht,\ner schlägt im Takt die Trauerweise\nvom Lohn, der nie dem Fleiß entspricht.\n\nO Schlesiens geduld’ge Hände,\nvon Schwielen hart, vom Frost zerfurcht,\nwie oft schon rangt ihr ohne Ende\nmit Notdurft, Willkür, kalter Furcht!\n\nDer Kaufherr zählt in warmen Stuben\nden Gewinn aus eurem Blut und Schweiß;\nindes in feuchten, dunklen Gruben\ndas Kindlein friert, das Brot ist heiß—\ndoch nicht für euch, die ihr es webet,\nnicht für euch selbst der Tuches Pracht;\nwer Gold auf euren Schultern hebet,\nhat euch in Ketten festgemacht.\n\nIhr webt am Tuch der reichen Herren,\nihr webt an eurer eignen Not;\ndie Fäden, die die Finger zerren,\nsind Fäden aus Geduld und Brot.\n\nDoch hört! Es grollt in euren Reihen\nein Ton, der nicht mehr kläglich klingt;\nes ist, als ob aus tausend Schreien\nein neues, wildes Lied entspringt.\n\nDer Webstuhl wird zum Hammerdröhnen,\ndas Garn zur Sehne, straff gespannt;\nnicht länger wollt ihr still euch höhnen,\nnicht länger krümmt sich eure Hand.\n\nIhr schaut empor zu grauen Mauern,\nwo Recht im Purpur sich versteckt,\nund fühlt: Wenn wir noch länger kauern,\nso bleibt die Menschheit ungeweckt.\n\nDrum reißt die Fäden aus den Rahmen!\nZerbrecht den Stuhl, der euch versklavt!\nSchreibt euren Zorn mit Flammennamen\nan jede Tür, die euch betraft!\n\nNicht Raub ist’s, wenn der Hunger fordert,\nnicht Frevel, wenn die Not sich wehrt;\nwer Menschenwürde stets ermordet,\nhat selbst das Recht zuerst entehrt.\n\nO schles’sche Brüder, eure Klage\nist mehr als bloßer Schmerz und Streit;\nsie ist der Keim zu neuem Tage,\nzu Freiheit, Brot und Gerechtigkeit.\n\nUnd wenn auch Bajonette blitzen\nund Kerker drohn in finstrer Nacht—\nein Volk, das lernt, sich selbst zu schützen,\nhat schon den ersten Sieg vollbracht."
+  "samples": [
+    {
+      "sample-id": "ai_heine_1844_01",
+      "index": 1,
+      "generator": {
+        "created_at": "2026-03-10T11:53:21.045677+00:00",
+        "sample_index": 1,
+        "prompt-id": "prompt_heine",
+        "prompt_id": "prompt_heine",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Wir weben, wir weben im dunklen Raum,\nwo Hunger die Spindel dreht.\nDie Hände wund, der Rücken krumm,\ndoch keiner den Jammer versteht.\n\nDer Meister zählt seine Taler laut,\nsein Tisch ist reich gedeckt,\nwährend der Webstuhl klagt und stöhnt\nund unser Kinderschlaf erschreckt.\n\nDurch zitternde Fenster pfeift der Wind,\nals höhnte er über das Leid;\ndie Suppe dünn, das Brot so klein,\ndie Arbeit ohne Zeit.\n\nDoch hört ihr es schlagen, ihr Herren dort,\nim Tritt der müden Schar?\nDer Webstuhl ist nicht nur Werkzeug mehr —\ner klingt wie ein Aufruhrjahr.\n\nWir weben nicht mehr nur Leinwand und Tuch,\nwir weben den Zorn hinein,\nwir weben Flüche in Kett und Schuss\nfür eure Paläste aus Stein.\n\nUnd wenn der Morgen endlich bricht\ndurch Rauch und dumpfen Dunst,\ndann trägt der Stoff, den ihr begehrt,\ndie Spur von Hunger und Wut.\n\nWir weben, wir weben — doch merkt euch dies:\nDer Faden reißt einmal.\nDann fällt mit lautem, donnerndem Schlag\nder alte, morsche Saal."
+    },
+    {
+      "sample-id": "ai_heine_1844_02",
+      "index": 2,
+      "generator": {
+        "created_at": "2026-03-10T11:53:22.045710+00:00",
+        "sample_index": 2,
+        "prompt-id": "prompt_heine",
+        "prompt_id": "prompt_heine",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Webstühle knarren im dunklen Raum,\nkein Lied darin, kein Hoffnungs-Traum.\nDer Faden reißt, die Finger bluten,\ndoch draußen lachen volle Truhen.\n\nDie Kinder zählen Brotes Krümel,\nder Winter steht im kalten Himmel.\nDer Vater schweigt, die Mutter bebt,\nweil jeder Tag die Not nur hebt.\n\nDie Händler messen Tuch und Zeit,\ndoch messen nie der Armen Leid.\nSie wiegen Gold mit ruhiger Hand,\nwährend das Elend wächst im Land.\n\nDoch hört—im dumpfen Tritt der Nacht\nist neuer Klang und neue Macht.\nDer Webstuhl hämmert hart und schwer\nwie Donner über Stein und Meer.\n\nKein stilles Garn, kein leiser Fleiß—\nder Zorn wird Faden, rot und heiß.\nUnd jeder Schlag im Holz und Rad\nruft laut: Genug! Wir sind das Volk im Staat.\n\nDenn wer die Tücher dieser Welt\naus Hunger, Schweiß und Tränen hält,\nder webt nicht nur für Fürst und Herrn—\ner webt auch Zukunft, nah und fern."
+    },
+    {
+      "sample-id": "ai_heine_1844_03",
+      "index": 3,
+      "generator": {
+        "created_at": "2026-03-10T11:53:23.045737+00:00",
+        "sample_index": 3,
+        "prompt-id": "prompt_heine",
+        "prompt_id": "prompt_heine",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Wir weben im Dunkel am klappernden Stuhl,\nder Hunger sitzt schweigend mit uns im Gemach;\ndie Kinder sind still, ihre Augen sind hohl,\nund draußen zieht winternder Morgen hernach.\n\nWir weben, wir weben bei magerem Brot,\nder Faden ist dünn wie das Leben im Leib;\nder Meister zählt Groschen, wir zählen die Not,\nund Schuld wird zum Schatten im kärglichen Treib.\n\nDoch hört ihr das Pochen der Weberschlaghand?\nEs ist nicht nur Arbeit, es ist ein Gericht.\nEin Donnerschlag rollt durch das dürstige Land,\naus Fäden wird Zorn, aus dem Schweigen wird Pflicht.\n\nWir weben kein Tuch mehr für Herren und Thron,\nkein Mantel mehr, der eure Kälte verhüllt.\nWir weben den Sturm aus dem bitteren Lohn,\nder endlich die Kammern der Mächtigen füllt.\n\nDann bebt jeder Rahmen, dann reißt jedes Band,\ndas uns an die Armut der Jahre geknüpft.\nUnd über den Feldern, im aufstehenden Land,\nwird Freiheit gewoben — aus Fäden der Wut."
+    },
+    {
+      "sample-id": "ai_heine_1844_04",
+      "index": 4,
+      "generator": {
+        "created_at": "2026-03-10T11:53:24.045762+00:00",
+        "sample_index": 4,
+        "prompt-id": "prompt_heine",
+        "prompt_id": "prompt_heine",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Wir weben, wir weben am hungernden Webstuhl,\nder Tritt knarrt dumpf im kalten Raum.\nKein Brot im Haus, kein Licht im Fenster,\nnur Staub und Fäden — und ein Traum.\n\nDer Faden reißt wie unser Leben,\nso dünn gesponnen, grau und matt.\nDie Kinder zählen leere Stunden,\nder Vater zählt die Schuld der Stadt.\n\nDer Händler misst mit kalten Augen,\nsein Gold wiegt schwerer als unser Blut.\nEr lächelt still in warmen Stuben,\nwährend der Winter uns frieren tut.\n\nDoch hört, ihr Herren, hinter Mauern:\nDer Webstuhl schlägt nun anders laut.\nNicht nur den Stoff, auch Zorn und Klage\nhat jeder Faden mit gebaut.\n\nWir weben euch ein raues Tuch —\nkein Festgewand für eure Macht.\nEin Leichentuch für stolze Throne,\ngewirkt aus Hunger, Schmerz und Nacht.\n\nUnd wenn der letzte Faden spannt,\nwenn jeder Tritt wie Donner hallt,\ndann fällt der Stoff der alten Ordnung —\nvom Zorn der Weber fest geballt."
+    },
+    {
+      "sample-id": "ai_heine_1844_05",
+      "index": 5,
+      "generator": {
+        "created_at": "2026-03-10T11:53:25.045787+00:00",
+        "sample_index": 5,
+        "prompt-id": "prompt_heine",
+        "prompt_id": "prompt_heine",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Wir weben im Dunkel, am klappernden Stuhl,\ndie Hände wund, die Augen schwer,\nder Hunger sitzt bei uns zu Tisch\nund fordert täglich mehr.\n\nDer Faden reißt, der Rücken brennt,\nder Lohn ist Spott und Hohn,\ndoch über uns im warmen Haus\nlacht satt der Kaufmannssohn.\n\nWir weben nicht nur Tuch und Garn,\nwir weben stillen Groll,\nin jedem Schlag des Weberschiffs\nwird unser Zorn nun voll.\n\nDie Kinder blass, das Brot so klein,\ndie Nächte kalt und lang—\ndoch durch die engen Stuben zieht\nein neuer, dunkler Klang.\n\nEs ist kein Lied von Demut mehr,\nkein leiser Weberpsalm,\nes ist der Ruf nach Recht und Brot,\nder wächst zu Sturm und Lärm.\n\nSo weben wir bei Tag und Nacht\nam Tuch der neuen Zeit:\nEin Faden Wut, ein Faden Mut,\nund einer: Gerechtigkeit."
+    },
+    {
+      "sample-id": "ai_heine_1844_06",
+      "index": 6,
+      "generator": {
+        "created_at": "2026-03-10T11:53:26.045811+00:00",
+        "sample_index": 6,
+        "prompt-id": "prompt_heine",
+        "prompt_id": "prompt_heine",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Im Webstuhl klagt der Faden leis,\ndoch draußen grollt ein dumpfer Ton,\nder Hunger sitzt in jedem Kreis\nund wohnt in Hütte wie in Thron.\n\nDie Hände rau, das Auge hohl,\nder Rücken krumm vom langen Tag,\nwir weben Tuch für fremdes Wohl,\ndoch Brot bleibt knapp, und Hoffnung frag.\n\nDer Meister zählt den blanken Lohn,\nso schmal wie Wintersonnenschein;\ndoch hinter Mauern, fern vom Hohn,\nfällt Gold in schwere Truhen ein.\n\nO hört ihr Herren, kalt und satt,\nden Schlag des Webstuhls Nacht für Nacht?\nEs ist kein Lied der Arbeit glatt –\nes ist der Zorn, der leis erwacht.\n\nWir weben nicht nur Tuch und Kleid,\nwir weben Fluch in Kett und Schuss,\nfür Hunger, Kälte, bittere Zeit\nund jede Faust, die schweigen muss.\n\nUnd wenn der Faden endlich reißt,\nwenn Sturm durch dunkle Stuben zieht,\ndann wird aus dem, was still einst heißt,\nein Volk – das laut nach Gerechtigkeit schreit."
+    },
+    {
+      "sample-id": "ai_heine_1844_07",
+      "index": 7,
+      "generator": {
+        "created_at": "2026-03-10T11:53:27.045836+00:00",
+        "sample_index": 7,
+        "prompt-id": "prompt_heine",
+        "prompt_id": "prompt_heine",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Stuben sind kalt, der Webstuhl stöhnt,\nder Faden zittert in müder Hand,\nund durch die Fenster der Hunger weht\nwie Winterwind durchs Weberland.\n\nDie Kinder schweigen, die Suppe ist leer,\ndie Nacht ist länger als jedes Jahr,\ndoch in den Herzen der Armen wächst\nein Funke, der gestern noch Asche war.\n\nWir weben nicht mehr nur Tuch und Kleid,\nwir weben Zorn in Kette und Schuss,\nwir weben Fragen aus harter Zeit:\nWer nimmt uns alles – und warum muss?\n\nDie Herren zählen Gold und Gewinn,\nsie hören das Klagen im Dorfe nicht,\ndoch unter den Schlägen der Weberschäfte\nentsteht ein anderes, dunkles Gedicht.\n\nO hört ihr’s dröhnen im engen Raum?\nDas ist kein Webstuhl mehr allein.\nDas ist der Schritt eines Volkes, das\nnicht länger will geduldig sein.\n\nWir weben, wir hungern, wir schweigen nicht mehr,\ndie Fäden reißen im alten Kleid.\nUnd jeder Riss im gewebten Tuch\nist ein Beginn von Gerechtigkeit."
+    },
+    {
+      "sample-id": "ai_heine_1844_08",
+      "index": 8,
+      "generator": {
+        "created_at": "2026-03-10T11:53:28.045861+00:00",
+        "sample_index": 8,
+        "prompt-id": "prompt_heine",
+        "prompt_id": "prompt_heine",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Wir weben am Stuhle im düsteren Raum,\nder Hunger klopft leise an Tür und an Traum.\nDie Fäden sind rau, und die Hände sind wund,\ndoch Gold wächst dem Herrn aus unserem Grund.\n\nWir weben bei Nacht und wir weben bei Tag,\nweil keiner von uns noch zu hoffen vermag.\nDer Winter sitzt kalt in der Kammer aus Stein,\nund Brot ist so fern wie der Sonnenschein.\n\nDer Händler kommt lächelnd, sein Beutel ist schwer,\ner misst uns die Arbeit und zählt sie nicht mehr.\nEr wiegt unser Leben auf falschem Gewicht,\ndoch unsere Tränen – die sieht er nicht.\n\nWir weben ein Tuch aus Zorn und aus Leid,\naus flüsternder Wut und aus endloser Zeit.\nEin Muster aus Armut, aus Schweiß und aus Nacht,\ndas langsam zur Fahne der Armen erwacht.\n\nO hört ihr dort draußen das dumpfe Geräusch?\nDas Pochen der Webstühle ist längst kein Geräusch.\nEs ist wie ein Donner, der leise beginnt,\nweil tausend gebückte Rücken nun sind.\n\nDenn Fäden, die reißen, verknoten sich neu,\nund Herzen, die hungern, vergessen nicht treu.\nDer Stuhl schlägt den Takt, und der Zorn wird zum Lied:\nKein Volk bleibt geknechtet, wenn es sich erhebt."
+    },
+    {
+      "sample-id": "ai_heine_1844_09",
+      "index": 9,
+      "generator": {
+        "created_at": "2026-03-10T11:53:29.045886+00:00",
+        "sample_index": 9,
+        "prompt-id": "prompt_heine",
+        "prompt_id": "prompt_heine",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Wir weben im Dunkel, am klappernden Stuhl,\nder Hunger sitzt schweigend am Tisch.\nDie Kinder sind blass, und das Brot ist so schmal,\nder Winter im Herzen ist frisch.\n\nWir weben und weben bei flackerndem Licht,\nfür Herren, die keiner je sah.\nIhr Gold wächst im Schlaf, ihr Wein ist so rot,\ndoch unser Becher bleibt leer und schal.\n\nDer Meister zählt Münzen mit kalter Geduld,\nsein Blick ist so hart wie ein Stein.\nEr hört nicht das Seufzen der müden Gestalt,\nnicht der Kinder verlorenes Schrein.\n\nDoch draußen erwacht aus dem staubigen Tal\nein Grollen, das niemand mehr hält.\nDer Zorn der Weber erhebt sich wie Sturm\nund rüttelt am Tor dieser Welt.\n\nWir weben kein Tuch mehr für Thron und für Macht,\nkein Banner für Fürst und Gesetz.\nWir weben den Zorn in das graue Garn\nund knüpfen der Tyrannei Netz.\n\nIhr Herren, hört endlich das klirrende Lied\nder Stühle, die donnernd sich regen:\nEs ist nicht mehr Arbeit – es ist der Beginn\nvom Aufstand der Hungernden gegen euch."
+    },
+    {
+      "sample-id": "ai_heine_1844_10",
+      "index": 10,
+      "generator": {
+        "created_at": "2026-03-10T11:53:30.045910+00:00",
+        "sample_index": 10,
+        "prompt-id": "prompt_heine",
+        "prompt_id": "prompt_heine",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Wir weben am Webstuhl der hungernden Zeit,\nder Faden ist dünn und das Brot ist weit.\nDie Stube voll Staub, der Magen voll Not,\ndie Kinder so still wie der Schatten des Tods.\n\nDer Meister zählt Taler, wir zählen die Nacht,\ndie Hände sind wund von der endlosen Schlacht.\nIm Klappern der Spulen, im dumpfen Getön\nhör ich unser Elend wie Donner aufstehn.\n\nDer Fürst sitzt im Lichte, im Samt und im Wein,\ndoch draußen im Dunkel steht niemand allein.\nDenn unter den Dächern aus Rauch und aus Leid\nwächst leise ein Zorn wie ein Sturm in der Zeit.\n\nWir weben kein Tuch nur für Herren und Thron,\nwir weben den Aufstand aus Hunger und Hohn.\nMit Fäden aus Schmerz und aus bitterem Recht\nentsteht ein Gewand für ein neues Geschlecht.\n\nUnd wenn unser Webstuhl zerbricht in der Wut,\ndann färbt nicht mehr Indigo — sondern unser Blut.\nDoch aus jedem Tropfen, der fällt in die Nacht,\nwird Morgen gewebt — von des Volkes Macht."
+    }
+  ],
+  "text": "Wir weben, wir weben im dunklen Raum,\nwo Hunger die Spindel dreht.\nDie Hände wund, der Rücken krumm,\ndoch keiner den Jammer versteht.\n\nDer Meister zählt seine Taler laut,\nsein Tisch ist reich gedeckt,\nwährend der Webstuhl klagt und stöhnt\nund unser Kinderschlaf erschreckt.\n\nDurch zitternde Fenster pfeift der Wind,\nals höhnte er über das Leid;\ndie Suppe dünn, das Brot so klein,\ndie Arbeit ohne Zeit.\n\nDoch hört ihr es schlagen, ihr Herren dort,\nim Tritt der müden Schar?\nDer Webstuhl ist nicht nur Werkzeug mehr —\ner klingt wie ein Aufruhrjahr.\n\nWir weben nicht mehr nur Leinwand und Tuch,\nwir weben den Zorn hinein,\nwir weben Flüche in Kett und Schuss\nfür eure Paläste aus Stein.\n\nUnd wenn der Morgen endlich bricht\ndurch Rauch und dumpfen Dunst,\ndann trägt der Stoff, den ihr begehrt,\ndie Spur von Hunger und Wut.\n\nWir weben, wir weben — doch merkt euch dies:\nDer Faden reißt einmal.\nDann fällt mit lautem, donnerndem Schlag\nder alte, morsche Saal.",
+  "texts": [
+    "Wir weben, wir weben im dunklen Raum,\nwo Hunger die Spindel dreht.\nDie Hände wund, der Rücken krumm,\ndoch keiner den Jammer versteht.\n\nDer Meister zählt seine Taler laut,\nsein Tisch ist reich gedeckt,\nwährend der Webstuhl klagt und stöhnt\nund unser Kinderschlaf erschreckt.\n\nDurch zitternde Fenster pfeift der Wind,\nals höhnte er über das Leid;\ndie Suppe dünn, das Brot so klein,\ndie Arbeit ohne Zeit.\n\nDoch hört ihr es schlagen, ihr Herren dort,\nim Tritt der müden Schar?\nDer Webstuhl ist nicht nur Werkzeug mehr —\ner klingt wie ein Aufruhrjahr.\n\nWir weben nicht mehr nur Leinwand und Tuch,\nwir weben den Zorn hinein,\nwir weben Flüche in Kett und Schuss\nfür eure Paläste aus Stein.\n\nUnd wenn der Morgen endlich bricht\ndurch Rauch und dumpfen Dunst,\ndann trägt der Stoff, den ihr begehrt,\ndie Spur von Hunger und Wut.\n\nWir weben, wir weben — doch merkt euch dies:\nDer Faden reißt einmal.\nDann fällt mit lautem, donnerndem Schlag\nder alte, morsche Saal.",
+    "Die Webstühle knarren im dunklen Raum,\nkein Lied darin, kein Hoffnungs-Traum.\nDer Faden reißt, die Finger bluten,\ndoch draußen lachen volle Truhen.\n\nDie Kinder zählen Brotes Krümel,\nder Winter steht im kalten Himmel.\nDer Vater schweigt, die Mutter bebt,\nweil jeder Tag die Not nur hebt.\n\nDie Händler messen Tuch und Zeit,\ndoch messen nie der Armen Leid.\nSie wiegen Gold mit ruhiger Hand,\nwährend das Elend wächst im Land.\n\nDoch hört—im dumpfen Tritt der Nacht\nist neuer Klang und neue Macht.\nDer Webstuhl hämmert hart und schwer\nwie Donner über Stein und Meer.\n\nKein stilles Garn, kein leiser Fleiß—\nder Zorn wird Faden, rot und heiß.\nUnd jeder Schlag im Holz und Rad\nruft laut: Genug! Wir sind das Volk im Staat.\n\nDenn wer die Tücher dieser Welt\naus Hunger, Schweiß und Tränen hält,\nder webt nicht nur für Fürst und Herrn—\ner webt auch Zukunft, nah und fern.",
+    "Wir weben im Dunkel am klappernden Stuhl,\nder Hunger sitzt schweigend mit uns im Gemach;\ndie Kinder sind still, ihre Augen sind hohl,\nund draußen zieht winternder Morgen hernach.\n\nWir weben, wir weben bei magerem Brot,\nder Faden ist dünn wie das Leben im Leib;\nder Meister zählt Groschen, wir zählen die Not,\nund Schuld wird zum Schatten im kärglichen Treib.\n\nDoch hört ihr das Pochen der Weberschlaghand?\nEs ist nicht nur Arbeit, es ist ein Gericht.\nEin Donnerschlag rollt durch das dürstige Land,\naus Fäden wird Zorn, aus dem Schweigen wird Pflicht.\n\nWir weben kein Tuch mehr für Herren und Thron,\nkein Mantel mehr, der eure Kälte verhüllt.\nWir weben den Sturm aus dem bitteren Lohn,\nder endlich die Kammern der Mächtigen füllt.\n\nDann bebt jeder Rahmen, dann reißt jedes Band,\ndas uns an die Armut der Jahre geknüpft.\nUnd über den Feldern, im aufstehenden Land,\nwird Freiheit gewoben — aus Fäden der Wut.",
+    "Wir weben, wir weben am hungernden Webstuhl,\nder Tritt knarrt dumpf im kalten Raum.\nKein Brot im Haus, kein Licht im Fenster,\nnur Staub und Fäden — und ein Traum.\n\nDer Faden reißt wie unser Leben,\nso dünn gesponnen, grau und matt.\nDie Kinder zählen leere Stunden,\nder Vater zählt die Schuld der Stadt.\n\nDer Händler misst mit kalten Augen,\nsein Gold wiegt schwerer als unser Blut.\nEr lächelt still in warmen Stuben,\nwährend der Winter uns frieren tut.\n\nDoch hört, ihr Herren, hinter Mauern:\nDer Webstuhl schlägt nun anders laut.\nNicht nur den Stoff, auch Zorn und Klage\nhat jeder Faden mit gebaut.\n\nWir weben euch ein raues Tuch —\nkein Festgewand für eure Macht.\nEin Leichentuch für stolze Throne,\ngewirkt aus Hunger, Schmerz und Nacht.\n\nUnd wenn der letzte Faden spannt,\nwenn jeder Tritt wie Donner hallt,\ndann fällt der Stoff der alten Ordnung —\nvom Zorn der Weber fest geballt.",
+    "Wir weben im Dunkel, am klappernden Stuhl,\ndie Hände wund, die Augen schwer,\nder Hunger sitzt bei uns zu Tisch\nund fordert täglich mehr.\n\nDer Faden reißt, der Rücken brennt,\nder Lohn ist Spott und Hohn,\ndoch über uns im warmen Haus\nlacht satt der Kaufmannssohn.\n\nWir weben nicht nur Tuch und Garn,\nwir weben stillen Groll,\nin jedem Schlag des Weberschiffs\nwird unser Zorn nun voll.\n\nDie Kinder blass, das Brot so klein,\ndie Nächte kalt und lang—\ndoch durch die engen Stuben zieht\nein neuer, dunkler Klang.\n\nEs ist kein Lied von Demut mehr,\nkein leiser Weberpsalm,\nes ist der Ruf nach Recht und Brot,\nder wächst zu Sturm und Lärm.\n\nSo weben wir bei Tag und Nacht\nam Tuch der neuen Zeit:\nEin Faden Wut, ein Faden Mut,\nund einer: Gerechtigkeit.",
+    "Im Webstuhl klagt der Faden leis,\ndoch draußen grollt ein dumpfer Ton,\nder Hunger sitzt in jedem Kreis\nund wohnt in Hütte wie in Thron.\n\nDie Hände rau, das Auge hohl,\nder Rücken krumm vom langen Tag,\nwir weben Tuch für fremdes Wohl,\ndoch Brot bleibt knapp, und Hoffnung frag.\n\nDer Meister zählt den blanken Lohn,\nso schmal wie Wintersonnenschein;\ndoch hinter Mauern, fern vom Hohn,\nfällt Gold in schwere Truhen ein.\n\nO hört ihr Herren, kalt und satt,\nden Schlag des Webstuhls Nacht für Nacht?\nEs ist kein Lied der Arbeit glatt –\nes ist der Zorn, der leis erwacht.\n\nWir weben nicht nur Tuch und Kleid,\nwir weben Fluch in Kett und Schuss,\nfür Hunger, Kälte, bittere Zeit\nund jede Faust, die schweigen muss.\n\nUnd wenn der Faden endlich reißt,\nwenn Sturm durch dunkle Stuben zieht,\ndann wird aus dem, was still einst heißt,\nein Volk – das laut nach Gerechtigkeit schreit.",
+    "Die Stuben sind kalt, der Webstuhl stöhnt,\nder Faden zittert in müder Hand,\nund durch die Fenster der Hunger weht\nwie Winterwind durchs Weberland.\n\nDie Kinder schweigen, die Suppe ist leer,\ndie Nacht ist länger als jedes Jahr,\ndoch in den Herzen der Armen wächst\nein Funke, der gestern noch Asche war.\n\nWir weben nicht mehr nur Tuch und Kleid,\nwir weben Zorn in Kette und Schuss,\nwir weben Fragen aus harter Zeit:\nWer nimmt uns alles – und warum muss?\n\nDie Herren zählen Gold und Gewinn,\nsie hören das Klagen im Dorfe nicht,\ndoch unter den Schlägen der Weberschäfte\nentsteht ein anderes, dunkles Gedicht.\n\nO hört ihr’s dröhnen im engen Raum?\nDas ist kein Webstuhl mehr allein.\nDas ist der Schritt eines Volkes, das\nnicht länger will geduldig sein.\n\nWir weben, wir hungern, wir schweigen nicht mehr,\ndie Fäden reißen im alten Kleid.\nUnd jeder Riss im gewebten Tuch\nist ein Beginn von Gerechtigkeit.",
+    "Wir weben am Stuhle im düsteren Raum,\nder Hunger klopft leise an Tür und an Traum.\nDie Fäden sind rau, und die Hände sind wund,\ndoch Gold wächst dem Herrn aus unserem Grund.\n\nWir weben bei Nacht und wir weben bei Tag,\nweil keiner von uns noch zu hoffen vermag.\nDer Winter sitzt kalt in der Kammer aus Stein,\nund Brot ist so fern wie der Sonnenschein.\n\nDer Händler kommt lächelnd, sein Beutel ist schwer,\ner misst uns die Arbeit und zählt sie nicht mehr.\nEr wiegt unser Leben auf falschem Gewicht,\ndoch unsere Tränen – die sieht er nicht.\n\nWir weben ein Tuch aus Zorn und aus Leid,\naus flüsternder Wut und aus endloser Zeit.\nEin Muster aus Armut, aus Schweiß und aus Nacht,\ndas langsam zur Fahne der Armen erwacht.\n\nO hört ihr dort draußen das dumpfe Geräusch?\nDas Pochen der Webstühle ist längst kein Geräusch.\nEs ist wie ein Donner, der leise beginnt,\nweil tausend gebückte Rücken nun sind.\n\nDenn Fäden, die reißen, verknoten sich neu,\nund Herzen, die hungern, vergessen nicht treu.\nDer Stuhl schlägt den Takt, und der Zorn wird zum Lied:\nKein Volk bleibt geknechtet, wenn es sich erhebt.",
+    "Wir weben im Dunkel, am klappernden Stuhl,\nder Hunger sitzt schweigend am Tisch.\nDie Kinder sind blass, und das Brot ist so schmal,\nder Winter im Herzen ist frisch.\n\nWir weben und weben bei flackerndem Licht,\nfür Herren, die keiner je sah.\nIhr Gold wächst im Schlaf, ihr Wein ist so rot,\ndoch unser Becher bleibt leer und schal.\n\nDer Meister zählt Münzen mit kalter Geduld,\nsein Blick ist so hart wie ein Stein.\nEr hört nicht das Seufzen der müden Gestalt,\nnicht der Kinder verlorenes Schrein.\n\nDoch draußen erwacht aus dem staubigen Tal\nein Grollen, das niemand mehr hält.\nDer Zorn der Weber erhebt sich wie Sturm\nund rüttelt am Tor dieser Welt.\n\nWir weben kein Tuch mehr für Thron und für Macht,\nkein Banner für Fürst und Gesetz.\nWir weben den Zorn in das graue Garn\nund knüpfen der Tyrannei Netz.\n\nIhr Herren, hört endlich das klirrende Lied\nder Stühle, die donnernd sich regen:\nEs ist nicht mehr Arbeit – es ist der Beginn\nvom Aufstand der Hungernden gegen euch.",
+    "Wir weben am Webstuhl der hungernden Zeit,\nder Faden ist dünn und das Brot ist weit.\nDie Stube voll Staub, der Magen voll Not,\ndie Kinder so still wie der Schatten des Tods.\n\nDer Meister zählt Taler, wir zählen die Nacht,\ndie Hände sind wund von der endlosen Schlacht.\nIm Klappern der Spulen, im dumpfen Getön\nhör ich unser Elend wie Donner aufstehn.\n\nDer Fürst sitzt im Lichte, im Samt und im Wein,\ndoch draußen im Dunkel steht niemand allein.\nDenn unter den Dächern aus Rauch und aus Leid\nwächst leise ein Zorn wie ein Sturm in der Zeit.\n\nWir weben kein Tuch nur für Herren und Thron,\nwir weben den Aufstand aus Hunger und Hohn.\nMit Fäden aus Schmerz und aus bitterem Recht\nentsteht ein Gewand für ein neues Geschlecht.\n\nUnd wenn unser Webstuhl zerbricht in der Wut,\ndann färbt nicht mehr Indigo — sondern unser Blut.\nDoch aus jedem Tropfen, der fällt in die Nacht,\nwird Morgen gewebt — von des Volkes Macht."
+  ]
 }

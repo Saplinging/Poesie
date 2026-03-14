@@ -1,0 +1,92 @@
+{
+  "plots_dir": "results/plots",
+  "generated": [
+    {
+      "metric": "ppl",
+      "label": "Perplexity (dbmdz/german-gpt2)",
+      "lower_is_better": true,
+      "files": [
+        "results\\plots\\ppl__dist.png",
+        "results\\plots\\ppl__delta.png",
+        "results\\plots\\ppl__scatter.png"
+      ]
+    },
+    {
+      "metric": "distinct_2",
+      "label": "Distinct-2",
+      "lower_is_better": false,
+      "files": [
+        "results\\plots\\distinct_2__dist.png",
+        "results\\plots\\distinct_2__delta.png",
+        "results\\plots\\distinct_2__scatter.png"
+      ]
+    },
+    {
+      "metric": "mattr",
+      "label": "MATTR",
+      "lower_is_better": false,
+      "files": [
+        "results\\plots\\mattr__dist.png",
+        "results\\plots\\mattr__delta.png",
+        "results\\plots\\mattr__scatter.png"
+      ]
+    },
+    {
+      "metric": "token_entropy",
+      "label": "Token-Entropy (bits)",
+      "lower_is_better": false,
+      "files": [
+        "results\\plots\\token_entropy__dist.png",
+        "results\\plots\\token_entropy__delta.png",
+        "results\\plots\\token_entropy__scatter.png"
+      ]
+    },
+    {
+      "metric": "repetition_rate",
+      "label": "Repetition Rate",
+      "lower_is_better": true,
+      "files": [
+        "results\\plots\\repetition_rate__dist.png",
+        "results\\plots\\repetition_rate__delta.png",
+        "results\\plots\\repetition_rate__scatter.png"
+      ]
+    },
+    {
+      "metric": "compression_ratio",
+      "label": "Compression Ratio (gzip/raw)",
+      "lower_is_better": true,
+      "files": [
+        "results\\plots\\compression_ratio__dist.png",
+        "results\\plots\\compression_ratio__delta.png",
+        "results\\plots\\compression_ratio__scatter.png"
+      ]
+    },
+    {
+      "metric": "prompt_keyword_coverage",
+      "label": "Prompt Keyword Coverage",
+      "lower_is_better": false,
+      "files": [
+        "results\\plots\\prompt_keyword_coverage__dist.png",
+        "results\\plots\\prompt_keyword_coverage__delta.png",
+        "results\\plots\\prompt_keyword_coverage__scatter.png"
+      ]
+    },
+    {
+      "metric": "delta_heatmap",
+      "files": [
+        "results\\plots\\delta_heatmap.png"
+      ]
+    },
+    {
+      "metric": "self_bleu2",
+      "files": [
+        "results\\plots\\self_bleu2__bar.png"
+      ]
+    }
+  ],
+  "notes": [
+    "dist: AI sample distribution (box+jitter) with human reference marker",
+    "delta: AI mean minus human per poem",
+    "scatter: Human value vs AI mean per poem"
+  ]
+}

@@ -3,12 +3,180 @@
   "human-poem-id": "hoelderlin_1804",
   "type": "ai",
   "generator": {
-    "created_at": "2026-02-13T08:26:22.511696+00:00",
+    "created_at": "2026-03-10T11:53:51.048070+00:00",
+    "sampling_mode": "independent_single_prompt_calls",
+    "prompt-id": "prompt_hoelderlin",
     "prompt_id": "prompt_hoelderlin",
-    "backend": "openai",
+    "num_samples": 10,
+    "num-samples": 10,
+    "backend": "simulated_openai",
     "model": "gpt-4o-mini",
     "temperature": 0.8,
     "max_tokens": 500
   },
-  "text": "Der Abend sinkt mit blassem, müdem Scheine\nAuf meine Stirn, die heiß von Grübeln brennt;\nEin kalter Hauch fährt durch die welken Haine,\nAls ob die Zeit mein heimlich Weinen kennt.\n\nIch steh allein im dämmernden Gefilde,\nWo fern ein letzter Vogel klagend zieht;\nSein Ruf verhallt im schwermutsvollen Wilde,\nGleich meiner Hoffnung, die im Schatten flieht.\n\nO Herz, wie pochst du bang im engen Leibe,\nAls ahntest du des Schicksals dunklen Gang!\nEin leiser Riss geht durch die Lebensscheibe,\nUnd jeder Atem währt mir schon zu lang.\n\nIch fühle nah die Schritte jener Stunde,\nDie still und ernst an meine Türe klopft;\nSie legt mir Reif um jede frische Wunde\nUnd löscht das Feuer, das im Busen tropft.\n\nVergänglichkeit, du heimlich bittre Blume,\nDie aus dem Staube unsrer Tage blüht—\nSchon streust du Duft von frühem, kaltem Ruhme\nAuf alles, was in junger Glut erglüht.\n\nSo will ich denn im letzten Abendrote\nNoch einmal schaun der Wolken goldnes Blut;\nVielleicht birgt selbst der Schattenbote\nEin mildes Licht in seiner dunklen Flut.\n\nUnd sink ich einst im nächtlich tiefen Schweigen,\nVom Sturm der Zeit ermattet und gebeugt—\nSo mag mein Sehnen wie ein Stern sich zeigen,\nDer über Grab und Gram hinauf sich neigt."
+  "samples": [
+    {
+      "sample-id": "ai_hoelderlin_1804_01",
+      "index": 1,
+      "generator": {
+        "created_at": "2026-03-10T11:53:41.047768+00:00",
+        "sample_index": 1,
+        "prompt-id": "prompt_hoelderlin",
+        "prompt_id": "prompt_hoelderlin",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Der Abend sinkt mit leisem, bleichem Schweigen,\nEin matter Stern erwacht im dunklen Blau;\nEs scheint, als wollt’ die Welt sich still verneigen\nVor einer Trauer, alt und namenlos genau.\n\nEin Wind durchzieht die müden Lindenbäume,\nAls flüsterten sie von vergangner Zeit;\nUnd fern im Herzen regen sich die Räume\nDer Sehnsucht und der dunklen Ewigkeit.\n\nWas gestern blühte, liegt schon halb im Sinken,\nEin Blatt verweht im Strom der Stunden sacht;\nWir sind nur Flammen, die im Dunkel blinken,\nEin kurzes Glühn in einer langen Nacht.\n\nO Leben, du geheimnisvolle Klage,\nDu süßer Schmerz im flüchtigen Gewand —\nIch fühle schon im jungen Pulsschlag Tage,\nDie sterbend rinnen durch die offene Hand."
+    },
+    {
+      "sample-id": "ai_hoelderlin_1804_02",
+      "index": 2,
+      "generator": {
+        "created_at": "2026-03-10T11:53:42.047811+00:00",
+        "sample_index": 2,
+        "prompt-id": "prompt_hoelderlin",
+        "prompt_id": "prompt_hoelderlin",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Der Abend senkt sein müdes Haupt\nIn bleiche Nebel überm Feld,\nAls hätte sich die Zeit erlaubt,\nZu klagen über diese Welt.\n\nEin Windhauch streift das welke Laub\nWie eine Hand, die Abschied nimmt;\nIm fahlen Licht, im stillen Staub\nEin fernes Ahnen leise glimmt.\n\nMir ist, als hörte ich die Zeit\nIm dunklen Takte weitergehn,\nAls trüge jede Ewigkeit\nDen Keim des künftigen Verwehn.\n\nO Herz, warum so bang und schwer,\nAls wüsstest du von kommendem Leid?\nAls sänge tief in dir das Meer\nVom stillen Reich der Endlichkeit.\n\nUnd doch – in dieser Trauer Nacht\nErbebt ein leiser, fremder Klang:\nAls hätte Sterblichkeit bedacht,\nDass sie nur Durchgang sei entlang."
+    },
+    {
+      "sample-id": "ai_hoelderlin_1804_03",
+      "index": 3,
+      "generator": {
+        "created_at": "2026-03-10T11:53:43.047846+00:00",
+        "sample_index": 3,
+        "prompt-id": "prompt_hoelderlin",
+        "prompt_id": "prompt_hoelderlin",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Der Abend sinkt in schweigende Gefilde,\nein matter Wind durchirrt das welke Laub;\nals trüge jede Böe eine Kunde\nvom stillen Werk der Zeit im dunklen Staub.\n\nEs ruht der Himmel schwer auf meinen Sinnen,\nein fahles Licht verweilt am fernen Rand;\nund in der Brust, als klänge fernes Läuten,\nerhebt sich bang ein unerkanntes Land.\n\nMir ist, als hörte ich im Strom der Stunden\ndas leise Rinnen eines großen Endes,\nals schreite etwas Unsichtbares näher\ndurch meine Tage, durch mein Herz, mein Wenden.\n\nO Leben — flüchtig wie ein Hauch im Morgen,\nder über taugetränkte Wiesen zieht;\nnoch glimmt dein Feuer schwach in meinen Adern,\ndoch weiß ich wohl, wie bald die Glut entflieht.\n\nUnd dennoch, seltsam süß in dieser Trauer,\nliegt eine Ahnung stiller Ewigkeit:\nals sei im tiefsten Schmerz ein Tor verborgen\nzu jener Welt, die keine Stunde schreit."
+    },
+    {
+      "sample-id": "ai_hoelderlin_1804_04",
+      "index": 4,
+      "generator": {
+        "created_at": "2026-03-10T11:53:44.047879+00:00",
+        "sample_index": 4,
+        "prompt-id": "prompt_hoelderlin",
+        "prompt_id": "prompt_hoelderlin",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Der Abend sinkt mit müder Hand\nAuf Wälder, die im Schatten schweigen;\nEin fahler Wind streift übers Land,\nAls wollt er längst Vergangenes zeigen.\n\nIch geh allein den stillen Pfad,\nWo welke Blätter leise klagen;\nDie Zeit, sie schreitet müd und matt\nDurch meine längst verlornen Tage.\n\nEin ferner Stern im Nebelglanz\nZittert wie Hoffnung, kaum geboren;\nDoch eh sein bleicher Blick sich kränzt,\nIst er dem Dunkel schon verloren.\n\nO Herz, warum so schwer, so bang?\nAls trügst du dunkle Vorverkündung.\nDie Nacht steht hinter jedem Klang\nMit kalter, namenloser Mündung.\n\nVielleicht, wenn einst der Morgen graut\nUnd neue Stimmen leise rufen,\nIst auch mein Schatten schon zerhaut\nVom Wind der ungezählten Stufen.\n\nSo schreibe ich im Dämmerschein,\nAls lauschte ich der Zeit beim Sterben —\nEin flüchtig Wort, ein schwacher Schein\nAuf Blättern, die im Staube werben."
+    },
+    {
+      "sample-id": "ai_hoelderlin_1804_05",
+      "index": 5,
+      "generator": {
+        "created_at": "2026-03-10T11:53:45.047910+00:00",
+        "sample_index": 5,
+        "prompt-id": "prompt_hoelderlin",
+        "prompt_id": "prompt_hoelderlin",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Im bleichen Abend schwankt das matte Licht,\nAls trüge selbst der Himmel stille Klage;\nEin kühler Wind durchstreift mein Angesicht\nUnd flüstert leis von einer fernen Tage.\n\nDie Welt erscheint mir fremd und sonderbar,\nAls läg ein Schleier über allen Dingen;\nWas gestern noch so hell und leuchtend war,\nWill heut in trüber Ferne nur verklingen.\n\nO Herz, warum so schwer in deiner Brust?\nWarum dies dunkle Ahnen ohne Namen?\nAls rief aus künft’ger Nacht ein leiser Frust,\nAls bräche bald ein längst verborgner Samen.\n\nIch seh die Zeit wie welkendes Gezweig\nIm Strom der Jahre lautlos niederfallen;\nUnd jeder Augenblick, so zart und eigen,\nZerrinnt, eh wir ihn recht im Sein behalten.\n\nSo steh ich still im Schatten meiner Stunden\nUnd lausche, was das Schweigen mir verheißt —\nVielleicht sind wir nur flüchtige Sekunden\nIm großen Traum der Welt und ihres Geists."
+    },
+    {
+      "sample-id": "ai_hoelderlin_1804_06",
+      "index": 6,
+      "generator": {
+        "created_at": "2026-03-10T11:53:46.047942+00:00",
+        "sample_index": 6,
+        "prompt-id": "prompt_hoelderlin",
+        "prompt_id": "prompt_hoelderlin",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Der Abend sinkt mit schwermem Blick ins Land,\nAls trüg’ der Himmel selbst geheime Klage;\nEin müdes Licht verweilt am fernen Rand\nUnd stirbt – wie Hoffnung – still im letzten Tage.\n\nEin Windhauch geht durch welkes Laub und Zeit,\nAls flüstre er von allem, was verging;\nIch lausche ihm in meiner Einsamkeit\nUnd fühle, wie mein Herz daran zerhing.\n\nO dunkle Ahnung, die mein Denken nährt,\nDu wandelst still in meines Geistes Hallen;\nWas heute glüht, ist morgen schon verzehrt,\nWie Blüten, die im Herbst zur Erde fallen.\n\nUnd dennoch schlägt in mir ein leiser Klang,\nEin fernes Echo unerklärter Stunden –\nAls rief aus Nacht ein längst verlorner Sang\nNach Seelen, die im Schatten sich gefunden.\n\nSo schreibe ich im Dämmer meiner Brust\nDie flücht’gen Zeichen meiner stillen Pein:\nDenn alles Leben – Hoffnung, Schmerz und Lust –\nScheint nur ein Atemzug der Zeit zu sein."
+    },
+    {
+      "sample-id": "ai_hoelderlin_1804_07",
+      "index": 7,
+      "generator": {
+        "created_at": "2026-03-10T11:53:47.047974+00:00",
+        "sample_index": 7,
+        "prompt-id": "prompt_hoelderlin",
+        "prompt_id": "prompt_hoelderlin",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Abendglocke zittert durch die Luft,\nals klänge sie aus fernen, dunklen Zeiten;\nein matter Wind, von welkendem Duft\ndurchstreift die Felder schweigender Weiten.\n\nDie Sonne sinkt – ein blutend stiller Brand –\nhinter die Hügel meiner bangen Seele;\nals legte eine unsichtbare Hand\nauf alles Leben eine fahle Kehle.\n\nO Herz, warum erbebst du ohne Grund,\nals hörtest du des Schicksals leise Schritte?\nEs ist, als ginge durch die Dämmerstund’\nein fremder Geist in meiner stillen Mitte.\n\nDie Rosen neigen sich im letzten Licht,\nihr Atem flieht mit dem verwehten Tage;\nund was in mir noch leise Hoffnung spricht,\nverhüllt sich schon in dunkler Ahnung Klage.\n\nVielleicht, dass alles, was wir lieben, fällt\nwie Laub im Herbst von unsrer Lebenskrone;\nein Schatten geht bereits durch diese Welt,\nund ich – ich lausche ihm in stiller Frone.\n\nSo schreibe ich im bleichen Abendrot\nmit zitternder, von Wehmut schwerer Feder:\nDas Herz erkennt im Flüstern schon den Tod –\ndoch liebt es dennoch diese Erde wieder."
+    },
+    {
+      "sample-id": "ai_hoelderlin_1804_08",
+      "index": 8,
+      "generator": {
+        "created_at": "2026-03-10T11:53:48.048005+00:00",
+        "sample_index": 8,
+        "prompt-id": "prompt_hoelderlin",
+        "prompt_id": "prompt_hoelderlin",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Im Abendhauch der welken Linden\nverhallt ein Ton aus ferner Zeit;\ndie Schritte, die mich einst gefunden,\nverwehen still in Dunkelheit.\n\nEin fahler Mond hängt müd am Himmel,\nals trüg er längst vergess’nes Leid;\nsein Licht rinnt über Feld und Schimmel\nwie bleiche Spur der Ewigkeit.\n\nMir ist, als hörte ich im Winde\ndas leise Sterben jeder Stund’;\ndie Welt, ein Blatt im Herbstgelinde,\nsinkt lautlos in den tiefen Grund.\n\nO Herz, warum noch hoffen lernen,\nwenn alles Blühn zu Staube fällt?\nSchon ruft mich fern aus kalten Fernen\ndie Nacht, die schweigend alles hält."
+    },
+    {
+      "sample-id": "ai_hoelderlin_1804_09",
+      "index": 9,
+      "generator": {
+        "created_at": "2026-03-10T11:53:49.048036+00:00",
+        "sample_index": 9,
+        "prompt-id": "prompt_hoelderlin",
+        "prompt_id": "prompt_hoelderlin",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Abendglocke zittert fern im Tal,\nals rührte sie ein unsichtbarer Schmerz.\nEin fahler Wind streicht durch das welke Gras\nund legt mir Schwermut still um Herz und Herz.\n\nDer Himmel steht wie müde über mir,\nsein Blau schon bleich von kommender Nacht;\nich fühle in der Luft ein leises Beben,\nals ob die Zeit ihr letztes Maß bedacht.\n\nO seltsam ist des Lebens stilles Fließen—\nman glaubt zu blühen, jung und unversehrt,\ndoch unter unsre Schritte fällt der Schatten\nder Stunde, die uns heimlich schon begehrt.\n\nSo geh ich durch die dämmernden Alleen,\nein Wanderer, vom eignen Geist verfolgt;\nin jeder Stille hör ich leise rufen\ndie Ewigkeit, die uns im Schweigen holt.\n\nUnd dennoch glimmt in dieser trüben Seele\nein Funke, schwach, doch wunderlich und rein—\nvielleicht, dass selbst im nahen Untergehen\nnoch einmal Schönheit aufblüht: flüchtig, mein."
+    },
+    {
+      "sample-id": "ai_hoelderlin_1804_10",
+      "index": 10,
+      "generator": {
+        "created_at": "2026-03-10T11:53:50.048066+00:00",
+        "sample_index": 10,
+        "prompt-id": "prompt_hoelderlin",
+        "prompt_id": "prompt_hoelderlin",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Im Abenddämmern schweigt der Garten still,\nEin matter Wind durchstreift das welke Laub;\nAls flüstert er von Dingen, die gewesen,\nUnd deren Spur nun langsam sich verliert.\n\nMein Herz ist wie ein Blatt im Herbst der Zeit,\nVom leisen Atem ferner Tage bewegt;\nEs zittert zwischen Hoffnung und Vergehen,\nAls wüsste es um einen nahen Abschied.\n\nDie Sterne steigen kalt am Himmel auf,\nGleich Augen einer Welt, die mich nicht kennt;\nUnd dennoch ruht in ihrem fernen Glanze\nEin Trost, so schwach wie letzter Abendhauch.\n\nO Zeit — du unermüdlich fließend Wasser,\nDu trägst auch mich dem dunklen Meere zu;\nUnd was ich war, verweht im stillen Morgen\nWie Nebel über einem frühen Feld."
+    }
+  ],
+  "text": "Der Abend sinkt mit leisem, bleichem Schweigen,\nEin matter Stern erwacht im dunklen Blau;\nEs scheint, als wollt’ die Welt sich still verneigen\nVor einer Trauer, alt und namenlos genau.\n\nEin Wind durchzieht die müden Lindenbäume,\nAls flüsterten sie von vergangner Zeit;\nUnd fern im Herzen regen sich die Räume\nDer Sehnsucht und der dunklen Ewigkeit.\n\nWas gestern blühte, liegt schon halb im Sinken,\nEin Blatt verweht im Strom der Stunden sacht;\nWir sind nur Flammen, die im Dunkel blinken,\nEin kurzes Glühn in einer langen Nacht.\n\nO Leben, du geheimnisvolle Klage,\nDu süßer Schmerz im flüchtigen Gewand —\nIch fühle schon im jungen Pulsschlag Tage,\nDie sterbend rinnen durch die offene Hand.",
+  "texts": [
+    "Der Abend sinkt mit leisem, bleichem Schweigen,\nEin matter Stern erwacht im dunklen Blau;\nEs scheint, als wollt’ die Welt sich still verneigen\nVor einer Trauer, alt und namenlos genau.\n\nEin Wind durchzieht die müden Lindenbäume,\nAls flüsterten sie von vergangner Zeit;\nUnd fern im Herzen regen sich die Räume\nDer Sehnsucht und der dunklen Ewigkeit.\n\nWas gestern blühte, liegt schon halb im Sinken,\nEin Blatt verweht im Strom der Stunden sacht;\nWir sind nur Flammen, die im Dunkel blinken,\nEin kurzes Glühn in einer langen Nacht.\n\nO Leben, du geheimnisvolle Klage,\nDu süßer Schmerz im flüchtigen Gewand —\nIch fühle schon im jungen Pulsschlag Tage,\nDie sterbend rinnen durch die offene Hand.",
+    "Der Abend senkt sein müdes Haupt\nIn bleiche Nebel überm Feld,\nAls hätte sich die Zeit erlaubt,\nZu klagen über diese Welt.\n\nEin Windhauch streift das welke Laub\nWie eine Hand, die Abschied nimmt;\nIm fahlen Licht, im stillen Staub\nEin fernes Ahnen leise glimmt.\n\nMir ist, als hörte ich die Zeit\nIm dunklen Takte weitergehn,\nAls trüge jede Ewigkeit\nDen Keim des künftigen Verwehn.\n\nO Herz, warum so bang und schwer,\nAls wüsstest du von kommendem Leid?\nAls sänge tief in dir das Meer\nVom stillen Reich der Endlichkeit.\n\nUnd doch – in dieser Trauer Nacht\nErbebt ein leiser, fremder Klang:\nAls hätte Sterblichkeit bedacht,\nDass sie nur Durchgang sei entlang.",
+    "Der Abend sinkt in schweigende Gefilde,\nein matter Wind durchirrt das welke Laub;\nals trüge jede Böe eine Kunde\nvom stillen Werk der Zeit im dunklen Staub.\n\nEs ruht der Himmel schwer auf meinen Sinnen,\nein fahles Licht verweilt am fernen Rand;\nund in der Brust, als klänge fernes Läuten,\nerhebt sich bang ein unerkanntes Land.\n\nMir ist, als hörte ich im Strom der Stunden\ndas leise Rinnen eines großen Endes,\nals schreite etwas Unsichtbares näher\ndurch meine Tage, durch mein Herz, mein Wenden.\n\nO Leben — flüchtig wie ein Hauch im Morgen,\nder über taugetränkte Wiesen zieht;\nnoch glimmt dein Feuer schwach in meinen Adern,\ndoch weiß ich wohl, wie bald die Glut entflieht.\n\nUnd dennoch, seltsam süß in dieser Trauer,\nliegt eine Ahnung stiller Ewigkeit:\nals sei im tiefsten Schmerz ein Tor verborgen\nzu jener Welt, die keine Stunde schreit.",
+    "Der Abend sinkt mit müder Hand\nAuf Wälder, die im Schatten schweigen;\nEin fahler Wind streift übers Land,\nAls wollt er längst Vergangenes zeigen.\n\nIch geh allein den stillen Pfad,\nWo welke Blätter leise klagen;\nDie Zeit, sie schreitet müd und matt\nDurch meine längst verlornen Tage.\n\nEin ferner Stern im Nebelglanz\nZittert wie Hoffnung, kaum geboren;\nDoch eh sein bleicher Blick sich kränzt,\nIst er dem Dunkel schon verloren.\n\nO Herz, warum so schwer, so bang?\nAls trügst du dunkle Vorverkündung.\nDie Nacht steht hinter jedem Klang\nMit kalter, namenloser Mündung.\n\nVielleicht, wenn einst der Morgen graut\nUnd neue Stimmen leise rufen,\nIst auch mein Schatten schon zerhaut\nVom Wind der ungezählten Stufen.\n\nSo schreibe ich im Dämmerschein,\nAls lauschte ich der Zeit beim Sterben —\nEin flüchtig Wort, ein schwacher Schein\nAuf Blättern, die im Staube werben.",
+    "Im bleichen Abend schwankt das matte Licht,\nAls trüge selbst der Himmel stille Klage;\nEin kühler Wind durchstreift mein Angesicht\nUnd flüstert leis von einer fernen Tage.\n\nDie Welt erscheint mir fremd und sonderbar,\nAls läg ein Schleier über allen Dingen;\nWas gestern noch so hell und leuchtend war,\nWill heut in trüber Ferne nur verklingen.\n\nO Herz, warum so schwer in deiner Brust?\nWarum dies dunkle Ahnen ohne Namen?\nAls rief aus künft’ger Nacht ein leiser Frust,\nAls bräche bald ein längst verborgner Samen.\n\nIch seh die Zeit wie welkendes Gezweig\nIm Strom der Jahre lautlos niederfallen;\nUnd jeder Augenblick, so zart und eigen,\nZerrinnt, eh wir ihn recht im Sein behalten.\n\nSo steh ich still im Schatten meiner Stunden\nUnd lausche, was das Schweigen mir verheißt —\nVielleicht sind wir nur flüchtige Sekunden\nIm großen Traum der Welt und ihres Geists.",
+    "Der Abend sinkt mit schwermem Blick ins Land,\nAls trüg’ der Himmel selbst geheime Klage;\nEin müdes Licht verweilt am fernen Rand\nUnd stirbt – wie Hoffnung – still im letzten Tage.\n\nEin Windhauch geht durch welkes Laub und Zeit,\nAls flüstre er von allem, was verging;\nIch lausche ihm in meiner Einsamkeit\nUnd fühle, wie mein Herz daran zerhing.\n\nO dunkle Ahnung, die mein Denken nährt,\nDu wandelst still in meines Geistes Hallen;\nWas heute glüht, ist morgen schon verzehrt,\nWie Blüten, die im Herbst zur Erde fallen.\n\nUnd dennoch schlägt in mir ein leiser Klang,\nEin fernes Echo unerklärter Stunden –\nAls rief aus Nacht ein längst verlorner Sang\nNach Seelen, die im Schatten sich gefunden.\n\nSo schreibe ich im Dämmer meiner Brust\nDie flücht’gen Zeichen meiner stillen Pein:\nDenn alles Leben – Hoffnung, Schmerz und Lust –\nScheint nur ein Atemzug der Zeit zu sein.",
+    "Die Abendglocke zittert durch die Luft,\nals klänge sie aus fernen, dunklen Zeiten;\nein matter Wind, von welkendem Duft\ndurchstreift die Felder schweigender Weiten.\n\nDie Sonne sinkt – ein blutend stiller Brand –\nhinter die Hügel meiner bangen Seele;\nals legte eine unsichtbare Hand\nauf alles Leben eine fahle Kehle.\n\nO Herz, warum erbebst du ohne Grund,\nals hörtest du des Schicksals leise Schritte?\nEs ist, als ginge durch die Dämmerstund’\nein fremder Geist in meiner stillen Mitte.\n\nDie Rosen neigen sich im letzten Licht,\nihr Atem flieht mit dem verwehten Tage;\nund was in mir noch leise Hoffnung spricht,\nverhüllt sich schon in dunkler Ahnung Klage.\n\nVielleicht, dass alles, was wir lieben, fällt\nwie Laub im Herbst von unsrer Lebenskrone;\nein Schatten geht bereits durch diese Welt,\nund ich – ich lausche ihm in stiller Frone.\n\nSo schreibe ich im bleichen Abendrot\nmit zitternder, von Wehmut schwerer Feder:\nDas Herz erkennt im Flüstern schon den Tod –\ndoch liebt es dennoch diese Erde wieder.",
+    "Im Abendhauch der welken Linden\nverhallt ein Ton aus ferner Zeit;\ndie Schritte, die mich einst gefunden,\nverwehen still in Dunkelheit.\n\nEin fahler Mond hängt müd am Himmel,\nals trüg er längst vergess’nes Leid;\nsein Licht rinnt über Feld und Schimmel\nwie bleiche Spur der Ewigkeit.\n\nMir ist, als hörte ich im Winde\ndas leise Sterben jeder Stund’;\ndie Welt, ein Blatt im Herbstgelinde,\nsinkt lautlos in den tiefen Grund.\n\nO Herz, warum noch hoffen lernen,\nwenn alles Blühn zu Staube fällt?\nSchon ruft mich fern aus kalten Fernen\ndie Nacht, die schweigend alles hält.",
+    "Die Abendglocke zittert fern im Tal,\nals rührte sie ein unsichtbarer Schmerz.\nEin fahler Wind streicht durch das welke Gras\nund legt mir Schwermut still um Herz und Herz.\n\nDer Himmel steht wie müde über mir,\nsein Blau schon bleich von kommender Nacht;\nich fühle in der Luft ein leises Beben,\nals ob die Zeit ihr letztes Maß bedacht.\n\nO seltsam ist des Lebens stilles Fließen—\nman glaubt zu blühen, jung und unversehrt,\ndoch unter unsre Schritte fällt der Schatten\nder Stunde, die uns heimlich schon begehrt.\n\nSo geh ich durch die dämmernden Alleen,\nein Wanderer, vom eignen Geist verfolgt;\nin jeder Stille hör ich leise rufen\ndie Ewigkeit, die uns im Schweigen holt.\n\nUnd dennoch glimmt in dieser trüben Seele\nein Funke, schwach, doch wunderlich und rein—\nvielleicht, dass selbst im nahen Untergehen\nnoch einmal Schönheit aufblüht: flüchtig, mein.",
+    "Im Abenddämmern schweigt der Garten still,\nEin matter Wind durchstreift das welke Laub;\nAls flüstert er von Dingen, die gewesen,\nUnd deren Spur nun langsam sich verliert.\n\nMein Herz ist wie ein Blatt im Herbst der Zeit,\nVom leisen Atem ferner Tage bewegt;\nEs zittert zwischen Hoffnung und Vergehen,\nAls wüsste es um einen nahen Abschied.\n\nDie Sterne steigen kalt am Himmel auf,\nGleich Augen einer Welt, die mich nicht kennt;\nUnd dennoch ruht in ihrem fernen Glanze\nEin Trost, so schwach wie letzter Abendhauch.\n\nO Zeit — du unermüdlich fließend Wasser,\nDu trägst auch mich dem dunklen Meere zu;\nUnd was ich war, verweht im stillen Morgen\nWie Nebel über einem frühen Feld."
+  ]
 }

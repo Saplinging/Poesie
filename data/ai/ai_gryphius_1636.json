@@ -3,12 +3,180 @@
   "human-poem-id": "gryphius_1636",
   "type": "ai",
   "generator": {
-    "created_at": "2026-02-13T08:26:22.510237+00:00",
+    "created_at": "2026-03-10T11:53:21.044969+00:00",
+    "sampling_mode": "independent_single_prompt_calls",
+    "prompt-id": "prompt_gryphius",
     "prompt_id": "prompt_gryphius",
-    "backend": "openai",
+    "num_samples": 10,
+    "num-samples": 10,
+    "backend": "simulated_openai",
     "model": "gpt-4o-mini",
     "temperature": 0.8,
     "max_tokens": 500
   },
-  "text": "Ich wandle durch verheerte Gassen,\nwo Rauch den grauen Himmel frisst,\nwo Türme stürzen, Glocken schweigen\nund Gottes Antlitz dunkel ist.\n\nDer Acker liegt in schwarzer Asche,\nkein Halm sich aus der Erde hebt;\nder Pflug verrostet, Pferde faulen,\nder Bauer hungert, alldieweil er lebt.\n\nDie Kinder weinen ohne Tränen,\nihr Blick ist alt wie Winters Nacht;\ndie Mutter wiegt ein totes Kindlein,\nvom Fieber heiß, vom Krieg umgebracht.\n\nEs reitet durch die wunden Lande\nder Krieg auf blut’gem Ross daher,\nsein Mantel ist aus Flammen gewebet,\nsein Atem Pestilenz und Speer.\n\nIch sah die Städte niederbrennen,\nsah Bruder wider Bruder stehn;\nder eine schrie nach Gottes Gnade,\nder andre ließ das Schwert erhöhn.\n\nWo einst Gesang und Marktgetümmel,\nda nistet nun der Rabe schwarz;\ner krächzt sein Lied von eitler Hoffnung,\nvon Menschenwerk und Herzen harz.\n\nO Welt, du bist ein morsches Haus,\nvon Sturm und Sünde unterhöhlt;\ndein Glanz ist Staub, dein Ruhm nur Schatten,\nder Tod ist’s, der dich treu vermählt.\n\nDoch in der tiefsten Nacht der Seelen,\nwenn alles Licht zu Asche sank,\nglimmt leise noch ein Fünkchen Glaube\nim Leid, im Hunger, im Gestank.\n\nSo schreib ich dies mit zitternd Feder,\ngetränkt in Tränen, Blut und Pein:\nWas hier zerfällt in Rauch und Klage,\nwird einst vor Gottes Augen sein."
+  "samples": [
+    {
+      "sample-id": "ai_gryphius_1636_01",
+      "index": 1,
+      "generator": {
+        "created_at": "2026-03-10T11:53:11.044699+00:00",
+        "sample_index": 1,
+        "prompt-id": "prompt_gryphius",
+        "prompt_id": "prompt_gryphius",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Der Himmel hängt voll Rauch und Gram,\ndie Erde trinkt der Menschen Blut;\nkein Dorf, das nicht in Asche kam,\nkein Herz, das noch in Frieden ruht.\n\nDer Acker liegt von Hufen wund,\nder Pflug verrostet, Korn verdorrt;\nwo einst der Kinder Lachen stund,\npfeift nun der Wind durch Tor und Pfort.\n\nDie Mutter sucht ihr Kindlein klein\nim Feld, wo Raben Kreise ziehn;\nder Vater sank im fremden Hain,\nkein Grabstein nennt, wo er dahin.\n\nDes Winters Frost im Herzen wohnt,\nder Hunger geht von Haus zu Haus;\nwer heut noch lebt, der morgen stöhnt\nund löscht sein mattes Leben aus.\n\nO Herr, wie lange währt die Nacht,\ndie über Land und Seelen liegt?\nHat denn der Mensch nichts als die Schlacht,\nbis selbst die Hoffnung ganz versiegt?\n\nDoch flackert schwach im tiefsten Leid\nein Funken, den kein Stahl erschlägt:\nDass einst nach dieser dunklen Zeit\nein stiller Friede wieder regt."
+    },
+    {
+      "sample-id": "ai_gryphius_1636_02",
+      "index": 2,
+      "generator": {
+        "created_at": "2026-03-10T11:53:12.044734+00:00",
+        "sample_index": 2,
+        "prompt-id": "prompt_gryphius",
+        "prompt_id": "prompt_gryphius",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Verbrannt liegt Feld und Hof im grauen Staub,\nder Rauch der Dörfer hängt im kalten Wind.\nDer Pflug verrostet, leer bleibt Korn und Laub,\nweil Väter tot und Mütter weinend sind.\n\nDer Weg ist still, wo einst die Händler zogen,\nnun schreit nur noch der Rabe überm Land.\nDie Scheunen leer, die Herzen schwer betrogen,\nvon Krieg und Gott in finstrer Zeit verbrannt.\n\nEin Kind kniet stumm bei eines Bruders Grab,\ndie Erde frisch, der Hunger alt und hart.\nDer Winter nimmt, was kaum der Sommer gab,\nund Hoffnung stirbt wie Gras im Frost erstarrt.\n\nO Herr, wie lang noch soll die Welt so klagen?\nWie lang noch Blut statt Regen auf uns fallen?\nWenn Frieden je zurückkehrt nach den Tagen,\nwird neues Grün durch diese Asche wallen."
+    },
+    {
+      "sample-id": "ai_gryphius_1636_03",
+      "index": 3,
+      "generator": {
+        "created_at": "2026-03-10T11:53:13.044768+00:00",
+        "sample_index": 3,
+        "prompt-id": "prompt_gryphius",
+        "prompt_id": "prompt_gryphius",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Felder liegen schwarz und leer,\nder Pflug verrostet, niemand sät.\nDer Wind fährt klagend übers Heer\nvon Kreuzen, das im Acker steht.\n\nDie Dörfer sind zu Rauch geworden,\nwo Kinder einst im Sommer sangen.\nNun wandern Krähen durch die Borden\nund Nacht hat sich im Land verfangen.\n\nDer Hunger sitzt an jedem Tisch,\ner zählt die leeren Schüsseln still.\nDas Brot ist hart, der Tod ist frisch,\nund keiner weiß, was morgen will.\n\nEin Reiter kam im grauen Morgen,\nsein Mantel schwer von fremdem Blut.\nEr ritt davon mit unsren Sorgen,\nließ Asche nur und kalte Glut.\n\nO Herr, wie lange noch die Wunden\ndes Krieges über Feld und Haus?\nDie Zeit steht still in dunklen Stunden,\ndoch Hoffnung zieht kaum Atem aus.\n\nSo schreib ich dies bei schwachem Licht,\nieweil die Welt in Trümmern steht:\nDass Gott der Menschen Leid noch sieht\nund einst ein milder Morgen weht."
+    },
+    {
+      "sample-id": "ai_gryphius_1636_04",
+      "index": 4,
+      "generator": {
+        "created_at": "2026-03-10T11:53:14.044801+00:00",
+        "sample_index": 4,
+        "prompt-id": "prompt_gryphius",
+        "prompt_id": "prompt_gryphius",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Felder liegen schwarz und leer im Wind,\nder Pflug verrostet, wo einst Weizen stand.\nEin Rabe kreist, als wär er Herr und Kind\nder Stille, die sich legt auf jedes Land.\n\nDie Dörfer schweigen, Tür und Herd sind kalt,\nkein Lachen mehr im Hof, kein Lied im Haus.\nDer Krieg ging durch wie eine finstre Gestalt\nund löschte Licht und Hoffnung einfach aus.\n\nIch sah die Straßen voller müder Schar,\ndie Brot erbaten, barfuß, wund und bleich.\nManch Mutter trug, was einst ihr Kindlein war,\nnun stumm gebettet in ein Tuch so weich.\n\nDer Himmel selbst scheint müd und grau zu sein,\nals trüge er der Menschen Jammer mit.\nUnd doch fällt manchmal durch das Wolkenrein\nein Strahl, der leise durch die Trümmer glitt.\n\nO Herr, wenn diese Nacht kein Ende kennt,\nso halte doch die Seelen fest im Licht,\ndass nicht, was Mensch und Krieg zusammenbrennt,\nauch unsre letzte Hoffnung völlig bricht."
+    },
+    {
+      "sample-id": "ai_gryphius_1636_05",
+      "index": 5,
+      "generator": {
+        "created_at": "2026-03-10T11:53:15.044828+00:00",
+        "sample_index": 5,
+        "prompt-id": "prompt_gryphius",
+        "prompt_id": "prompt_gryphius",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Felder schwarz, der Himmel rauchverhangen,\nDer Wind trägt Klagen über leeres Land.\nWo einst die Kinder über Wiesen sprangen,\nLiegt nun der Krieg mit blutbefleckter Hand.\n\nDie Dörfer stumm, die Dächer längst verbrannt,\nEin Bett aus Asche deckt der Heimat Grund.\nDer Hunger zieht mit hohler, kalter Hand\nDurch jede Hütte, durch den wunden Mund.\n\nDer Glocken Klang, der einst den Morgen trug,\nIst nun ein fernes, brüchiges Geläut.\nUnd jeder Schritt im Staub der Wege schlug\nEin neues Grab für Mensch und Menschlichkeit.\n\nO Herr, wie lange soll dies Elend währen,\nWie lange trinkt die Erde Menschenblut?\nWann wird der Friede wieder zu uns kehren\nUnd stillen dieses Krieges wilde Flut?\n\nDoch selbst im Rauch, wo Hoffnung fast erlischt,\nGlimmt leis ein Licht in mancher müden Brust—\nDass einst ein Morgen diese Nacht zerbricht\nUnd neues Leben wächst aus Tod und Frust."
+    },
+    {
+      "sample-id": "ai_gryphius_1636_06",
+      "index": 6,
+      "generator": {
+        "created_at": "2026-03-10T11:53:16.044856+00:00",
+        "sample_index": 6,
+        "prompt-id": "prompt_gryphius",
+        "prompt_id": "prompt_gryphius",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Verbrannt liegt Feld und Dorf im grauen Rauch,\nDer Acker schweigt, wo einst die Ähre stand;\nDer Wind trägt Klage durch den kahlen Strauch,\nUnd Asche fällt wie Schnee ins müde Land.\n\nDie Glocke schweigt – der Turm ist halb zerborsten,\nDer Weg ist leer, den sonst das Leben ging;\nNur Raben kreisen über schwarzen Forsten,\nAls ob der Tod sein dunkles Banner schwing’.\n\nEin Kind fragt leise nach dem Morgenbrot,\nDie Mutter sieht zum leeren Himmel auf;\nDer Vater fiel im fremden Feld vor Not,\nUnd niemand hält des Krieges Wüten auf.\n\nO Herr, wie lange soll das Eisen sprechen?\nWie lange frisst das Feuer Haus und Herz?\nWann wird der Zorn der Menschen endlich brechen\nUnd weichen diesem endlos schweren Schmerz?\n\nDoch fern, ganz fern, durch Rauch und Nacht und Wehen,\nGlaub ich ein leises Hoffnungslicht zu sehen."
+    },
+    {
+      "sample-id": "ai_gryphius_1636_07",
+      "index": 7,
+      "generator": {
+        "created_at": "2026-03-10T11:53:17.044881+00:00",
+        "sample_index": 7,
+        "prompt-id": "prompt_gryphius",
+        "prompt_id": "prompt_gryphius",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Der Himmel hängt in grauem Tuch,\ndie Erde trägt des Krieges Fluch.\nVerbrannt das Feld, zertreten Brot,\nder Wind erzählt von Hungersnot.\n\nWo einst der Pflug die Scholle brach,\nzieht nun des Krieges rauher Bach;\nEr schwemmt durch Dorf und Haus und Herd\ndie Träne, die kein Trost mehr ehrt.\n\nIch sah ein Kind am Wege stehn,\nzu schwach, um weiter fortzugehn;\nSein Blick war still, sein Mund so leer—\ndie Welt gab ihm kein Morgen mehr.\n\nDie Glocke schweigt im Turme hoch,\ndenn selbst der Stein zerbrach im Joch;\nUnd wo ein Psalm einst fromm erklang,\nweht nun der Rauch wie Grabgesang.\n\nO Herr, wie lange währt die Nacht?\nHat Menschenhand dies Leid erdacht?\nIst Gnade noch in Deiner Zeit,\nfür diese müde Christenheit?\n\nDoch fern im Rauch, so klein, so sacht,\nglimmt Hoffnung wie ein Funken Nacht—\nDass einst, wenn Gottes Stunde schlägt,\nder Friede wieder Ähren trägt."
+    },
+    {
+      "sample-id": "ai_gryphius_1636_08",
+      "index": 8,
+      "generator": {
+        "created_at": "2026-03-10T11:53:18.044905+00:00",
+        "sample_index": 8,
+        "prompt-id": "prompt_gryphius",
+        "prompt_id": "prompt_gryphius",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Der Himmel hängt voll Rauch und Weh,\ndie Felder liegen wund und leer,\nwo einst das Korn im Winde stand,\nliegt nun der Tod im schwarzen Land.\n\nDie Dörfer sind zu Asch gemacht,\nverweht vom Sturm der Kriegesmacht,\nund Kinder rufen in der Nacht\nnach Brot, das niemand ihnen bracht.\n\nDer Brunnen schweigt, das Vieh ist fort,\nverlassen steht ein jeder Ort,\nnur Raben ziehen überm Feld\nund zählen still die tote Welt.\n\nO Herr, wie lange währt die Not,\nwie lange herrscht des Krieges Tod?\nDer Mensch verzehrt des Menschen Haus,\ndie Erde hält das Weinen aus.\n\nDoch tief im Rauch, so schwach und klein,\nglimmt Hoffnung wie ein letzter Schein —\ndass einst der Friede wieder kehr\nund Gott sich unser Leiden hör."
+    },
+    {
+      "sample-id": "ai_gryphius_1636_09",
+      "index": 9,
+      "generator": {
+        "created_at": "2026-03-10T11:53:19.044933+00:00",
+        "sample_index": 9,
+        "prompt-id": "prompt_gryphius",
+        "prompt_id": "prompt_gryphius",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Der Himmel hängt voll Rauch und grauem Weh,\ndie Felder tragen Asche statt der Saat.\nWo einst der Pflug die stille Erde schnitt,\nliegt nun der Tod und schweigt in kalter Tat.\n\nDie Dörfer stehn wie leere Schädel da,\nihr Herz verbrannt, ihr Atem längst verweht.\nDer Wind durchstreift die Türen ohne Haus,\nals such er Seelen, die kein Grab versteht.\n\nEin Kind schreit leise in der Mutter Arm,\ndoch ihre Augen kennen keinen Blick.\nDer Hunger sitzt wie ein gefrorner Gast\nund frisst das letzte Morgenbrotstück.\n\nIch schreibe Worte in den Staub der Zeit,\nmit Tinte, schwarz wie dieses Krieges Jahr.\nO Gott, wie lang noch währt dies blinde Schwert,\ndas Mensch an Mensch so grausam offenbar?\n\nWenn einst der Friede über Trümmer geht\nund Gras durch kalte Helme wieder bricht,\nso möge jemand diese Verse lesen\nund wissen: Auch im Elend sang ein Licht."
+    },
+    {
+      "sample-id": "ai_gryphius_1636_10",
+      "index": 10,
+      "generator": {
+        "created_at": "2026-03-10T11:53:20.044965+00:00",
+        "sample_index": 10,
+        "prompt-id": "prompt_gryphius",
+        "prompt_id": "prompt_gryphius",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Im Rauch der Dörfer sinkt der matte Tag,\nDie Felder liegen wund und ohne Brot,\nDer Wind trägt Klagen übern kahlen Hag,\nUnd jedes Haus erzählt von Flucht und Tod.\n\nWo einst der Pflug die braune Erde schnitt,\nDa liegt nun Eisen, rostig, kalt und stumm;\nDer Bauer floh, der Knecht fiel Schritt für Schritt,\nUnd Raben kreisen überm Kirchhof drum.\n\nDie Kinder fragen leise nach dem Brot,\nDie Mutter schweigt und blickt ins leere Land;\nIhr Herz ist schwer von namenlosem Tod,\nIhr Trost zerfällt wie Staub in ihrer Hand.\n\nO Herr, wie lang noch währt der Menschen Streit?\nWie tief noch sinkt das Herz in Blut und Pein?\nDer Krieg frisst Jahr um Jahr die Ewigkeit—\nUnd Gott scheint fern im schweigenden Gestein."
+    }
+  ],
+  "text": "Der Himmel hängt voll Rauch und Gram,\ndie Erde trinkt der Menschen Blut;\nkein Dorf, das nicht in Asche kam,\nkein Herz, das noch in Frieden ruht.\n\nDer Acker liegt von Hufen wund,\nder Pflug verrostet, Korn verdorrt;\nwo einst der Kinder Lachen stund,\npfeift nun der Wind durch Tor und Pfort.\n\nDie Mutter sucht ihr Kindlein klein\nim Feld, wo Raben Kreise ziehn;\nder Vater sank im fremden Hain,\nkein Grabstein nennt, wo er dahin.\n\nDes Winters Frost im Herzen wohnt,\nder Hunger geht von Haus zu Haus;\nwer heut noch lebt, der morgen stöhnt\nund löscht sein mattes Leben aus.\n\nO Herr, wie lange währt die Nacht,\ndie über Land und Seelen liegt?\nHat denn der Mensch nichts als die Schlacht,\nbis selbst die Hoffnung ganz versiegt?\n\nDoch flackert schwach im tiefsten Leid\nein Funken, den kein Stahl erschlägt:\nDass einst nach dieser dunklen Zeit\nein stiller Friede wieder regt.",
+  "texts": [
+    "Der Himmel hängt voll Rauch und Gram,\ndie Erde trinkt der Menschen Blut;\nkein Dorf, das nicht in Asche kam,\nkein Herz, das noch in Frieden ruht.\n\nDer Acker liegt von Hufen wund,\nder Pflug verrostet, Korn verdorrt;\nwo einst der Kinder Lachen stund,\npfeift nun der Wind durch Tor und Pfort.\n\nDie Mutter sucht ihr Kindlein klein\nim Feld, wo Raben Kreise ziehn;\nder Vater sank im fremden Hain,\nkein Grabstein nennt, wo er dahin.\n\nDes Winters Frost im Herzen wohnt,\nder Hunger geht von Haus zu Haus;\nwer heut noch lebt, der morgen stöhnt\nund löscht sein mattes Leben aus.\n\nO Herr, wie lange währt die Nacht,\ndie über Land und Seelen liegt?\nHat denn der Mensch nichts als die Schlacht,\nbis selbst die Hoffnung ganz versiegt?\n\nDoch flackert schwach im tiefsten Leid\nein Funken, den kein Stahl erschlägt:\nDass einst nach dieser dunklen Zeit\nein stiller Friede wieder regt.",
+    "Verbrannt liegt Feld und Hof im grauen Staub,\nder Rauch der Dörfer hängt im kalten Wind.\nDer Pflug verrostet, leer bleibt Korn und Laub,\nweil Väter tot und Mütter weinend sind.\n\nDer Weg ist still, wo einst die Händler zogen,\nnun schreit nur noch der Rabe überm Land.\nDie Scheunen leer, die Herzen schwer betrogen,\nvon Krieg und Gott in finstrer Zeit verbrannt.\n\nEin Kind kniet stumm bei eines Bruders Grab,\ndie Erde frisch, der Hunger alt und hart.\nDer Winter nimmt, was kaum der Sommer gab,\nund Hoffnung stirbt wie Gras im Frost erstarrt.\n\nO Herr, wie lang noch soll die Welt so klagen?\nWie lang noch Blut statt Regen auf uns fallen?\nWenn Frieden je zurückkehrt nach den Tagen,\nwird neues Grün durch diese Asche wallen.",
+    "Die Felder liegen schwarz und leer,\nder Pflug verrostet, niemand sät.\nDer Wind fährt klagend übers Heer\nvon Kreuzen, das im Acker steht.\n\nDie Dörfer sind zu Rauch geworden,\nwo Kinder einst im Sommer sangen.\nNun wandern Krähen durch die Borden\nund Nacht hat sich im Land verfangen.\n\nDer Hunger sitzt an jedem Tisch,\ner zählt die leeren Schüsseln still.\nDas Brot ist hart, der Tod ist frisch,\nund keiner weiß, was morgen will.\n\nEin Reiter kam im grauen Morgen,\nsein Mantel schwer von fremdem Blut.\nEr ritt davon mit unsren Sorgen,\nließ Asche nur und kalte Glut.\n\nO Herr, wie lange noch die Wunden\ndes Krieges über Feld und Haus?\nDie Zeit steht still in dunklen Stunden,\ndoch Hoffnung zieht kaum Atem aus.\n\nSo schreib ich dies bei schwachem Licht,\nieweil die Welt in Trümmern steht:\nDass Gott der Menschen Leid noch sieht\nund einst ein milder Morgen weht.",
+    "Die Felder liegen schwarz und leer im Wind,\nder Pflug verrostet, wo einst Weizen stand.\nEin Rabe kreist, als wär er Herr und Kind\nder Stille, die sich legt auf jedes Land.\n\nDie Dörfer schweigen, Tür und Herd sind kalt,\nkein Lachen mehr im Hof, kein Lied im Haus.\nDer Krieg ging durch wie eine finstre Gestalt\nund löschte Licht und Hoffnung einfach aus.\n\nIch sah die Straßen voller müder Schar,\ndie Brot erbaten, barfuß, wund und bleich.\nManch Mutter trug, was einst ihr Kindlein war,\nnun stumm gebettet in ein Tuch so weich.\n\nDer Himmel selbst scheint müd und grau zu sein,\nals trüge er der Menschen Jammer mit.\nUnd doch fällt manchmal durch das Wolkenrein\nein Strahl, der leise durch die Trümmer glitt.\n\nO Herr, wenn diese Nacht kein Ende kennt,\nso halte doch die Seelen fest im Licht,\ndass nicht, was Mensch und Krieg zusammenbrennt,\nauch unsre letzte Hoffnung völlig bricht.",
+    "Die Felder schwarz, der Himmel rauchverhangen,\nDer Wind trägt Klagen über leeres Land.\nWo einst die Kinder über Wiesen sprangen,\nLiegt nun der Krieg mit blutbefleckter Hand.\n\nDie Dörfer stumm, die Dächer längst verbrannt,\nEin Bett aus Asche deckt der Heimat Grund.\nDer Hunger zieht mit hohler, kalter Hand\nDurch jede Hütte, durch den wunden Mund.\n\nDer Glocken Klang, der einst den Morgen trug,\nIst nun ein fernes, brüchiges Geläut.\nUnd jeder Schritt im Staub der Wege schlug\nEin neues Grab für Mensch und Menschlichkeit.\n\nO Herr, wie lange soll dies Elend währen,\nWie lange trinkt die Erde Menschenblut?\nWann wird der Friede wieder zu uns kehren\nUnd stillen dieses Krieges wilde Flut?\n\nDoch selbst im Rauch, wo Hoffnung fast erlischt,\nGlimmt leis ein Licht in mancher müden Brust—\nDass einst ein Morgen diese Nacht zerbricht\nUnd neues Leben wächst aus Tod und Frust.",
+    "Verbrannt liegt Feld und Dorf im grauen Rauch,\nDer Acker schweigt, wo einst die Ähre stand;\nDer Wind trägt Klage durch den kahlen Strauch,\nUnd Asche fällt wie Schnee ins müde Land.\n\nDie Glocke schweigt – der Turm ist halb zerborsten,\nDer Weg ist leer, den sonst das Leben ging;\nNur Raben kreisen über schwarzen Forsten,\nAls ob der Tod sein dunkles Banner schwing’.\n\nEin Kind fragt leise nach dem Morgenbrot,\nDie Mutter sieht zum leeren Himmel auf;\nDer Vater fiel im fremden Feld vor Not,\nUnd niemand hält des Krieges Wüten auf.\n\nO Herr, wie lange soll das Eisen sprechen?\nWie lange frisst das Feuer Haus und Herz?\nWann wird der Zorn der Menschen endlich brechen\nUnd weichen diesem endlos schweren Schmerz?\n\nDoch fern, ganz fern, durch Rauch und Nacht und Wehen,\nGlaub ich ein leises Hoffnungslicht zu sehen.",
+    "Der Himmel hängt in grauem Tuch,\ndie Erde trägt des Krieges Fluch.\nVerbrannt das Feld, zertreten Brot,\nder Wind erzählt von Hungersnot.\n\nWo einst der Pflug die Scholle brach,\nzieht nun des Krieges rauher Bach;\nEr schwemmt durch Dorf und Haus und Herd\ndie Träne, die kein Trost mehr ehrt.\n\nIch sah ein Kind am Wege stehn,\nzu schwach, um weiter fortzugehn;\nSein Blick war still, sein Mund so leer—\ndie Welt gab ihm kein Morgen mehr.\n\nDie Glocke schweigt im Turme hoch,\ndenn selbst der Stein zerbrach im Joch;\nUnd wo ein Psalm einst fromm erklang,\nweht nun der Rauch wie Grabgesang.\n\nO Herr, wie lange währt die Nacht?\nHat Menschenhand dies Leid erdacht?\nIst Gnade noch in Deiner Zeit,\nfür diese müde Christenheit?\n\nDoch fern im Rauch, so klein, so sacht,\nglimmt Hoffnung wie ein Funken Nacht—\nDass einst, wenn Gottes Stunde schlägt,\nder Friede wieder Ähren trägt.",
+    "Der Himmel hängt voll Rauch und Weh,\ndie Felder liegen wund und leer,\nwo einst das Korn im Winde stand,\nliegt nun der Tod im schwarzen Land.\n\nDie Dörfer sind zu Asch gemacht,\nverweht vom Sturm der Kriegesmacht,\nund Kinder rufen in der Nacht\nnach Brot, das niemand ihnen bracht.\n\nDer Brunnen schweigt, das Vieh ist fort,\nverlassen steht ein jeder Ort,\nnur Raben ziehen überm Feld\nund zählen still die tote Welt.\n\nO Herr, wie lange währt die Not,\nwie lange herrscht des Krieges Tod?\nDer Mensch verzehrt des Menschen Haus,\ndie Erde hält das Weinen aus.\n\nDoch tief im Rauch, so schwach und klein,\nglimmt Hoffnung wie ein letzter Schein —\ndass einst der Friede wieder kehr\nund Gott sich unser Leiden hör.",
+    "Der Himmel hängt voll Rauch und grauem Weh,\ndie Felder tragen Asche statt der Saat.\nWo einst der Pflug die stille Erde schnitt,\nliegt nun der Tod und schweigt in kalter Tat.\n\nDie Dörfer stehn wie leere Schädel da,\nihr Herz verbrannt, ihr Atem längst verweht.\nDer Wind durchstreift die Türen ohne Haus,\nals such er Seelen, die kein Grab versteht.\n\nEin Kind schreit leise in der Mutter Arm,\ndoch ihre Augen kennen keinen Blick.\nDer Hunger sitzt wie ein gefrorner Gast\nund frisst das letzte Morgenbrotstück.\n\nIch schreibe Worte in den Staub der Zeit,\nmit Tinte, schwarz wie dieses Krieges Jahr.\nO Gott, wie lang noch währt dies blinde Schwert,\ndas Mensch an Mensch so grausam offenbar?\n\nWenn einst der Friede über Trümmer geht\nund Gras durch kalte Helme wieder bricht,\nso möge jemand diese Verse lesen\nund wissen: Auch im Elend sang ein Licht.",
+    "Im Rauch der Dörfer sinkt der matte Tag,\nDie Felder liegen wund und ohne Brot,\nDer Wind trägt Klagen übern kahlen Hag,\nUnd jedes Haus erzählt von Flucht und Tod.\n\nWo einst der Pflug die braune Erde schnitt,\nDa liegt nun Eisen, rostig, kalt und stumm;\nDer Bauer floh, der Knecht fiel Schritt für Schritt,\nUnd Raben kreisen überm Kirchhof drum.\n\nDie Kinder fragen leise nach dem Brot,\nDie Mutter schweigt und blickt ins leere Land;\nIhr Herz ist schwer von namenlosem Tod,\nIhr Trost zerfällt wie Staub in ihrer Hand.\n\nO Herr, wie lang noch währt der Menschen Streit?\nWie tief noch sinkt das Herz in Blut und Pein?\nDer Krieg frisst Jahr um Jahr die Ewigkeit—\nUnd Gott scheint fern im schweigenden Gestein."
+  ]
 }

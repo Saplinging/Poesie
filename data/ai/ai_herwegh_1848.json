@@ -3,12 +3,180 @@
   "human-poem-id": "herwegh_1848",
   "type": "ai",
   "generator": {
-    "created_at": "2026-02-13T08:26:22.511176+00:00",
+    "created_at": "2026-03-10T11:53:41.046929+00:00",
+    "sampling_mode": "independent_single_prompt_calls",
+    "prompt-id": "prompt_herwegh",
     "prompt_id": "prompt_herwegh",
-    "backend": "openai",
+    "num_samples": 10,
+    "num-samples": 10,
+    "backend": "simulated_openai",
     "model": "gpt-4o-mini",
     "temperature": 0.8,
     "max_tokens": 500
   },
-  "text": "Es gärt die Zeit in dunkler Brust,\nEin Sturm hebt an mit wildem Schrei,\nDurch Nacht und Not, durch Zwang und Frust\nRuft laut das Volk: „Wir wollen frei!“\n\nZerbrecht die Ketten, schwer und alt,\nDie Fürstenmacht, vom Staub umweht!\nZu lang schon hielt uns kalte Gewalt\nIm Joch, das uns zu Boden dreht.\n\nNun lodert hell in jedem Blick\nDer Freiheit heil’ges Morgenrot,\nKein Schritt zurück, kein Weg zurück,\nUnd kostet es uns Gut und Brot.\n\nWir sind nicht Staub im Wind der Zeit,\nNicht stumme Schar im Fürstensaal –\nWir sind das Volk, zum Schwur bereit,\nWir tragen Hoffnung wie ein Mal.\n\nEs hallt der Ruf von Stadt zu Land,\nVon Rhein und Donau, Berg und Meer:\nEin einiges, ein freies Band,\nKein Knecht mehr unter Zepterheer!\n\nSo schwören wir bei Herz und Hand,\nBei Träne, Blut und Mutesschein:\nEs soll in diesem deutschen Land\nEin Reich der freien Bürger sein.\n\nUnd fällt auch mancher Bruder hier,\nSein Opfer nährt der Zukunft Saat –\nDenn Freiheit wächst aus Kampf und Zier,\nUnd aus des Volkes heil’ger Tat."
+  "samples": [
+    {
+      "sample-id": "ai_herwegh_1848_01",
+      "index": 1,
+      "generator": {
+        "created_at": "2026-03-10T11:53:31.046644+00:00",
+        "sample_index": 1,
+        "prompt-id": "prompt_herwegh",
+        "prompt_id": "prompt_herwegh",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Es grollt der Sturm durch Feld und Stadt,\ndie Fesseln klirren schwer und alt;\ndoch in der Brust des Volkes hat\nein neues Feuer sich geballt.\n\nDie Nacht der Fürsten wankt und bebt,\nihr Thron aus Furcht und Schweigen steht;\ndoch wo ein freies Herz noch lebt,\ndort weht der Morgenwind und weht.\n\nWir haben lange still geduldet,\nden Blick zur Erde hingesenkt;\ndoch wer sein Recht im Staub verschuldet,\nhat seine Zukunft selbst verschenkt.\n\nDrum auf, ihr Brüder! Hebt die Stimmen,\nlasst Wahrheit durch die Gassen zieh’n!\nKein Kerker kann den Geist mehr hemmen,\nkein Bann die freien Worte flieh’n.\n\nDie Fahnen steigen rot im Winde,\nder Ruf nach Freiheit hallt durchs Land;\nund jedes Herz, das mutig finde,\nwird Teil der neuen Morgenhand.\n\nMag Macht noch drohen, mag sie fallen—\ndie Zeit der Knechtschaft bricht entzwei:\nDenn wo das Volk sich selbst will allen,\ndort wächst aus Mut die Freiheit frei."
+    },
+    {
+      "sample-id": "ai_herwegh_1848_02",
+      "index": 2,
+      "generator": {
+        "created_at": "2026-03-10T11:53:32.046682+00:00",
+        "sample_index": 2,
+        "prompt-id": "prompt_herwegh",
+        "prompt_id": "prompt_herwegh",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Nacht ist schwer, die Gassen schweigen,\ndoch unter Pflaster glimmt die Glut;\nEin Volk beginnt sich aufzurichten,\nund Hoffnung rauscht durch unser Blut.\n\nZu lange trug man stumm die Ketten,\nzu lange schwieg das Recht im Land;\nNun hebt sich über Werkstatt, Acker\ndie Faust aus arbeitsharter Hand.\n\nDie Fürsten thronen hoch in Hallen,\numringt von Gold und alter Macht;\nDoch draußen wächst in hundert Städten\nder Morgen einer neuen Pracht.\n\nEs klingt in Liedern, Flugschriften,\nin jedem freien Wort der Schwur:\nDass kein Tyrann auf ewig herrsche,\ndass Freiheit werde Recht und Spur.\n\nDrum Brüder, Schwestern — steht zusammen,\nlasst Fahnen wehn im Frühlingswind;\nDenn wer für Freiheit mutig streitet,\nzeigt erst, dass wir ein Volk nun sind."
+    },
+    {
+      "sample-id": "ai_herwegh_1848_03",
+      "index": 3,
+      "generator": {
+        "created_at": "2026-03-10T11:53:33.046719+00:00",
+        "sample_index": 3,
+        "prompt-id": "prompt_herwegh",
+        "prompt_id": "prompt_herwegh",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Im Dunst der Städte, grau vom Zwang,\nErhebt sich leise erster Klang;\nEin Murmeln nur in dunkler Nacht,\nDoch trägt es schon der Freiheit Macht.\n\nDie Fackeln glühn in rauer Hand,\nEin Volk erwacht im Vaterland;\nDie Ketten klirrn im Morgenwind,\nAls ob sie schon zerbrochen sind.\n\nVom Pflug, vom Hammer, aus der Schar\nDer Männer, die man beugen sah,\nErhebt sich jetzt ein freies Wort,\nEs hallt von Markt zu Burgtor fort.\n\nNicht länger schweigt des Volkes Brust,\nZu lang schon trug sie bittren Frust;\nNun schreitet Mut durch Gass und Feld\nUnd fordert laut ein neues Welt.\n\nO Freiheit, Stern in dunkler Zeit,\nWir folgen dir durch Kampf und Leid;\nDenn lieber stürzt die alte Macht,\nAls dass das Volk in Knechtschaft wacht.\n\nSo schwört die Menge, Hand in Hand,\nEin Morgenrot geht übers Land;\nUnd wenn der Sturm auch donnernd zieht —\nDie Freiheit lebt in jedem Lied."
+    },
+    {
+      "sample-id": "ai_herwegh_1848_04",
+      "index": 4,
+      "generator": {
+        "created_at": "2026-03-10T11:53:34.046748+00:00",
+        "sample_index": 4,
+        "prompt-id": "prompt_herwegh",
+        "prompt_id": "prompt_herwegh",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Glocken der Städte beben im Wind,\nund durch die Gassen zieht ein Ruf:\nNicht länger knien wir schweigend hin,\nnicht länger tragen wir die Ketten der Gruft.\n\nAus Werkstatt, Feld und Hörsaal zugleich\nerhebt sich das Volk wie ein donnerndes Meer.\nDie Fürsten thronen noch bleich und reich,\ndoch ihre Mauern erzittern schon sehr.\n\nWir sind der Atem der neuen Zeit,\ndas Feuer, das unter der Asche erwacht.\nWir tragen im Herzen die Freiheit bereit\nund heben sie leuchtend in stürmischer Nacht.\n\nO Deutschland, zerstreut und doch voller Kraft,\ndein Morgen glüht hinter Rauch und Gefahr.\nDie Fahne der Hoffnung wird neu erschafft\naus Mut, der im Volke schon immer war.\n\nUnd fallen wir heute im rauen Gefecht,\nso wächst aus dem Blut eine kühnere Schar —\ndenn Freiheit ist stärker als Thron und als Recht,\ndas von Tyrannen geschrieben nur war."
+    },
+    {
+      "sample-id": "ai_herwegh_1848_05",
+      "index": 5,
+      "generator": {
+        "created_at": "2026-03-10T11:53:35.046775+00:00",
+        "sample_index": 5,
+        "prompt-id": "prompt_herwegh",
+        "prompt_id": "prompt_herwegh",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Wir stehen im Rauch der alten Zeit,\nwo Throne schwer auf Schultern drücken,\ndoch unter Stiefeln gärt das Leid,\nund Funken springen aus den Lücken.\n\nDie Straßen flüstern: „Jetzt erhebt\neuch gegen Ketten, starre Mauern!“\nEin Volk, das lange stumm gelebt,\nbeginnt sein eigenes Wort zu hauen.\n\nDie Fahnen wachsen aus dem Staub,\ngeboren aus der Herzen Glut,\nund jeder Ruf durchbricht den Raub\nvon Schweigen, Furcht und kalter Wut.\n\nO Freiheit, noch im Morgenrot,\ndoch schon im Atem der Gewehre—\nwir tragen dich durch Nacht und Not\nwie Feuer durch die dunkle Leere.\n\nMag Macht uns drohen, kalt und blind,\nmag Eisen gegen Hoffnung schlagen:\nSolang wir eines Willens sind,\nwird keine Kette ewig tragen.\n\nDenn wo ein Volk zu sprechen wagt,\nwo Mut sich in die Zukunft bricht,\nda wird Geschichte neu gefragt—\nund antwortet mit freiem Licht."
+    },
+    {
+      "sample-id": "ai_herwegh_1848_06",
+      "index": 6,
+      "generator": {
+        "created_at": "2026-03-10T11:53:36.046805+00:00",
+        "sample_index": 6,
+        "prompt-id": "prompt_herwegh",
+        "prompt_id": "prompt_herwegh",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Wir sind der Atem einer neuen Zeit,\nder durch die engen Gassen zieht,\nwo noch der Schatten alter Throne\nauf müden Pflastersteinen liegt.\n\nDie Nacht der Fürsten wankt und bebt,\nihr morscher Glanz zerbricht im Licht;\ndenn in den Herzen brennt ein Feuer,\ndas kein Dekret der Welt erstickt.\n\nWir tragen keine Kronen mehr,\nnur Mut im Blick und Staub am Schuh;\ndoch jeder Schritt der freien Menschen\nschlägt eine Kerbe in die Ruh.\n\nHört ihr die Stimmen auf den Plätzen,\ndas Murmeln, das zum Donner schwillt?\nEs ist das Volk, das sich erhebt\nund seine eigne Zukunft bildet.\n\nKein Joch mehr über Stirn und Wort,\nkein Schweigen vor dem kalten Thron —\nwir sind das Recht, wir sind die Hoffnung,\nwir sind der kommende Morgen.\n\nUnd fällt auch mancher unter Fahnen,\nvom Blei der alten Ordnung wund,\nso wächst aus jedem Tropfen Blut\nein neuer Schwur aus freiem Mund.\n\nDrum hebt die Banner, Brüder, Schwestern,\nlasst Freiheit durch die Straßen gehn —\nDenn Völker, die zu Menschen werden,\nsind stärker als ein ganzes Heer."
+    },
+    {
+      "sample-id": "ai_herwegh_1848_07",
+      "index": 7,
+      "generator": {
+        "created_at": "2026-03-10T11:53:37.046833+00:00",
+        "sample_index": 7,
+        "prompt-id": "prompt_herwegh",
+        "prompt_id": "prompt_herwegh",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Nacht war lang, das Schweigen schwer,\ndoch unter Pflaster schlägt ein Heer\nvon Herzen, die nicht länger beben—\nsie pochen laut nach freiem Leben.\n\nDer Fürsten Wort, so kalt wie Stein,\nsoll nicht das Maß der Zukunft sein;\nwas sie mit Eisen niederhalten,\nwill sich im Morgen neu gestalten.\n\nSeht, wie der Funke überspringt\nund durch die dunklen Gassen klingt:\nEin Ruf, der durch die Länder geht—\ndass Freiheit nicht in Ketten steht.\n\nWir sind das Volk aus Staub und Schweiß,\ndoch brennt in uns ein helles Weiß\nvon Hoffnung, die kein Thron erstickt,\nkein Zepter bricht, kein Heer erstickt.\n\nDrum hebt die Fahnen in den Wind,\ndamit auch jene sehend sind,\ndie hinter Mauern ängstlich harren—\ndie Zeit der Knechte ist zerschlagen.\n\nUnd fällt auch mancher auf dem Feld,\nso wächst aus ihm die neue Welt;\ndenn wo ein Mensch für Freiheit steht,\ndort stirbt kein Traum—dort wird er spät."
+    },
+    {
+      "sample-id": "ai_herwegh_1848_08",
+      "index": 8,
+      "generator": {
+        "created_at": "2026-03-10T11:53:38.046865+00:00",
+        "sample_index": 8,
+        "prompt-id": "prompt_herwegh",
+        "prompt_id": "prompt_herwegh",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Nacht ist schwer, doch glimmt im Land\nEin Funke unter Asch’ und Sand.\nGedrückt vom Joch der alten Macht,\nHat still das Volk den Schwur gemacht.\n\nDie Fürsten thronen kalt und fern,\nMit Zepter, Siegel, stolzem Stern;\nDoch unter Pflug und Werkstattdach\nErwacht der Mut, erwacht das Ach.\n\nWir haben lang genug geschwiegen,\nDie Ketten klirrten unter Siegen\nDerer, die mit goldnem Wort\nDie Freiheit trieben aus dem Ort.\n\nNun hebt sich Hand in Hand das Volk,\nWie Sturmwind über düstren Wolk’;\nDie Banner rot im Morgen wehn,\nDie alten Throne beben, sehn.\n\nO Freiheit, Wort aus Feuer gemacht,\nDu rufst uns durch die dunkle Nacht.\nWir tragen dich durch Blut und Leid\nHinauf in eine neue Zeit.\n\nUnd fällt auch mancher Bruder heut,\nSein Herz schlägt fort in Ewigkeit.\nDenn wo ein freier Mensch erwacht,\nDort ist der Morgen schon entfacht."
+    },
+    {
+      "sample-id": "ai_herwegh_1848_09",
+      "index": 9,
+      "generator": {
+        "created_at": "2026-03-10T11:53:39.046893+00:00",
+        "sample_index": 9,
+        "prompt-id": "prompt_herwegh",
+        "prompt_id": "prompt_herwegh",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Wir heben die Fahnen im Morgenrot,\nnoch riecht die Straße nach Pulver und Not,\ndoch über den Dächern, vom Sturm entfacht,\nerwacht ein Volk aus der langen Nacht.\n\nZu lange schwieg unser Mund im Zwang,\nzu lange beugte sich Herz und Gang,\nnun bricht aus Kehlen, aus Stein und Feld\nder Ruf nach Freiheit in diese Welt.\n\nNicht Throne sind’s, die die Zukunft baun,\nnicht Kronen, denen wir still vertraun—\ndie Hand des Volkes, erhoben, vereint,\nhat stärker als jedes Zepter gemeint.\n\nWir tragen die Hoffnung durch Blut und Leid,\ndurch Barrikaden und Kampfesschrei;\ndenn Freiheit wächst, wo der Mut sich regt\nund keiner mehr vor der Wahrheit bebt.\n\nSo schwört der Wind über Stadt und Land:\nKein Joch bleibt ewig auf freiem Stand.\nWo Menschen stehen, entschlossen und klar,\nbeginnt die Zukunft — und sie ist wahr."
+    },
+    {
+      "sample-id": "ai_herwegh_1848_10",
+      "index": 10,
+      "generator": {
+        "created_at": "2026-03-10T11:53:40.046925+00:00",
+        "sample_index": 10,
+        "prompt-id": "prompt_herwegh",
+        "prompt_id": "prompt_herwegh",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Nacht liegt schwer auf unserm Land,\ndoch glimmt ein Funke tief im Sand.\nIn Werkstatt, Schenke, Feld und Tor\ntritt leis der Ruf der Freiheit vor.\n\nDie Fürsten thronen kalt und stumm,\nihr Wort ist Gesetz, ihr Blick bleibt krumm.\nDoch unter Pflug und Hammerklang\nwächst still der Freiheit erster Drang.\n\nWir sind das Volk, das schweigend litt,\nzu lange schon in Knechtschaft Schritt.\nNun hebt sich Mut aus Staub und Not,\nwie Morgenrot nach langer Nacht.\n\nDie Fahne hebt der Wind empor,\ndrei Farben leuchten hell hervor.\nSie rufen laut: „Steh auf, steh ein —\nfür Recht, für Freiheit, für das Sein!“\n\nUnd wenn des Kampfes Stunde schlägt,\nund Sturm die alten Mauern fegt,\ndann wird aus Blut und Opfermut\nein freies Land, ein neues Gut.\n\nSo schreiten wir, vereint im Schwur,\ndurch Feuer, Hoffnung, Barrikadur.\nDenn stärker als der Tyrannen Macht\nist Volkes Wille, neu entfacht."
+    }
+  ],
+  "text": "Es grollt der Sturm durch Feld und Stadt,\ndie Fesseln klirren schwer und alt;\ndoch in der Brust des Volkes hat\nein neues Feuer sich geballt.\n\nDie Nacht der Fürsten wankt und bebt,\nihr Thron aus Furcht und Schweigen steht;\ndoch wo ein freies Herz noch lebt,\ndort weht der Morgenwind und weht.\n\nWir haben lange still geduldet,\nden Blick zur Erde hingesenkt;\ndoch wer sein Recht im Staub verschuldet,\nhat seine Zukunft selbst verschenkt.\n\nDrum auf, ihr Brüder! Hebt die Stimmen,\nlasst Wahrheit durch die Gassen zieh’n!\nKein Kerker kann den Geist mehr hemmen,\nkein Bann die freien Worte flieh’n.\n\nDie Fahnen steigen rot im Winde,\nder Ruf nach Freiheit hallt durchs Land;\nund jedes Herz, das mutig finde,\nwird Teil der neuen Morgenhand.\n\nMag Macht noch drohen, mag sie fallen—\ndie Zeit der Knechtschaft bricht entzwei:\nDenn wo das Volk sich selbst will allen,\ndort wächst aus Mut die Freiheit frei.",
+  "texts": [
+    "Es grollt der Sturm durch Feld und Stadt,\ndie Fesseln klirren schwer und alt;\ndoch in der Brust des Volkes hat\nein neues Feuer sich geballt.\n\nDie Nacht der Fürsten wankt und bebt,\nihr Thron aus Furcht und Schweigen steht;\ndoch wo ein freies Herz noch lebt,\ndort weht der Morgenwind und weht.\n\nWir haben lange still geduldet,\nden Blick zur Erde hingesenkt;\ndoch wer sein Recht im Staub verschuldet,\nhat seine Zukunft selbst verschenkt.\n\nDrum auf, ihr Brüder! Hebt die Stimmen,\nlasst Wahrheit durch die Gassen zieh’n!\nKein Kerker kann den Geist mehr hemmen,\nkein Bann die freien Worte flieh’n.\n\nDie Fahnen steigen rot im Winde,\nder Ruf nach Freiheit hallt durchs Land;\nund jedes Herz, das mutig finde,\nwird Teil der neuen Morgenhand.\n\nMag Macht noch drohen, mag sie fallen—\ndie Zeit der Knechtschaft bricht entzwei:\nDenn wo das Volk sich selbst will allen,\ndort wächst aus Mut die Freiheit frei.",
+    "Die Nacht ist schwer, die Gassen schweigen,\ndoch unter Pflaster glimmt die Glut;\nEin Volk beginnt sich aufzurichten,\nund Hoffnung rauscht durch unser Blut.\n\nZu lange trug man stumm die Ketten,\nzu lange schwieg das Recht im Land;\nNun hebt sich über Werkstatt, Acker\ndie Faust aus arbeitsharter Hand.\n\nDie Fürsten thronen hoch in Hallen,\numringt von Gold und alter Macht;\nDoch draußen wächst in hundert Städten\nder Morgen einer neuen Pracht.\n\nEs klingt in Liedern, Flugschriften,\nin jedem freien Wort der Schwur:\nDass kein Tyrann auf ewig herrsche,\ndass Freiheit werde Recht und Spur.\n\nDrum Brüder, Schwestern — steht zusammen,\nlasst Fahnen wehn im Frühlingswind;\nDenn wer für Freiheit mutig streitet,\nzeigt erst, dass wir ein Volk nun sind.",
+    "Im Dunst der Städte, grau vom Zwang,\nErhebt sich leise erster Klang;\nEin Murmeln nur in dunkler Nacht,\nDoch trägt es schon der Freiheit Macht.\n\nDie Fackeln glühn in rauer Hand,\nEin Volk erwacht im Vaterland;\nDie Ketten klirrn im Morgenwind,\nAls ob sie schon zerbrochen sind.\n\nVom Pflug, vom Hammer, aus der Schar\nDer Männer, die man beugen sah,\nErhebt sich jetzt ein freies Wort,\nEs hallt von Markt zu Burgtor fort.\n\nNicht länger schweigt des Volkes Brust,\nZu lang schon trug sie bittren Frust;\nNun schreitet Mut durch Gass und Feld\nUnd fordert laut ein neues Welt.\n\nO Freiheit, Stern in dunkler Zeit,\nWir folgen dir durch Kampf und Leid;\nDenn lieber stürzt die alte Macht,\nAls dass das Volk in Knechtschaft wacht.\n\nSo schwört die Menge, Hand in Hand,\nEin Morgenrot geht übers Land;\nUnd wenn der Sturm auch donnernd zieht —\nDie Freiheit lebt in jedem Lied.",
+    "Die Glocken der Städte beben im Wind,\nund durch die Gassen zieht ein Ruf:\nNicht länger knien wir schweigend hin,\nnicht länger tragen wir die Ketten der Gruft.\n\nAus Werkstatt, Feld und Hörsaal zugleich\nerhebt sich das Volk wie ein donnerndes Meer.\nDie Fürsten thronen noch bleich und reich,\ndoch ihre Mauern erzittern schon sehr.\n\nWir sind der Atem der neuen Zeit,\ndas Feuer, das unter der Asche erwacht.\nWir tragen im Herzen die Freiheit bereit\nund heben sie leuchtend in stürmischer Nacht.\n\nO Deutschland, zerstreut und doch voller Kraft,\ndein Morgen glüht hinter Rauch und Gefahr.\nDie Fahne der Hoffnung wird neu erschafft\naus Mut, der im Volke schon immer war.\n\nUnd fallen wir heute im rauen Gefecht,\nso wächst aus dem Blut eine kühnere Schar —\ndenn Freiheit ist stärker als Thron und als Recht,\ndas von Tyrannen geschrieben nur war.",
+    "Wir stehen im Rauch der alten Zeit,\nwo Throne schwer auf Schultern drücken,\ndoch unter Stiefeln gärt das Leid,\nund Funken springen aus den Lücken.\n\nDie Straßen flüstern: „Jetzt erhebt\neuch gegen Ketten, starre Mauern!“\nEin Volk, das lange stumm gelebt,\nbeginnt sein eigenes Wort zu hauen.\n\nDie Fahnen wachsen aus dem Staub,\ngeboren aus der Herzen Glut,\nund jeder Ruf durchbricht den Raub\nvon Schweigen, Furcht und kalter Wut.\n\nO Freiheit, noch im Morgenrot,\ndoch schon im Atem der Gewehre—\nwir tragen dich durch Nacht und Not\nwie Feuer durch die dunkle Leere.\n\nMag Macht uns drohen, kalt und blind,\nmag Eisen gegen Hoffnung schlagen:\nSolang wir eines Willens sind,\nwird keine Kette ewig tragen.\n\nDenn wo ein Volk zu sprechen wagt,\nwo Mut sich in die Zukunft bricht,\nda wird Geschichte neu gefragt—\nund antwortet mit freiem Licht.",
+    "Wir sind der Atem einer neuen Zeit,\nder durch die engen Gassen zieht,\nwo noch der Schatten alter Throne\nauf müden Pflastersteinen liegt.\n\nDie Nacht der Fürsten wankt und bebt,\nihr morscher Glanz zerbricht im Licht;\ndenn in den Herzen brennt ein Feuer,\ndas kein Dekret der Welt erstickt.\n\nWir tragen keine Kronen mehr,\nnur Mut im Blick und Staub am Schuh;\ndoch jeder Schritt der freien Menschen\nschlägt eine Kerbe in die Ruh.\n\nHört ihr die Stimmen auf den Plätzen,\ndas Murmeln, das zum Donner schwillt?\nEs ist das Volk, das sich erhebt\nund seine eigne Zukunft bildet.\n\nKein Joch mehr über Stirn und Wort,\nkein Schweigen vor dem kalten Thron —\nwir sind das Recht, wir sind die Hoffnung,\nwir sind der kommende Morgen.\n\nUnd fällt auch mancher unter Fahnen,\nvom Blei der alten Ordnung wund,\nso wächst aus jedem Tropfen Blut\nein neuer Schwur aus freiem Mund.\n\nDrum hebt die Banner, Brüder, Schwestern,\nlasst Freiheit durch die Straßen gehn —\nDenn Völker, die zu Menschen werden,\nsind stärker als ein ganzes Heer.",
+    "Die Nacht war lang, das Schweigen schwer,\ndoch unter Pflaster schlägt ein Heer\nvon Herzen, die nicht länger beben—\nsie pochen laut nach freiem Leben.\n\nDer Fürsten Wort, so kalt wie Stein,\nsoll nicht das Maß der Zukunft sein;\nwas sie mit Eisen niederhalten,\nwill sich im Morgen neu gestalten.\n\nSeht, wie der Funke überspringt\nund durch die dunklen Gassen klingt:\nEin Ruf, der durch die Länder geht—\ndass Freiheit nicht in Ketten steht.\n\nWir sind das Volk aus Staub und Schweiß,\ndoch brennt in uns ein helles Weiß\nvon Hoffnung, die kein Thron erstickt,\nkein Zepter bricht, kein Heer erstickt.\n\nDrum hebt die Fahnen in den Wind,\ndamit auch jene sehend sind,\ndie hinter Mauern ängstlich harren—\ndie Zeit der Knechte ist zerschlagen.\n\nUnd fällt auch mancher auf dem Feld,\nso wächst aus ihm die neue Welt;\ndenn wo ein Mensch für Freiheit steht,\ndort stirbt kein Traum—dort wird er spät.",
+    "Die Nacht ist schwer, doch glimmt im Land\nEin Funke unter Asch’ und Sand.\nGedrückt vom Joch der alten Macht,\nHat still das Volk den Schwur gemacht.\n\nDie Fürsten thronen kalt und fern,\nMit Zepter, Siegel, stolzem Stern;\nDoch unter Pflug und Werkstattdach\nErwacht der Mut, erwacht das Ach.\n\nWir haben lang genug geschwiegen,\nDie Ketten klirrten unter Siegen\nDerer, die mit goldnem Wort\nDie Freiheit trieben aus dem Ort.\n\nNun hebt sich Hand in Hand das Volk,\nWie Sturmwind über düstren Wolk’;\nDie Banner rot im Morgen wehn,\nDie alten Throne beben, sehn.\n\nO Freiheit, Wort aus Feuer gemacht,\nDu rufst uns durch die dunkle Nacht.\nWir tragen dich durch Blut und Leid\nHinauf in eine neue Zeit.\n\nUnd fällt auch mancher Bruder heut,\nSein Herz schlägt fort in Ewigkeit.\nDenn wo ein freier Mensch erwacht,\nDort ist der Morgen schon entfacht.",
+    "Wir heben die Fahnen im Morgenrot,\nnoch riecht die Straße nach Pulver und Not,\ndoch über den Dächern, vom Sturm entfacht,\nerwacht ein Volk aus der langen Nacht.\n\nZu lange schwieg unser Mund im Zwang,\nzu lange beugte sich Herz und Gang,\nnun bricht aus Kehlen, aus Stein und Feld\nder Ruf nach Freiheit in diese Welt.\n\nNicht Throne sind’s, die die Zukunft baun,\nnicht Kronen, denen wir still vertraun—\ndie Hand des Volkes, erhoben, vereint,\nhat stärker als jedes Zepter gemeint.\n\nWir tragen die Hoffnung durch Blut und Leid,\ndurch Barrikaden und Kampfesschrei;\ndenn Freiheit wächst, wo der Mut sich regt\nund keiner mehr vor der Wahrheit bebt.\n\nSo schwört der Wind über Stadt und Land:\nKein Joch bleibt ewig auf freiem Stand.\nWo Menschen stehen, entschlossen und klar,\nbeginnt die Zukunft — und sie ist wahr.",
+    "Die Nacht liegt schwer auf unserm Land,\ndoch glimmt ein Funke tief im Sand.\nIn Werkstatt, Schenke, Feld und Tor\ntritt leis der Ruf der Freiheit vor.\n\nDie Fürsten thronen kalt und stumm,\nihr Wort ist Gesetz, ihr Blick bleibt krumm.\nDoch unter Pflug und Hammerklang\nwächst still der Freiheit erster Drang.\n\nWir sind das Volk, das schweigend litt,\nzu lange schon in Knechtschaft Schritt.\nNun hebt sich Mut aus Staub und Not,\nwie Morgenrot nach langer Nacht.\n\nDie Fahne hebt der Wind empor,\ndrei Farben leuchten hell hervor.\nSie rufen laut: „Steh auf, steh ein —\nfür Recht, für Freiheit, für das Sein!“\n\nUnd wenn des Kampfes Stunde schlägt,\nund Sturm die alten Mauern fegt,\ndann wird aus Blut und Opfermut\nein freies Land, ein neues Gut.\n\nSo schreiten wir, vereint im Schwur,\ndurch Feuer, Hoffnung, Barrikadur.\nDenn stärker als der Tyrannen Macht\nist Volkes Wille, neu entfacht."
+  ]
 }

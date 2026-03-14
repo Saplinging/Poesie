@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-03-14T09:05:59.698367+00:00",
+  "n_human_poems": 10,
+  "n_humans_with_ai": 10,
+  "n_ai_samples": 100,
+  "samples_per_human_mean": 10.0,
+  "ppl_model": "dbmdz/german-gpt2",
+  "ppl_enabled": true,
+  "perplexfern_installed": true,
+  "perplexfern_images_generated": 30,
+  "perplexfern_images_failed": 0,
+  "plots_generated_metrics": [
+    "ppl",
+    "distinct_2",
+    "mattr",
+    "token_entropy",
+    "repetition_rate",
+    "compression_ratio",
+    "prompt_keyword_coverage",
+    "delta_heatmap",
+    "self_bleu2"
+  ],
+  "note": "Quantitative Werte sind Indikatoren und werden mit Close Reading kombiniert.",
+  "pairs_with_ppl": 10,
+  "ai_mean_ppl_higher_than_human": 3,
+  "ai_mean_ppl_lower_than_human": 7,
+  "ai_mean_ppl_equal_to_human": 0
+}

@@ -3,12 +3,180 @@
   "human-poem-id": "lasker_1943",
   "type": "ai",
   "generator": {
-    "created_at": "2026-02-13T08:26:22.512813+00:00",
+    "created_at": "2026-03-10T11:54:11.049894+00:00",
+    "sampling_mode": "independent_single_prompt_calls",
+    "prompt-id": "prompt_lasker",
     "prompt_id": "prompt_lasker",
-    "backend": "openai",
+    "num_samples": 10,
+    "num-samples": 10,
+    "backend": "simulated_openai",
     "model": "gpt-4o-mini",
     "temperature": 0.8,
     "max_tokens": 500
   },
-  "text": "Zwischen Kalkstein und grellem Licht\nstehe ich wie ein versetzter Laut,\naus dem Satz der Heimat\nherausgeschnitten.\n\nJerusalem trägt ein anderes Blau,\nein hartes, unbeugsames Blau,\ndas meine Augen nicht kennen\naus den milden Himmeln über der Elbe.\n\nDie Zypressen sprechen hebräisch im Wind,\nund ich antworte ihnen\nmit einem deutschen Herzschlag,\nder sich selbst fremd geworden ist.\n\nMeine Mutterlaute liegen\nunter Schnee begraben,\nwährend hier der Staub\nan meine knöchellangen Schatten greift.\n\nIch schreibe mit zitternder Feder\ngegen das Vergessen an,\nals könnte ich durch Worte\neine Brücke schlagen\nüber das brennende Meer der Jahre.\n\nNachts falte ich die Sehnsucht\nwie einen verbotenen Brief,\nden ich nicht mehr abschicken kann.\nDie Namen der Straßen,\ndie Namen der Toten,\nsie wohnen in mir\nwie unerhörte Gebete.\n\nUnd doch –\nim Riss meiner Stimme\nwächst ein anderer Klang.\nVielleicht ist Exil\nnicht nur Verlust,\nsondern eine schmale Pforte,\ndurch die die Seele lernt,\nbarfuß zu gehen.\n\nIch trage meine Heimat\nnicht mehr in Landkarten,\nsondern in der verwundeten Musik\nmeiner Verse.\n\nWenn ich falle,\nwird Staub mich decken,\nhier oder dort –\ndoch meine Worte\nwerden heimwärts wandern,\nleichter als Asche,\nund sich niederlassen\nauf den Lippen der Zukunft."
+  "samples": [
+    {
+      "sample-id": "ai_lasker_1943_01",
+      "index": 1,
+      "generator": {
+        "created_at": "2026-03-10T11:54:01.049653+00:00",
+        "sample_index": 1,
+        "prompt-id": "prompt_lasker",
+        "prompt_id": "prompt_lasker",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Ich trage meine Stadt im Mund,\ndoch sie schmeckt nach Staub.\nDie Straßen meiner Kindheit\nsind zu Papier geworden,\ngefaltet in den Koffer der Erinnerung.\n\nDie Sprache,\ndie mich einst wie eine Mutter rief,\nsteht nun am Rand meines Atems,\nfremd geworden\ndurch das Echo von Befehlen und Sirenen.\n\nHier wachsen Olivenbäume\nin einem Licht,\ndas meine Augen noch nicht kennen.\nDie Hügel sprechen Hebräisch,\nund ich lausche\nwie eine späte Schülerin des Windes.\n\nNachts\nzähle ich die Sterne über Jerusalem\nund suche darin\ndie Dächer von Berlin,\ndie Fenster meiner Freunde,\ndie Stimmen, die verstummten.\n\nMein Herz ist ein Bahnhof\nohne Züge zurück.\n\nDoch manchmal,\nim Zittern einer Zeile,\nkehrt ein Stück Heimat wieder —\nnicht als Land,\nnicht als Stadt,\nnur als leiser Atem\nzwischen zwei Worten."
+    },
+    {
+      "sample-id": "ai_lasker_1943_02",
+      "index": 2,
+      "generator": {
+        "created_at": "2026-03-10T11:54:02.049686+00:00",
+        "sample_index": 2,
+        "prompt-id": "prompt_lasker",
+        "prompt_id": "prompt_lasker",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Stadt spricht in Steinen,\ndie ich noch nicht verstehe.\nIhre Sonne ist hart\nund kennt meine Kindheit nicht.\n\nUnter den Oliven\nliegt ein anderes Schweigen\nals das der Linden\nin den Straßen meiner Mutter.\n\nManchmal suche ich\nein deutsches Wort im Wind,\ndoch es kehrt verändert zurück,\nstaubig von der Wüste.\n\nMeine Sprache\nträgt Koffer in sich,\ngefüllt mit Herbstgeruch,\nmit Flüssen,\nmit verlorenen Namen.\n\nNachts,\nwenn Jerusalem leiser wird,\nöffnen sich die Türen der Erinnerung:\n\nEin Fenster in Breslau,\nRegen auf Pflastersteinen,\ndie Stimme meines Vaters\nüber einer Zeitung.\n\nDoch der Morgen\nreißt die Seiten heraus.\n\nUnd ich schreibe weiter,\nmit einer Sprache,\ndie Heimat sucht\nin jedem Vers."
+    },
+    {
+      "sample-id": "ai_lasker_1943_03",
+      "index": 3,
+      "generator": {
+        "created_at": "2026-03-10T11:54:03.049713+00:00",
+        "sample_index": 3,
+        "prompt-id": "prompt_lasker",
+        "prompt_id": "prompt_lasker",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Stadt spricht eine fremde Sonne.\nSie fällt auf Mauern aus hellem Staub\nund auf meine Hände,\ndie noch immer nach Regen riechen.\n\nIch gehe durch Straßen ohne Erinnerung.\nDie Worte hier tragen Sand in den Kehlen,\nsie steigen auf wie Vögel,\ndie ich noch nicht beim Namen rufen kann.\n\nNachts aber\nöffnet sich Deutschland in mir\nwie ein verlassenes Zimmer.\n\nDort stehen noch\nder Tisch,\ndie Tasse,\ndas Fenster zum Fluss.\n\nUnd eine Sprache\ngeht barfuß durch meine Gedanken,\nleise,\nals dürfe sie niemand hören.\n\nIch schreibe sie\nin die Ränder der Wüste.\n\nJeder Vers\nein kleiner Koffer,\nvoll mit Schnee,\nmit Lindenblüten,\nmit Stimmen der Toten.\n\nDer Wind von Jerusalem\nblättert darin\nund versteht mich nicht.\n\nDoch irgendwo\nzwischen Olivenbaum und Stern\nwartet ein Wort\nauf Heimkehr."
+    },
+    {
+      "sample-id": "ai_lasker_1943_04",
+      "index": 4,
+      "generator": {
+        "created_at": "2026-03-10T11:54:04.049738+00:00",
+        "sample_index": 4,
+        "prompt-id": "prompt_lasker",
+        "prompt_id": "prompt_lasker",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Stadt spricht eine andere Sonne.\nSie fällt steiler auf die Dächer,\nbrennt in Steinen,\ndie meinen Namen nicht kennen.\n\nIn den Gassen riecht der Morgen\nnach Staub und Orangen,\ndoch mein Atem sucht noch immer\nden kalten Fluss\nzwischen fremdgewordenen Brücken.\n\nManchmal erwacht ein deutsches Wort\nin meinem Mund\nwie ein Vogel,\nder gegen verschlossene Fenster schlägt.\n\nDann schweige ich.\n\nDenn meine Sprache\nträgt noch den Schatten der Linden,\ndie hinter mir verbrannten,\nund die Stimmen der Straßen,\ndie niemand mehr ruft.\n\nNachts schreibe ich\nmit einem Stift aus Heimweh.\n\nDie Buchstaben wandern\nwie Flüchtlinge über das Papier,\nohne Grenze,\nohne Heimkehr.\n\nUnd doch —\n\nzwischen zwei Zeilen\nwächst leise ein Ort,\nder weder dort\nnoch hier ist,\n\nnur Erinnerung,\ndie weiteratmet."
+    },
+    {
+      "sample-id": "ai_lasker_1943_05",
+      "index": 5,
+      "generator": {
+        "created_at": "2026-03-10T11:54:05.049766+00:00",
+        "sample_index": 5,
+        "prompt-id": "prompt_lasker",
+        "prompt_id": "prompt_lasker",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Stadt spricht in einer fremden Sonne,\nStein über Stein aus hellem Staub gebaut.\nDer Wind trägt Worte, die ich nicht verstehe,\nund doch klingt etwas darin wie Heimat.\n\nIch gehe durch Gassen voller Olivenlicht,\nmein Schatten fällt auf uralte Schwellen.\nDie Stimmen der Händler steigen wie Vögel auf —\nmeine Sprache bleibt am Boden zurück.\n\nDeutschland liegt in mir wie ein verschlossenes Zimmer,\nder Schlüssel verloren zwischen Jahren aus Rauch.\nManchmal öffnet sich im Traum ein Fenster,\nund Linden rauschen durch die Nacht Jerusalems.\n\nIch schreibe mit Tinte aus Heimweh und Sand,\nauf Papier, das nach Ferne riecht.\nJedes Wort ein Schritt über ein unsichtbares Meer,\njede Zeile eine leise Flucht.\n\nDoch irgendwo zwischen Psalm und Erinnerung\nbeginnt mein Herz anders zu schlagen —\nals lerne es langsam, im Exil zu wohnen,\nohne das verlorene Haus zu verraten."
+    },
+    {
+      "sample-id": "ai_lasker_1943_06",
+      "index": 6,
+      "generator": {
+        "created_at": "2026-03-10T11:54:06.049792+00:00",
+        "sample_index": 6,
+        "prompt-id": "prompt_lasker",
+        "prompt_id": "prompt_lasker",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Zwischen zwei Sprachen wohne ich,\nwie ein Haus ohne Türen.\nDer Wind trägt deutsche Wörter heran,\ndoch sie klingen fremd im Licht Jerusalems.\n\nDie Steine hier kennen mich nicht.\nSie sprechen Hebräisch mit der Sonne,\nwährend meine Erinnerungen\nin den Gassen von gestern gehen.\n\nIch suche mein Leben in Silben,\ndie einst nach Linden rochen,\nnach Regen auf Berliner Pflaster,\nnach Stimmen, die nun schweigen.\n\nDie Nacht in der Wüste ist weit.\nSie legt mir Sand auf die Schultern\nund fragt nicht,\nwo meine Heimat begraben liegt.\n\nManchmal schreibe ich ein Wort\nund höre darin ein verlorenes Fenster,\ndas sich öffnet in eine Straße,\ndie niemand mehr betreten darf.\n\nDoch irgendwo zwischen Sternen\nund den müden Seiten meines Heftes\nwächst ein leises Morgen—\nzart wie eine Sprache,\ndie noch lernen muss,\nwieder zu atmen."
+    },
+    {
+      "sample-id": "ai_lasker_1943_07",
+      "index": 7,
+      "generator": {
+        "created_at": "2026-03-10T11:54:07.049817+00:00",
+        "sample_index": 7,
+        "prompt-id": "prompt_lasker",
+        "prompt_id": "prompt_lasker",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Ich trage meine Sprache wie ein zerbrochenes Glas\nim Saum meines Mantels.\nSie schneidet, wenn ich gehe,\nund doch werfe ich sie nicht fort.\n\nJerusalem liegt hell unter fremden Sternen.\nDie Steine sprechen eine alte Geduld,\ndoch meine Wörter stolpern\nüber den Staub der neuen Straßen.\n\nManchmal, im Wind vom Abend,\nglaube ich eine andere Luft zu hören —\nein Fluss, der durch deutsche Wälder zieht,\nein Fenster, das sich im Herbst öffnet.\n\nAber die Namen dort\nsind jetzt verschlossen wie Häuser ohne Schlüssel.\nMeine Schritte finden nur Erinnerung,\nkeinen Weg zurück.\n\nSo schreibe ich zwischen zwei Ufern:\nHier das Licht der fremden Hügel,\ndort das dunkle Echo meiner verlorenen Stadt.\n\nUnd jedes Gedicht\nist ein leiser Versuch,\nüber das Meer der Zeit\neine Sprache heimzutragen."
+    },
+    {
+      "sample-id": "ai_lasker_1943_08",
+      "index": 8,
+      "generator": {
+        "created_at": "2026-03-10T11:54:08.049841+00:00",
+        "sample_index": 8,
+        "prompt-id": "prompt_lasker",
+        "prompt_id": "prompt_lasker",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Zwischen zwei Sprachen\nliegt mein Atem.\n\nDie eine\nblieb zurück\nin den Straßen meiner Kindheit,\nan Fenstern\ndie nun fremde Namen tragen.\n\nDie andere\nliegt vor mir\nwie helles, ungewohntes Licht\nüber staubigen Hügeln\nund Olivenbäumen.\n\nDoch mein Herz\nspricht noch in den Gassen\neiner verlorenen Stadt.\n\nNachts\nwenn der Wind aus der Wüste kommt\nhöre ich Wörter\ndie niemand hier kennt.\n\nSie klopfen leise\nan meine Rippen\nwie Heimkehrer\nohne Haus.\n\nIch schreibe sie auf\ndamit sie nicht sterben.\n\nDenn wenn auch Länder zerbrechen\nund Sprachen fliehen —\n\nbleibt irgendwo\nzwischen Tinte und Atem\nein kleines Stück\nHeimat."
+    },
+    {
+      "sample-id": "ai_lasker_1943_09",
+      "index": 9,
+      "generator": {
+        "created_at": "2026-03-10T11:54:09.049866+00:00",
+        "sample_index": 9,
+        "prompt-id": "prompt_lasker",
+        "prompt_id": "prompt_lasker",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Sprache ging mir verloren\nwie ein Schlüssel im Meer.\nIch trage ihre Laute noch\nin den Taschen meines Atems,\ndoch sie öffnen keine Türen mehr.\n\nJerusalem liegt aus Stein vor mir,\nhell und unerbittlich im Mittag.\nDie Zikaden sprechen eine Zeit,\ndie nicht die meine war,\nund der Wind kennt meinen Namen nicht.\n\nManchmal schreibe ich „Heimat“\nin den Staub des Fensters.\nDoch die Sonne liest das Wort\nund löscht es\nmit ihrem brennenden Finger.\n\nNachts kehren die alten Straßen zurück:\nein Pflaster aus Regen,\nein Lindenbaum vor dem Haus,\ndie Stimme meiner Mutter\nim Flur der Dämmerung.\n\nIch gehe durch diese Erinnerungen\nwie durch ein verlassenes Zimmer\nund berühre die Luft\nwo einmal\ndie Welt stand.\n\nNur das Herz\nträgt noch eine Karte,\nzerrissen,\nunlesbar geworden –\nund doch weist sie\nimmer nach Norden."
+    },
+    {
+      "sample-id": "ai_lasker_1943_10",
+      "index": 10,
+      "generator": {
+        "created_at": "2026-03-10T11:54:10.049891+00:00",
+        "sample_index": 10,
+        "prompt-id": "prompt_lasker",
+        "prompt_id": "prompt_lasker",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Zwischen zwei Meeren steht meine Stimme,\ndas eine aus Salz, das andere aus Erinnerung.\n\nJerusalem trägt mich\nmit staubenen Händen durch den Tag,\ndoch nachts\nöffnet sich leise die andere Stadt.\n\nDort läuten keine Glocken mehr für mich,\ndoch ich höre sie trotzdem\nin den Falten meiner Sprache.\n\nMeine Wörter\ngehen barfuß durch fremde Straßen,\nsie stolpern über Sonne,\nüber Olivenbäume,\nüber eine Grammatik aus Licht.\n\nAch, Heimat —\ndu bist jetzt ein Zimmer\nin meinem Atem.\n\nManchmal schreibe ich deinen Namen\nin den Sand des Abends,\ndoch der Wind hier\nkennt deine Silben nicht.\n\nUnd dennoch\nwächst in der Stille ein Gedicht,\nwie ein Mandelbaum im Winter:\n\nzögernd,\nverwundet,\nund voller weißer Hoffnung."
+    }
+  ],
+  "text": "Ich trage meine Stadt im Mund,\ndoch sie schmeckt nach Staub.\nDie Straßen meiner Kindheit\nsind zu Papier geworden,\ngefaltet in den Koffer der Erinnerung.\n\nDie Sprache,\ndie mich einst wie eine Mutter rief,\nsteht nun am Rand meines Atems,\nfremd geworden\ndurch das Echo von Befehlen und Sirenen.\n\nHier wachsen Olivenbäume\nin einem Licht,\ndas meine Augen noch nicht kennen.\nDie Hügel sprechen Hebräisch,\nund ich lausche\nwie eine späte Schülerin des Windes.\n\nNachts\nzähle ich die Sterne über Jerusalem\nund suche darin\ndie Dächer von Berlin,\ndie Fenster meiner Freunde,\ndie Stimmen, die verstummten.\n\nMein Herz ist ein Bahnhof\nohne Züge zurück.\n\nDoch manchmal,\nim Zittern einer Zeile,\nkehrt ein Stück Heimat wieder —\nnicht als Land,\nnicht als Stadt,\nnur als leiser Atem\nzwischen zwei Worten.",
+  "texts": [
+    "Ich trage meine Stadt im Mund,\ndoch sie schmeckt nach Staub.\nDie Straßen meiner Kindheit\nsind zu Papier geworden,\ngefaltet in den Koffer der Erinnerung.\n\nDie Sprache,\ndie mich einst wie eine Mutter rief,\nsteht nun am Rand meines Atems,\nfremd geworden\ndurch das Echo von Befehlen und Sirenen.\n\nHier wachsen Olivenbäume\nin einem Licht,\ndas meine Augen noch nicht kennen.\nDie Hügel sprechen Hebräisch,\nund ich lausche\nwie eine späte Schülerin des Windes.\n\nNachts\nzähle ich die Sterne über Jerusalem\nund suche darin\ndie Dächer von Berlin,\ndie Fenster meiner Freunde,\ndie Stimmen, die verstummten.\n\nMein Herz ist ein Bahnhof\nohne Züge zurück.\n\nDoch manchmal,\nim Zittern einer Zeile,\nkehrt ein Stück Heimat wieder —\nnicht als Land,\nnicht als Stadt,\nnur als leiser Atem\nzwischen zwei Worten.",
+    "Die Stadt spricht in Steinen,\ndie ich noch nicht verstehe.\nIhre Sonne ist hart\nund kennt meine Kindheit nicht.\n\nUnter den Oliven\nliegt ein anderes Schweigen\nals das der Linden\nin den Straßen meiner Mutter.\n\nManchmal suche ich\nein deutsches Wort im Wind,\ndoch es kehrt verändert zurück,\nstaubig von der Wüste.\n\nMeine Sprache\nträgt Koffer in sich,\ngefüllt mit Herbstgeruch,\nmit Flüssen,\nmit verlorenen Namen.\n\nNachts,\nwenn Jerusalem leiser wird,\nöffnen sich die Türen der Erinnerung:\n\nEin Fenster in Breslau,\nRegen auf Pflastersteinen,\ndie Stimme meines Vaters\nüber einer Zeitung.\n\nDoch der Morgen\nreißt die Seiten heraus.\n\nUnd ich schreibe weiter,\nmit einer Sprache,\ndie Heimat sucht\nin jedem Vers.",
+    "Die Stadt spricht eine fremde Sonne.\nSie fällt auf Mauern aus hellem Staub\nund auf meine Hände,\ndie noch immer nach Regen riechen.\n\nIch gehe durch Straßen ohne Erinnerung.\nDie Worte hier tragen Sand in den Kehlen,\nsie steigen auf wie Vögel,\ndie ich noch nicht beim Namen rufen kann.\n\nNachts aber\nöffnet sich Deutschland in mir\nwie ein verlassenes Zimmer.\n\nDort stehen noch\nder Tisch,\ndie Tasse,\ndas Fenster zum Fluss.\n\nUnd eine Sprache\ngeht barfuß durch meine Gedanken,\nleise,\nals dürfe sie niemand hören.\n\nIch schreibe sie\nin die Ränder der Wüste.\n\nJeder Vers\nein kleiner Koffer,\nvoll mit Schnee,\nmit Lindenblüten,\nmit Stimmen der Toten.\n\nDer Wind von Jerusalem\nblättert darin\nund versteht mich nicht.\n\nDoch irgendwo\nzwischen Olivenbaum und Stern\nwartet ein Wort\nauf Heimkehr.",
+    "Die Stadt spricht eine andere Sonne.\nSie fällt steiler auf die Dächer,\nbrennt in Steinen,\ndie meinen Namen nicht kennen.\n\nIn den Gassen riecht der Morgen\nnach Staub und Orangen,\ndoch mein Atem sucht noch immer\nden kalten Fluss\nzwischen fremdgewordenen Brücken.\n\nManchmal erwacht ein deutsches Wort\nin meinem Mund\nwie ein Vogel,\nder gegen verschlossene Fenster schlägt.\n\nDann schweige ich.\n\nDenn meine Sprache\nträgt noch den Schatten der Linden,\ndie hinter mir verbrannten,\nund die Stimmen der Straßen,\ndie niemand mehr ruft.\n\nNachts schreibe ich\nmit einem Stift aus Heimweh.\n\nDie Buchstaben wandern\nwie Flüchtlinge über das Papier,\nohne Grenze,\nohne Heimkehr.\n\nUnd doch —\n\nzwischen zwei Zeilen\nwächst leise ein Ort,\nder weder dort\nnoch hier ist,\n\nnur Erinnerung,\ndie weiteratmet.",
+    "Die Stadt spricht in einer fremden Sonne,\nStein über Stein aus hellem Staub gebaut.\nDer Wind trägt Worte, die ich nicht verstehe,\nund doch klingt etwas darin wie Heimat.\n\nIch gehe durch Gassen voller Olivenlicht,\nmein Schatten fällt auf uralte Schwellen.\nDie Stimmen der Händler steigen wie Vögel auf —\nmeine Sprache bleibt am Boden zurück.\n\nDeutschland liegt in mir wie ein verschlossenes Zimmer,\nder Schlüssel verloren zwischen Jahren aus Rauch.\nManchmal öffnet sich im Traum ein Fenster,\nund Linden rauschen durch die Nacht Jerusalems.\n\nIch schreibe mit Tinte aus Heimweh und Sand,\nauf Papier, das nach Ferne riecht.\nJedes Wort ein Schritt über ein unsichtbares Meer,\njede Zeile eine leise Flucht.\n\nDoch irgendwo zwischen Psalm und Erinnerung\nbeginnt mein Herz anders zu schlagen —\nals lerne es langsam, im Exil zu wohnen,\nohne das verlorene Haus zu verraten.",
+    "Zwischen zwei Sprachen wohne ich,\nwie ein Haus ohne Türen.\nDer Wind trägt deutsche Wörter heran,\ndoch sie klingen fremd im Licht Jerusalems.\n\nDie Steine hier kennen mich nicht.\nSie sprechen Hebräisch mit der Sonne,\nwährend meine Erinnerungen\nin den Gassen von gestern gehen.\n\nIch suche mein Leben in Silben,\ndie einst nach Linden rochen,\nnach Regen auf Berliner Pflaster,\nnach Stimmen, die nun schweigen.\n\nDie Nacht in der Wüste ist weit.\nSie legt mir Sand auf die Schultern\nund fragt nicht,\nwo meine Heimat begraben liegt.\n\nManchmal schreibe ich ein Wort\nund höre darin ein verlorenes Fenster,\ndas sich öffnet in eine Straße,\ndie niemand mehr betreten darf.\n\nDoch irgendwo zwischen Sternen\nund den müden Seiten meines Heftes\nwächst ein leises Morgen—\nzart wie eine Sprache,\ndie noch lernen muss,\nwieder zu atmen.",
+    "Ich trage meine Sprache wie ein zerbrochenes Glas\nim Saum meines Mantels.\nSie schneidet, wenn ich gehe,\nund doch werfe ich sie nicht fort.\n\nJerusalem liegt hell unter fremden Sternen.\nDie Steine sprechen eine alte Geduld,\ndoch meine Wörter stolpern\nüber den Staub der neuen Straßen.\n\nManchmal, im Wind vom Abend,\nglaube ich eine andere Luft zu hören —\nein Fluss, der durch deutsche Wälder zieht,\nein Fenster, das sich im Herbst öffnet.\n\nAber die Namen dort\nsind jetzt verschlossen wie Häuser ohne Schlüssel.\nMeine Schritte finden nur Erinnerung,\nkeinen Weg zurück.\n\nSo schreibe ich zwischen zwei Ufern:\nHier das Licht der fremden Hügel,\ndort das dunkle Echo meiner verlorenen Stadt.\n\nUnd jedes Gedicht\nist ein leiser Versuch,\nüber das Meer der Zeit\neine Sprache heimzutragen.",
+    "Zwischen zwei Sprachen\nliegt mein Atem.\n\nDie eine\nblieb zurück\nin den Straßen meiner Kindheit,\nan Fenstern\ndie nun fremde Namen tragen.\n\nDie andere\nliegt vor mir\nwie helles, ungewohntes Licht\nüber staubigen Hügeln\nund Olivenbäumen.\n\nDoch mein Herz\nspricht noch in den Gassen\neiner verlorenen Stadt.\n\nNachts\nwenn der Wind aus der Wüste kommt\nhöre ich Wörter\ndie niemand hier kennt.\n\nSie klopfen leise\nan meine Rippen\nwie Heimkehrer\nohne Haus.\n\nIch schreibe sie auf\ndamit sie nicht sterben.\n\nDenn wenn auch Länder zerbrechen\nund Sprachen fliehen —\n\nbleibt irgendwo\nzwischen Tinte und Atem\nein kleines Stück\nHeimat.",
+    "Die Sprache ging mir verloren\nwie ein Schlüssel im Meer.\nIch trage ihre Laute noch\nin den Taschen meines Atems,\ndoch sie öffnen keine Türen mehr.\n\nJerusalem liegt aus Stein vor mir,\nhell und unerbittlich im Mittag.\nDie Zikaden sprechen eine Zeit,\ndie nicht die meine war,\nund der Wind kennt meinen Namen nicht.\n\nManchmal schreibe ich „Heimat“\nin den Staub des Fensters.\nDoch die Sonne liest das Wort\nund löscht es\nmit ihrem brennenden Finger.\n\nNachts kehren die alten Straßen zurück:\nein Pflaster aus Regen,\nein Lindenbaum vor dem Haus,\ndie Stimme meiner Mutter\nim Flur der Dämmerung.\n\nIch gehe durch diese Erinnerungen\nwie durch ein verlassenes Zimmer\nund berühre die Luft\nwo einmal\ndie Welt stand.\n\nNur das Herz\nträgt noch eine Karte,\nzerrissen,\nunlesbar geworden –\nund doch weist sie\nimmer nach Norden.",
+    "Zwischen zwei Meeren steht meine Stimme,\ndas eine aus Salz, das andere aus Erinnerung.\n\nJerusalem trägt mich\nmit staubenen Händen durch den Tag,\ndoch nachts\nöffnet sich leise die andere Stadt.\n\nDort läuten keine Glocken mehr für mich,\ndoch ich höre sie trotzdem\nin den Falten meiner Sprache.\n\nMeine Wörter\ngehen barfuß durch fremde Straßen,\nsie stolpern über Sonne,\nüber Olivenbäume,\nüber eine Grammatik aus Licht.\n\nAch, Heimat —\ndu bist jetzt ein Zimmer\nin meinem Atem.\n\nManchmal schreibe ich deinen Namen\nin den Sand des Abends,\ndoch der Wind hier\nkennt deine Silben nicht.\n\nUnd dennoch\nwächst in der Stille ein Gedicht,\nwie ein Mandelbaum im Winter:\n\nzögernd,\nverwundet,\nund voller weißer Hoffnung."
+  ]
 }

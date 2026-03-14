@@ -3,12 +3,180 @@
   "human-poem-id": "kafka_1917",
   "type": "ai",
   "generator": {
-    "created_at": "2026-02-13T08:26:22.512291+00:00",
+    "created_at": "2026-03-10T11:54:01.049033+00:00",
+    "sampling_mode": "independent_single_prompt_calls",
+    "prompt-id": "prompt_kafka",
     "prompt_id": "prompt_kafka",
-    "backend": "openai",
+    "num_samples": 10,
+    "num-samples": 10,
+    "backend": "simulated_openai",
     "model": "gpt-4o-mini",
     "temperature": 0.8,
     "max_tokens": 500
   },
-  "text": "Die Tage hängen wie nasse Mäntel\nan den Schultern der Stadt,\nschwer von Atem und Rauch.\nKanonen grollen hinter dem Horizont\nwie ferne, unermüdliche Gewitter,\ndoch kein Regen fällt,\nnur Asche.\n\nIch gehe durch Straßen,\ndie mich nicht kennen.\nFenster starren mich an\nmit blinden Augen,\nund in jedem Schritt\nzittert ein fremdes Echo,\nals gehöre mein Fuß nicht mehr mir.\n\nDie Welt ist ein verschlossenes Zimmer,\ndessen Schlüssel ich verlor\nin einem Traum aus Kindheit und Licht.\nNun taste ich an kalten Wänden entlang,\nfinde Risse,\nfinde Staub,\ndoch keine Tür.\n\nIn mir aber\npocht ein leiser Schreiber,\nkrümmt sich über das weiße Feld\nwie über ein Schneefeld ohne Spur.\nMit schwarzer Tinte\nziehe ich Linien gegen das Verstummen,\nbaue mir aus Worten\nein dürftiges Dach.\n\nDenn draußen friert die Zeit,\nund Menschen reden\nmit Mündern voll Schatten.\nFreundschaft zerfällt wie dünnes Glas,\nLiebe weht wie Papier im Wind,\nund Gott steht fern\nwie ein verriegelter Bahnhof.\n\nSo schreibe ich.\nNicht um zu hoffen —\nHoffnung ist ein Tier,\ndas mich nicht mehr erkennt —\nsondern um nicht ganz\nzu zerfallen\nin diese fremde,\nunzugängliche Nacht."
+  "samples": [
+    {
+      "sample-id": "ai_kafka_1917_01",
+      "index": 1,
+      "generator": {
+        "created_at": "2026-03-10T11:53:51.048798+00:00",
+        "sample_index": 1,
+        "prompt-id": "prompt_kafka",
+        "prompt_id": "prompt_kafka",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Im Zimmer, das kaum atmet, sitze ich still,\nder Abend hängt bleiern am Fenster.\nDie Straßen rauschen fern wie ein Meer,\ndas mich längst nicht mehr kennt.\n\nMein Tisch ist ein schmaler Zufluchtsort,\nPapier — eine blasse Landschaft.\nDarauf wandern meine Worte\nwie müde Reisende ohne Ziel.\n\nDie Welt draußen spricht eine fremde Sprache.\nIhre Gesichter gleiten an mir vorbei\nwie Schatten über kaltes Wasser,\nohne Name, ohne Erinnerung.\n\nEtwas in mir klopft leise gegen die Rippen,\neine unruhige, tastende Angst,\nals stünde hinter jeder Stunde\neine verschlossene Tür.\n\nDarum schreibe ich.\n\nNicht, weil ich verstehe,\nsondern weil die Tinte\nein dunkler Weg ist,\nauf dem ich mich selbst\nnoch manchmal finde."
+    },
+    {
+      "sample-id": "ai_kafka_1917_02",
+      "index": 2,
+      "generator": {
+        "created_at": "2026-03-10T11:53:52.048831+00:00",
+        "sample_index": 2,
+        "prompt-id": "prompt_kafka",
+        "prompt_id": "prompt_kafka",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Im Zimmer hängt ein müdes Licht,\nals hätte selbst die Lampe Fieber.\nDie Straßen draußen sprechen nicht,\ndie Häuser stehen einander fremd gegenüber.\n\nDie Uhr geht langsam durch die Zeit,\nals taste sie sich durch ein Dunkel.\nEin Schritt, noch einer – Einsamkeit\nsitzt neben mir am Tisch im Winkel.\n\nIch schrieb ein Wort – es war zu schwer,\nals trüge es den Staub der Jahre.\nIch strich es fort. Die Seite leer\nblickte mich an wie eine starre Ware.\n\nDie Welt liegt jenseits meiner Tür,\nverschlossen wie ein kaltes Zimmer.\nIch klopfe leise – sie hört mich nicht.\nVielleicht gehörte ich nie zu ihr.\n\nSo bleibe ich bei Tinte und Papier,\ndie wenigstens geduldig warten.\nIn schwarzen Linien wächst aus mir\nein schmaler, heimlicher Garten."
+    },
+    {
+      "sample-id": "ai_kafka_1917_03",
+      "index": 3,
+      "generator": {
+        "created_at": "2026-03-10T11:53:53.048858+00:00",
+        "sample_index": 3,
+        "prompt-id": "prompt_kafka",
+        "prompt_id": "prompt_kafka",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Im Zimmer, das nach Staub und Schweigen riecht,\nsitze ich zwischen Papier und einer zögernden Lampe.\nDie Nacht ist ein dünnes Glas,\nan dem meine Gedanken frierend lehnen.\n\nDraußen geht die Welt mit schweren Schritten,\nals trüge sie ein Geheimnis,\ndas keiner auszusprechen wagt.\nMan hört nur ihr fernes Atmen\nin den Straßen.\n\nIch aber bin ihr fremd geworden.\nWie ein Brief ohne Adresse\nliege ich zwischen den Tagen.\n\nDie Menschen sprechen, lachen vielleicht,\ndoch ihre Stimmen erreichen mich\nwie Geräusche durch Wasser —\nverzerrt, unverständlich, fern.\n\nUnd so schreibe ich.\n\nNicht aus Mut,\nsondern weil das Schweigen\nzu groß geworden ist.\n\nJedes Wort ist ein kleiner Versuch,\neine Tür in diese Welt zu schlagen,\ndoch hinter jeder Tür\nsteht wieder nur ein Zimmer\nvoller Schatten.\n\nVielleicht ist das Schreiben\nnur ein leiser Beweis,\ndass ich noch da bin —\n\nein flackerndes Zeichen\nim großen, gleichgültigen Dunkel."
+    },
+    {
+      "sample-id": "ai_kafka_1917_04",
+      "index": 4,
+      "generator": {
+        "created_at": "2026-03-10T11:53:54.048884+00:00",
+        "sample_index": 4,
+        "prompt-id": "prompt_kafka",
+        "prompt_id": "prompt_kafka",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "In meinem Zimmer, schmal wie ein Gedanke,\nsteht der Tisch wie ein stiller Zeuge der Nacht.\nDas Fenster hält die Welt auf Abstand,\nals sei sie aus einem anderen Stoff gemacht.\n\nDie Straßen reden in fremden Schritten,\ndoch keines gehört mir, keines ruft.\nIch lausche lange in ihre Richtung\nund höre nur die müde Luft.\n\nIn mir wohnt ein leiser Riss,\nder durch Tage und Stunden geht.\nEr flüstert, dass alles fern geworden\nund niemand meinen Namen versteht.\n\nDarum schreibe ich – zögernd,\nals tastete ich durch einen Traum.\nDie Worte sind kleine, flackernde Lichter\nim unergründlichen, dunklen Raum.\n\nVielleicht wird morgen alles stummer,\nvielleicht verschließt sich jede Tür.\nDoch heute lebt noch eine Zeile\nund atmet heimlich hier bei mir."
+    },
+    {
+      "sample-id": "ai_kafka_1917_05",
+      "index": 5,
+      "generator": {
+        "created_at": "2026-03-10T11:53:55.048909+00:00",
+        "sample_index": 5,
+        "prompt-id": "prompt_kafka",
+        "prompt_id": "prompt_kafka",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Straßen sprechen leise mit sich selbst,\nals fürchteten sie, gehört zu werden.\nIch gehe durch sie wie ein Schatten,\nder seinen Körper verloren hat.\n\nDie Fenster sehen mich an\nmit müden, gelben Augen.\nHinter ihnen leben Menschen,\ndoch ihr Leben erreicht mich nicht.\n\nDie Welt liegt vor mir\nwie ein verschlossenes Buch,\ndessen Schrift ich einst kannte\nund nun nicht mehr lesen kann.\n\nIn meinem Zimmer wächst die Stille\nwie eine zweite Wand.\nIch schreibe Worte in die Nacht,\nals wären sie kleine Feuer.\n\nDoch auch sie wärmen kaum.\nSie zittern nur auf dem Papier,\nwie Hände eines Fremden,\nder meinen Namen trägt."
+    },
+    {
+      "sample-id": "ai_kafka_1917_06",
+      "index": 6,
+      "generator": {
+        "created_at": "2026-03-10T11:53:56.048933+00:00",
+        "sample_index": 6,
+        "prompt-id": "prompt_kafka",
+        "prompt_id": "prompt_kafka",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Stadt atmet schwer in kalter Nacht,\nals hätte sie zu viel von uns gesehen.\nDie Fenster stehen wach, doch ohne Macht,\nund starren stumm auf unser leises Gehen.\n\nDie Schritte hallen fremd durch nasses Pflaster,\nals gehörten sie nicht mehr zu mir.\nIch gehe weiter — doch ich weiß: je rascher,\ndesto weiter fort gerät das Wir.\n\nEin fernes Licht hängt müde über Gassen,\nwie ein Gedanke, der nicht enden will.\nDie Welt scheint mich nur flüchtig zu erfassen\nund lässt mich dann zurück — so leer, so still.\n\nIch schreibe Worte gegen meine Stunden,\nals wären sie ein schwaches Bollwerk nur.\nDenn alles, was ich draußen je gefunden,\nverliert sich bald in ungewisser Spur.\n\nSo sitz ich hier bei blasser Lampenglut\nund lausche meinem fremden Herz im Raum.\nDie Welt bleibt fern — doch was in mir noch ruht,\nist Wort, ist Schatten, ist ein dunkler Traum."
+    },
+    {
+      "sample-id": "ai_kafka_1917_07",
+      "index": 7,
+      "generator": {
+        "created_at": "2026-03-10T11:53:57.048958+00:00",
+        "sample_index": 7,
+        "prompt-id": "prompt_kafka",
+        "prompt_id": "prompt_kafka",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Straßen reden leise mit dem Staub,\ndoch ich verstehe ihre Sprache nicht.\nDie Fenster starren wie verschlossene Augen,\nund irgendwo zerbricht ein fernes Licht.\n\nIch gehe durch den Tag wie durch ein Zimmer,\nin dem man mich vergessen hat zu rufen.\nDie Stunden tropfen langsam von der Uhr\nund sammeln sich wie Regen auf den Stufen.\n\nDie Menschen ziehen an mir still vorüber,\nals wäre ich ein Schatten ohne Grund.\nIhr Lachen fällt wie fremdes Glas zu Boden\nund klirrt mir kalt und hohl im dunklen Mund.\n\nSo schreibe ich — als tastete ein Blinder\nnach einer Tür im unerkannten Raum.\nDie Worte sind mein leiser Atem nur,\nein zitterndes und flüchtiges Vertrauen.\n\nDenn draußen steht die Welt wie eine Mauer,\ngrau, schweigend, ohne Antwort, ohne Sinn.\nUnd doch: in diesen schmalen Zeilen hoffe ich,\ndass ich für einen Augenblick darin."
+    },
+    {
+      "sample-id": "ai_kafka_1917_08",
+      "index": 8,
+      "generator": {
+        "created_at": "2026-03-10T11:53:58.048982+00:00",
+        "sample_index": 8,
+        "prompt-id": "prompt_kafka",
+        "prompt_id": "prompt_kafka",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Straßen sind mir fremd geworden,\nals hätten sie meine Schritte vergessen.\nDie Häuser stehen wie stumme Zeugen,\ndoch keiner kennt meinen Namen.\n\nEin grauer Himmel hängt über den Tagen,\nschwer wie ein ungesagtes Wort.\nIch gehe zwischen Menschen hindurch\nwie ein Schatten ohne Herkunft.\n\nIn mir rauscht ein leiser Aufruhr,\nein Zittern ohne Gestalt.\nDie Gedanken irren durch enge Zimmer\nund finden kein offenes Fenster.\n\nDarum schreibe ich.\nMit zögernder Hand halte ich fest,\nwas sonst im Dunkel versinkt.\n\nDie Feder ist ein schwaches Licht\nin einer unzugänglichen Welt,\nund jedes Wort\nein Schritt\ndurch fremde Nacht."
+    },
+    {
+      "sample-id": "ai_kafka_1917_09",
+      "index": 9,
+      "generator": {
+        "created_at": "2026-03-10T11:53:59.049006+00:00",
+        "sample_index": 9,
+        "prompt-id": "prompt_kafka",
+        "prompt_id": "prompt_kafka",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "Die Straßen tragen fremde Namen,\nund keiner ruft den meinen mehr.\nIch gehe zwischen blinden Fenstern,\nals wäre ich ein Schatten nur.\n\nDie Tage hängen grau im Zimmer,\nwie Mäntel ohne ihren Herrn.\nIch lausche meinem eigenen Schrittecho\nund erschrecke vor dem Klang.\n\nDie Welt — ein verschlossenes Haus,\nin dessen Fluren ich mich irre.\nJede Tür verspricht ein Zimmer,\ndoch jede öffnet nur die Nacht.\n\nSo schreibe ich mit zitternder Feder\nan den Rand der stummen Zeit:\nVielleicht liest einst ein fremdes Auge,\nwas ich selbst nicht zu verstehen wage."
+    },
+    {
+      "sample-id": "ai_kafka_1917_10",
+      "index": 10,
+      "generator": {
+        "created_at": "2026-03-10T11:54:00.049029+00:00",
+        "sample_index": 10,
+        "prompt-id": "prompt_kafka",
+        "prompt_id": "prompt_kafka",
+        "backend": "simulated_openai",
+        "model": "gpt-4o-mini",
+        "temperature": 0.8,
+        "max_tokens": 500
+      },
+      "text": "In meinem Zimmer flüstert Staub\nvon Tagen, die nicht mir gehören.\nDie Uhr schlägt fremd, als wäre Zeit\nnur ein Gerücht in kalten Ohren.\n\nDie Straßen atmen schweren Rauch,\nGesichter treiben wie verlorne Blätter.\nIch gehe unter ihnen her\nund kenne keines dieser Wetter.\n\nEin leiser Riß geht durch mein Herz,\nals hätte mich die Welt vergessen.\nIch schreibe Worte in das Dunkel,\num meine Stille zu vermessen.\n\nDoch jedes Wort ist nur ein Schritt\ndurch einen Wald aus bleichen Fragen.\nUnd irgendwo, sehr fern von mir,\nmuß eine andere Wirklichkeit noch schlagen.\n\nBis dahin sitze ich und höre\ndem Zittern meiner Feder zu—\nAls wäre sie der letzte Freund\nin dieser unbewohnbaren Ruh."
+    }
+  ],
+  "text": "Im Zimmer, das kaum atmet, sitze ich still,\nder Abend hängt bleiern am Fenster.\nDie Straßen rauschen fern wie ein Meer,\ndas mich längst nicht mehr kennt.\n\nMein Tisch ist ein schmaler Zufluchtsort,\nPapier — eine blasse Landschaft.\nDarauf wandern meine Worte\nwie müde Reisende ohne Ziel.\n\nDie Welt draußen spricht eine fremde Sprache.\nIhre Gesichter gleiten an mir vorbei\nwie Schatten über kaltes Wasser,\nohne Name, ohne Erinnerung.\n\nEtwas in mir klopft leise gegen die Rippen,\neine unruhige, tastende Angst,\nals stünde hinter jeder Stunde\neine verschlossene Tür.\n\nDarum schreibe ich.\n\nNicht, weil ich verstehe,\nsondern weil die Tinte\nein dunkler Weg ist,\nauf dem ich mich selbst\nnoch manchmal finde.",
+  "texts": [
+    "Im Zimmer, das kaum atmet, sitze ich still,\nder Abend hängt bleiern am Fenster.\nDie Straßen rauschen fern wie ein Meer,\ndas mich längst nicht mehr kennt.\n\nMein Tisch ist ein schmaler Zufluchtsort,\nPapier — eine blasse Landschaft.\nDarauf wandern meine Worte\nwie müde Reisende ohne Ziel.\n\nDie Welt draußen spricht eine fremde Sprache.\nIhre Gesichter gleiten an mir vorbei\nwie Schatten über kaltes Wasser,\nohne Name, ohne Erinnerung.\n\nEtwas in mir klopft leise gegen die Rippen,\neine unruhige, tastende Angst,\nals stünde hinter jeder Stunde\neine verschlossene Tür.\n\nDarum schreibe ich.\n\nNicht, weil ich verstehe,\nsondern weil die Tinte\nein dunkler Weg ist,\nauf dem ich mich selbst\nnoch manchmal finde.",
+    "Im Zimmer hängt ein müdes Licht,\nals hätte selbst die Lampe Fieber.\nDie Straßen draußen sprechen nicht,\ndie Häuser stehen einander fremd gegenüber.\n\nDie Uhr geht langsam durch die Zeit,\nals taste sie sich durch ein Dunkel.\nEin Schritt, noch einer – Einsamkeit\nsitzt neben mir am Tisch im Winkel.\n\nIch schrieb ein Wort – es war zu schwer,\nals trüge es den Staub der Jahre.\nIch strich es fort. Die Seite leer\nblickte mich an wie eine starre Ware.\n\nDie Welt liegt jenseits meiner Tür,\nverschlossen wie ein kaltes Zimmer.\nIch klopfe leise – sie hört mich nicht.\nVielleicht gehörte ich nie zu ihr.\n\nSo bleibe ich bei Tinte und Papier,\ndie wenigstens geduldig warten.\nIn schwarzen Linien wächst aus mir\nein schmaler, heimlicher Garten.",
+    "Im Zimmer, das nach Staub und Schweigen riecht,\nsitze ich zwischen Papier und einer zögernden Lampe.\nDie Nacht ist ein dünnes Glas,\nan dem meine Gedanken frierend lehnen.\n\nDraußen geht die Welt mit schweren Schritten,\nals trüge sie ein Geheimnis,\ndas keiner auszusprechen wagt.\nMan hört nur ihr fernes Atmen\nin den Straßen.\n\nIch aber bin ihr fremd geworden.\nWie ein Brief ohne Adresse\nliege ich zwischen den Tagen.\n\nDie Menschen sprechen, lachen vielleicht,\ndoch ihre Stimmen erreichen mich\nwie Geräusche durch Wasser —\nverzerrt, unverständlich, fern.\n\nUnd so schreibe ich.\n\nNicht aus Mut,\nsondern weil das Schweigen\nzu groß geworden ist.\n\nJedes Wort ist ein kleiner Versuch,\neine Tür in diese Welt zu schlagen,\ndoch hinter jeder Tür\nsteht wieder nur ein Zimmer\nvoller Schatten.\n\nVielleicht ist das Schreiben\nnur ein leiser Beweis,\ndass ich noch da bin —\n\nein flackerndes Zeichen\nim großen, gleichgültigen Dunkel.",
+    "In meinem Zimmer, schmal wie ein Gedanke,\nsteht der Tisch wie ein stiller Zeuge der Nacht.\nDas Fenster hält die Welt auf Abstand,\nals sei sie aus einem anderen Stoff gemacht.\n\nDie Straßen reden in fremden Schritten,\ndoch keines gehört mir, keines ruft.\nIch lausche lange in ihre Richtung\nund höre nur die müde Luft.\n\nIn mir wohnt ein leiser Riss,\nder durch Tage und Stunden geht.\nEr flüstert, dass alles fern geworden\nund niemand meinen Namen versteht.\n\nDarum schreibe ich – zögernd,\nals tastete ich durch einen Traum.\nDie Worte sind kleine, flackernde Lichter\nim unergründlichen, dunklen Raum.\n\nVielleicht wird morgen alles stummer,\nvielleicht verschließt sich jede Tür.\nDoch heute lebt noch eine Zeile\nund atmet heimlich hier bei mir.",
+    "Die Straßen sprechen leise mit sich selbst,\nals fürchteten sie, gehört zu werden.\nIch gehe durch sie wie ein Schatten,\nder seinen Körper verloren hat.\n\nDie Fenster sehen mich an\nmit müden, gelben Augen.\nHinter ihnen leben Menschen,\ndoch ihr Leben erreicht mich nicht.\n\nDie Welt liegt vor mir\nwie ein verschlossenes Buch,\ndessen Schrift ich einst kannte\nund nun nicht mehr lesen kann.\n\nIn meinem Zimmer wächst die Stille\nwie eine zweite Wand.\nIch schreibe Worte in die Nacht,\nals wären sie kleine Feuer.\n\nDoch auch sie wärmen kaum.\nSie zittern nur auf dem Papier,\nwie Hände eines Fremden,\nder meinen Namen trägt.",
+    "Die Stadt atmet schwer in kalter Nacht,\nals hätte sie zu viel von uns gesehen.\nDie Fenster stehen wach, doch ohne Macht,\nund starren stumm auf unser leises Gehen.\n\nDie Schritte hallen fremd durch nasses Pflaster,\nals gehörten sie nicht mehr zu mir.\nIch gehe weiter — doch ich weiß: je rascher,\ndesto weiter fort gerät das Wir.\n\nEin fernes Licht hängt müde über Gassen,\nwie ein Gedanke, der nicht enden will.\nDie Welt scheint mich nur flüchtig zu erfassen\nund lässt mich dann zurück — so leer, so still.\n\nIch schreibe Worte gegen meine Stunden,\nals wären sie ein schwaches Bollwerk nur.\nDenn alles, was ich draußen je gefunden,\nverliert sich bald in ungewisser Spur.\n\nSo sitz ich hier bei blasser Lampenglut\nund lausche meinem fremden Herz im Raum.\nDie Welt bleibt fern — doch was in mir noch ruht,\nist Wort, ist Schatten, ist ein dunkler Traum.",
+    "Die Straßen reden leise mit dem Staub,\ndoch ich verstehe ihre Sprache nicht.\nDie Fenster starren wie verschlossene Augen,\nund irgendwo zerbricht ein fernes Licht.\n\nIch gehe durch den Tag wie durch ein Zimmer,\nin dem man mich vergessen hat zu rufen.\nDie Stunden tropfen langsam von der Uhr\nund sammeln sich wie Regen auf den Stufen.\n\nDie Menschen ziehen an mir still vorüber,\nals wäre ich ein Schatten ohne Grund.\nIhr Lachen fällt wie fremdes Glas zu Boden\nund klirrt mir kalt und hohl im dunklen Mund.\n\nSo schreibe ich — als tastete ein Blinder\nnach einer Tür im unerkannten Raum.\nDie Worte sind mein leiser Atem nur,\nein zitterndes und flüchtiges Vertrauen.\n\nDenn draußen steht die Welt wie eine Mauer,\ngrau, schweigend, ohne Antwort, ohne Sinn.\nUnd doch: in diesen schmalen Zeilen hoffe ich,\ndass ich für einen Augenblick darin.",
+    "Die Straßen sind mir fremd geworden,\nals hätten sie meine Schritte vergessen.\nDie Häuser stehen wie stumme Zeugen,\ndoch keiner kennt meinen Namen.\n\nEin grauer Himmel hängt über den Tagen,\nschwer wie ein ungesagtes Wort.\nIch gehe zwischen Menschen hindurch\nwie ein Schatten ohne Herkunft.\n\nIn mir rauscht ein leiser Aufruhr,\nein Zittern ohne Gestalt.\nDie Gedanken irren durch enge Zimmer\nund finden kein offenes Fenster.\n\nDarum schreibe ich.\nMit zögernder Hand halte ich fest,\nwas sonst im Dunkel versinkt.\n\nDie Feder ist ein schwaches Licht\nin einer unzugänglichen Welt,\nund jedes Wort\nein Schritt\ndurch fremde Nacht.",
+    "Die Straßen tragen fremde Namen,\nund keiner ruft den meinen mehr.\nIch gehe zwischen blinden Fenstern,\nals wäre ich ein Schatten nur.\n\nDie Tage hängen grau im Zimmer,\nwie Mäntel ohne ihren Herrn.\nIch lausche meinem eigenen Schrittecho\nund erschrecke vor dem Klang.\n\nDie Welt — ein verschlossenes Haus,\nin dessen Fluren ich mich irre.\nJede Tür verspricht ein Zimmer,\ndoch jede öffnet nur die Nacht.\n\nSo schreibe ich mit zitternder Feder\nan den Rand der stummen Zeit:\nVielleicht liest einst ein fremdes Auge,\nwas ich selbst nicht zu verstehen wage.",
+    "In meinem Zimmer flüstert Staub\nvon Tagen, die nicht mir gehören.\nDie Uhr schlägt fremd, als wäre Zeit\nnur ein Gerücht in kalten Ohren.\n\nDie Straßen atmen schweren Rauch,\nGesichter treiben wie verlorne Blätter.\nIch gehe unter ihnen her\nund kenne keines dieser Wetter.\n\nEin leiser Riß geht durch mein Herz,\nals hätte mich die Welt vergessen.\nIch schreibe Worte in das Dunkel,\num meine Stille zu vermessen.\n\nDoch jedes Wort ist nur ein Schritt\ndurch einen Wald aus bleichen Fragen.\nUnd irgendwo, sehr fern von mir,\nmuß eine andere Wirklichkeit noch schlagen.\n\nBis dahin sitze ich und höre\ndem Zittern meiner Feder zu—\nAls wäre sie der letzte Freund\nin dieser unbewohnbaren Ruh."
+  ]
 }
